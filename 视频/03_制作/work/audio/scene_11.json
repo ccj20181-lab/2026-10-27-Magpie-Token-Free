@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "Magpie 做的事，就是在中间加一个总控台。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

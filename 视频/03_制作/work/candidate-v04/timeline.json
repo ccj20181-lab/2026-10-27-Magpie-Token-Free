@@ -1,0 +1,212 @@
+[
+  {
+    "id": "scene_01",
+    "start_frame": 0,
+    "duration_frames": 67,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_02",
+    "start_frame": 67,
+    "duration_frames": 110,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_03",
+    "start_frame": 177,
+    "duration_frames": 158,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_04",
+    "start_frame": 335,
+    "duration_frames": 212,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_05",
+    "start_frame": 547,
+    "duration_frames": 160,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_06",
+    "start_frame": 707,
+    "duration_frames": 123,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_07",
+    "start_frame": 830,
+    "duration_frames": 105,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_08",
+    "start_frame": 935,
+    "duration_frames": 97,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_09",
+    "start_frame": 1032,
+    "duration_frames": 179,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_10",
+    "start_frame": 1211,
+    "duration_frames": 146,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_11",
+    "start_frame": 1357,
+    "duration_frames": 94,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_12",
+    "start_frame": 1451,
+    "duration_frames": 115,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_13",
+    "start_frame": 1566,
+    "duration_frames": 151,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_14",
+    "start_frame": 1717,
+    "duration_frames": 196,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_15",
+    "start_frame": 1913,
+    "duration_frames": 146,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_16",
+    "start_frame": 2059,
+    "duration_frames": 142,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_17",
+    "start_frame": 2201,
+    "duration_frames": 51,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_18",
+    "start_frame": 2252,
+    "duration_frames": 123,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_19",
+    "start_frame": 2375,
+    "duration_frames": 171,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_20",
+    "start_frame": 2546,
+    "duration_frames": 102,
+    "visual_type": "real_recording"
+  },
+  {
+    "id": "scene_21",
+    "start_frame": 2648,
+    "duration_frames": 168,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_22",
+    "start_frame": 2816,
+    "duration_frames": 229,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_23",
+    "start_frame": 3045,
+    "duration_frames": 151,
+    "visual_type": "motion_effect"
+  },
+  {
+    "id": "scene_24",
+    "start_frame": 3196,
+    "duration_frames": 243,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_25",
+    "start_frame": 3439,
+    "duration_frames": 193,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_26",
+    "start_frame": 3632,
+    "duration_frames": 162,
+    "visual_type": "real_recording"
+  },
+  {
+    "id": "scene_27",
+    "start_frame": 3794,
+    "duration_frames": 223,
+    "visual_type": "real_recording"
+  },
+  {
+    "id": "scene_28",
+    "start_frame": 4017,
+    "duration_frames": 235,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_29",
+    "start_frame": 4252,
+    "duration_frames": 150,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_30",
+    "start_frame": 4402,
+    "duration_frames": 102,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_31",
+    "start_frame": 4504,
+    "duration_frames": 195,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_32",
+    "start_frame": 4699,
+    "duration_frames": 134,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_33",
+    "start_frame": 4833,
+    "duration_frames": 124,
+    "visual_type": "real_screenshot"
+  },
+  {
+    "id": "scene_34",
+    "start_frame": 4957,
+    "duration_frames": 175,
+    "visual_type": "real_recording"
+  },
+  {
+    "id": "scene_35",
+    "start_frame": 5132,
+    "duration_frames": 52,
+    "visual_type": "motion_effect"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "scene_01",
+    "start": 0,
+    "duration": 67,
+    "samples": [
+      5,
+      33,
+      56
+    ]
+  },
+  {
+    "id": "scene_06",
+    "start": 67,
+    "duration": 123,
+    "samples": [
+      72,
+      128,
+      171
+    ]
+  },
+  {
+    "id": "scene_09",
+    "start": 190,
+    "duration": 179,
+    "samples": [
+      195,
+      279,
+      342
+    ]
+  },
+  {
+    "id": "scene_11",
+    "start": 369,
+    "duration": 94,
+    "samples": [
+      374,
+      416,
+      448
+    ]
+  },
+  {
+    "id": "scene_12",
+    "start": 463,
+    "duration": 115,
+    "samples": [
+      468,
+      520,
+      560
+    ]
+  },
+  {
+    "id": "scene_13",
+    "start": 578,
+    "duration": 151,
+    "samples": [
+      583,
+      653,
+      706
+    ]
+  },
+  {
+    "id": "scene_14",
+    "start": 729,
+    "duration": 196,
+    "samples": [
+      734,
+      827,
+      895
+    ]
+  },
+  {
+    "id": "scene_15",
+    "start": 925,
+    "duration": 146,
+    "samples": [
+      930,
+      998,
+      1049
+    ]
+  },
+  {
+    "id": "scene_16",
+    "start": 1071,
+    "duration": 142,
+    "samples": [
+      1076,
+      1142,
+      1191
+    ]
+  },
+  {
+    "id": "scene_17",
+    "start": 1213,
+    "duration": 51,
+    "samples": [
+      1218,
+      1238,
+      1256
+    ]
+  },
+  {
+    "id": "scene_18",
+    "start": 1264,
+    "duration": 123,
+    "samples": [
+      1269,
+      1325,
+      1368
+    ]
+  },
+  {
+    "id": "scene_23",
+    "start": 1387,
+    "duration": 151,
+    "samples": [
+      1392,
+      1462,
+      1515
+    ]
+  },
+  {
+    "id": "scene_35",
+    "start": 1538,
+    "duration": 150,
+    "samples": [
+      1543,
+      1613,
+      1665
+    ]
+  }
+]

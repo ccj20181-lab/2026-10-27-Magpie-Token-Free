@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "episode": 4,
+  "brand_profile": "caishu_ai_lab",
+  "formal": true,
+  "material_mix": {
+    "real": 22,
+    "motion": 13,
+    "ai_generated": 0
+  },
+  "narration_source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v02.txt",
+  "narration_sha256": "d2717c89fb1ad4ad1e412572a33b8565e5157a98c08772a51eb51e84e2c6ed4a",
+  "props": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v01/remotion_props.json",
+  "props_sha256": "aaaf07353b871e72ee625bbb4d0593243f338b4c0d5db16686d65c3fb9fd4b14",
+  "capture_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/capture_manifest.json",
+  "source_snapshot": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v01/source-snapshot",
+  "audio_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/audio_manifest.json",
+  "bgm": {
+    "path": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/music/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+    "volume": 0.12,
+    "durationSeconds": 150.508,
+    "sourcePath": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/共享素材/音频/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+    "sha256": "fefedeea496d10ad389a8aab0ea6f741f11cd27f7002a21b46fe5378221a0e86",
+    "fadeInSeconds": 0.8,
+    "fadeOutSeconds": 1.6
+  },
+  "postproduction": {
+    "uniform_mix_gain_db": 5,
+    "picture_stream_unchanged": true,
+    "integrated_loudness_lufs": -19.5,
+    "true_peak_dbfs": -1.9
+  },
+  "delivery": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/delivery.json",
+  "qa_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/qa_report.json",
+  "video_sha256": "5da30afcedd4968177d6b5d50ce6639b45adf3fce549107742b49fac023e4dbc",
+  "status": "delivered_local_not_published"
+}

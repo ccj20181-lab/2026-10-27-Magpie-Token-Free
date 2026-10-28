@@ -1,0 +1,28 @@
+{
+  "file": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.gif",
+  "source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/09-Harness-WorkBuddy-真实输出-v01.mp4",
+  "source_sha256": "1ad8bc8be9d45a50356d0cfcdfcf64b3bf5310b53322b4a823c08931060f7040",
+  "source_start": 12.0,
+  "source_duration": 23.0,
+  "speed": 1.0,
+  "fps": 3,
+  "crop": [
+    390,
+    80,
+    2130,
+    1640
+  ],
+  "frames": 69,
+  "size": [
+    1080,
+    970
+  ],
+  "duration_ms": 23000,
+  "loop": 0,
+  "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py",
+  "policy": "/Users/henry/Desktop/财叔 AI Lab/.agents/standards/caishu-wechat-article.json",
+  "policy_sha256": "a0eae2f04c1ba180d97387e73746d062fc912c7e6aff4e7b132e01de8ddfc73f",
+  "border_errors": [],
+  "bytes": 9076962,
+  "sha256": "134adfd3b779c407601ef3db3f7abc2bf82b6b476a458fc7d6c9dcefa648252c"
+}

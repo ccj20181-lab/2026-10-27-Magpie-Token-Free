@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "ok": true,
+  "entry_id": "caishu-ai-lab:wechat-article:031",
+  "status": "push_requested",
+  "event": "push_requested",
+  "version": 1,
+  "created_version": true,
+  "source_sha256": "21908fe53ce0844d244659d98ee318f5f9a86c3af45b9249263523686ceb297e",
+  "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v06.md",
+  "assets": [
+    {
+      "role": "manifest",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/04_发布/当前/release-manifest.json",
+      "sha256": "ba0a53dbde486a63a37690a24056f1e3b0bd602b87e21e085a72b8cf5eadea2f",
+      "missing": false,
+      "file": "assets/v1/000-ba0a53dbde486a63.json"
+    },
+    {
+      "role": "html",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/03_排版/v06-r01/正文_排版_财叔蓝(caishu-blue).html",
+      "sha256": "bf62fb567cb2b77ff8663481f718d0537109297814af5bd9be4050c6b8f5608b",
+      "missing": false,
+      "file": "assets/v1/001-bf62fb567cb2b77f.html"
+    },
+    {
+      "role": "cover",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/封面/封面-v01.png",
+      "sha256": "11d0b402732f17c0df63e8f19755e168daacf4d383b6edd6bc704aa9339fa052",
+      "missing": false,
+      "file": "assets/v1/002-11d0b402732f17c0.png"
+    },
+    {
+      "role": "cover:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/封面-AI原图-v01.png",
+      "sha256": "a15e0f47726f5fbd8ba49bd8f0bfc1f396948a5d6f47ad7499f355a3e454b079",
+      "missing": false,
+      "file": "assets/v1/003-a15e0f47726f5fbd.png"
+    },
+    {
+      "role": "body_image:0",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01a-Harness-多来源模型-v02.png",
+      "sha256": "f4364968067b22832e1226ecbff2b478aa7de8e65e0789dd3cbfb064c41ea6e1",
+      "missing": false,
+      "file": "assets/v1/004-f4364968067b2283.png"
+    },
+    {
+      "role": "body_image:0:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01-Harness-模型列表-v01.png",
+      "sha256": "4319e90fb7f78879e15e6cc8c14c3c7e8998a0dc15199f7867c5c6e68626dcdb",
+      "missing": false,
+      "file": "assets/v1/005-4319e90fb7f78879.png"
+    },
+    {
+      "role": "body_image:1",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01b-Harness-WorkBuddy与Step-v02.png",
+      "sha256": "f02bb95c31cc264f97518b5ed705c63ed26d36204f9183c0126d59fa8aee850c",
+      "missing": false,
+      "file": "assets/v1/006-f02bb95c31cc264f.png"
+    },
+    {
+      "role": "body_image:1:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01b-Harness-模型列表下半部-v01.png",
+      "sha256": "3bded87633581522dfa7ba897812083dad7f9ba9d24a1e23aba1170a786871c5",
+      "missing": false,
+      "file": "assets/v1/007-3bded87633581522.png"
+    },
+    {
+      "role": "body_image:2",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/03-Magpie-Agents-v01.png",
+      "sha256": "b1b84ca4696c7de3d34d8a59d4610e94572d87533d4c2b8c9ae39a8f4e72a558",
+      "missing": false,
+      "file": "assets/v1/008-b1b84ca4696c7de3.png"
+    },
+    {
+      "role": "body_image:2:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/03-Magpie-Agents-v01.png",
+      "sha256": "a639da480271a69b4c2bf9a5e70764c976bac0e97d8201340e190ca776f1098c",
+      "missing": false,
+      "file": "assets/v1/009-a639da480271a69b.png"
+    },
+    {
+      "role": "body_image:3",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/04-模型转接原理-v01.png",
+      "sha256": "4682316e09ab14c56a97044612dea2e022aee8e24045aa78595d4fc9be25f761",
+      "missing": false,
+      "file": "assets/v1/010-4682316e09ab14c5.png"
+    },
+    {
+      "role": "body_image:3:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/04-模型转接原理-AI原图-v01.png",
+      "sha256": "c567b870016dd50b940d005ae06dbb205ba5d449c38d767beea0ea3c1db08076",
+      "missing": false,
+      "file": "assets/v1/011-c567b870016dd50b.png"
+    },
+    {
+      "role": "body_image:4",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/05-Magpie-Providers-v01.png",
+      "sha256": "ad9692db0931479327663cbc3c0a20a2ed7aab677c32af30e83f2a7a7c3414f3",
+      "missing": false,
+      "file": "assets/v1/012-ad9692db09314793.png"
+    },
+    {
+      "role": "body_image:4:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/05-Magpie-Providers-v01.png",
+      "sha256": "6a4b07fc9e7ca0f2f13313e8c310db09ba9de7b0f20728935de2d2b6a6d13578",
+      "missing": false,
+      "file": "assets/v1/013-6a4b07fc9e7ca0f2.png"
+    },
+    {
+      "role": "body_image:5",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/06-Magpie-Routing-v01.png",
+      "sha256": "6933533b0a5d1a474cd8ae1ea984287e352b04a1a28f69a975036a0c6e00219f",
+      "missing": false,
+      "file": "assets/v1/014-6933533b0a5d1a47.png"
+    },
+    {
+      "role": "body_image:5:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/06-Magpie-Routing-v01.png",
+      "sha256": "34ee042f16a907ba0ff70d4180c5b43169fae99bdcf90fed3563c61bd5be6416",
+      "missing": false,
+      "file": "assets/v1/015-34ee042f16a907ba.png"
+    },
+    {
+      "role": "body_image:6",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/07-Magpie-Plugins-v01.png",
+      "sha256": "ad8e70f4d1874eddc2a89faee822551a97e318e58a46bbebf452d30bb9cfe2b2",
+      "missing": false,
+      "file": "assets/v1/016-ad8e70f4d1874edd.png"
+    },
+    {
+      "role": "body_image:6:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/07-Magpie-Plugins-v01.png",
+      "sha256": "e0377d79fcb6d0cda02a840cde74afd955fcb40dc31ecaa26423db05706caf76",
+      "missing": false,
+      "file": "assets/v1/017-e0377d79fcb6d0cd.png"
+    },
+    {
+      "role": "body_image:7",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08a-WorkBuddy-多账号-v01.png",
+      "sha256": "f7ec0b40b7cbf181e719ba123946eb0de32438a138c544b8bed91b7d2d7051a9",
+      "missing": false,
+      "file": "assets/v1/018-f7ec0b40b7cbf181.png"
+    },
+    {
+      "role": "body_image:7:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08a-WorkBuddy-多账号-v01.png",
+      "sha256": "9e13a98536cfa2cfcb2e1875a27d3c873171d471c1311edd8d8fc66efbc83ede",
+      "missing": false,
+      "file": "assets/v1/019-9e13a98536cfa2cf.png"
+    },
+    {
+      "role": "body_image:8",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08b-WorkBuddyAI-多账号-v01.png",
+      "sha256": "5a42d0bbc0c097f019004c52d30828cd9f8546104fb46c8c1c67bbe013f1267b",
+      "missing": false,
+      "file": "assets/v1/020-5a42d0bbc0c097f0.png"
+    },
+    {
+      "role": "body_image:8:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08b-WorkBuddyAI-多账号-v01.png",
+      "sha256": "f050df368bc706fd73064637e11924c2afb1110c0df49c1badab26b597e9c5f3",
+      "missing": false,
+      "file": "assets/v1/021-f050df368bc706fd.png"
+    },
+    {
+      "role": "body_image:9",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.gif",
+      "sha256": "134adfd3b779c407601ef3db3f7abc2bf82b6b476a458fc7d6c9dcefa648252c",
+      "missing": false,
+      "file": "assets/v1/022-134adfd3b779c407.gif"
+    },
+    {
+      "role": "body_image:9:source",
+      "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/09-Harness-WorkBuddy-真实输出-v01.mp4",
+      "sha256": "1ad8bc8be9d45a50356d0cfcdfcf64b3bf5310b53322b4a823c08931060f7040",
+      "missing": false,
+      "file": "assets/v1/023-1ad8bc8be9d45a50.mp4"
+    }
+  ],
+  "assets_digest": "d42fbb197afa6c5470f0f63dbaff144e67069d6e0ce2026c3bb7d0ed7211fe20",
+  "archived_file": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库/01-公众号文章/财叔AI-Lab/031-真神器！有了-Magpie，我真的-Token-自由了！/正文.md",
+  "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+  "archived_at": "2026-10-27T21:23:13+08:00",
+  "knowledge_network": {
+    "ok": true,
+    "build": {
+      "ok": true,
+      "vaults": [
+        {
+          "ok": true,
+          "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+          "entries": 39,
+          "relation_cards": 39,
+          "nodes": 6,
+          "mocs_and_hubs": 3,
+          "synthesis_queue": {
+            "ok": true,
+            "pending_count": 39,
+            "path": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库/10-知识网络/90-待确认关系/知识待提炼队列.md"
+          }
+        }
+      ]
+    },
+    "lint": {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+      "profile": "caishu",
+      "entries": 39,
+      "relation_cards": 39,
+      "knowledge_nodes": 6,
+      "broken_links": 0,
+      "forbidden_links": 0,
+      "issues": [],
+      "warnings": []
+    }
+  }
+}

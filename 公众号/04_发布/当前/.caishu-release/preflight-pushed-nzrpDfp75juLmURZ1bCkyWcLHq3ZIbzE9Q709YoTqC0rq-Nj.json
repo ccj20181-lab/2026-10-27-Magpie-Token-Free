@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "ok": true,
+  "checked_at": "2026-10-28T07:53:35+08:00",
+  "manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/04_发布/当前/release-manifest.json",
+  "policy": "/Users/henry/Desktop/财叔 AI Lab/.agents/standards/caishu-wechat-article.json",
+  "brand_id": "caishu-ai-lab",
+  "theme_id": "caishu-blue",
+  "image_count": 11,
+  "hashes": {
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/04_发布/当前/release-manifest.json": "31aa878f313f7a258c9a72fefa5f0c4d5670968269ec1f2e045bd9b1cace4699",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v06.md": "21908fe53ce0844d244659d98ee318f5f9a86c3af45b9249263523686ceb297e",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/03_排版/v06-r02/正文_排版_财叔蓝(caishu-blue).html": "bf62fb567cb2b77ff8663481f718d0537109297814af5bd9be4050c6b8f5608b",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/封面/封面-v01.png": "11d0b402732f17c0df63e8f19755e168daacf4d383b6edd6bc704aa9339fa052",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01a-Harness-多来源模型-v02.png": "f4364968067b22832e1226ecbff2b478aa7de8e65e0789dd3cbfb064c41ea6e1",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01b-Harness-WorkBuddy与Step-v02.png": "f02bb95c31cc264f97518b5ed705c63ed26d36204f9183c0126d59fa8aee850c",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/03-Magpie-Agents-v01.png": "b1b84ca4696c7de3d34d8a59d4610e94572d87533d4c2b8c9ae39a8f4e72a558",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/04-模型转接原理-v01.png": "4682316e09ab14c56a97044612dea2e022aee8e24045aa78595d4fc9be25f761",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/05-Magpie-Providers-v01.png": "ad9692db0931479327663cbc3c0a20a2ed7aab677c32af30e83f2a7a7c3414f3",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/06-Magpie-Routing-v01.png": "6933533b0a5d1a474cd8ae1ea984287e352b04a1a28f69a975036a0c6e00219f",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/07-Magpie-Plugins-v01.png": "ad8e70f4d1874eddc2a89faee822551a97e318e58a46bbebf452d30bb9cfe2b2",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08a-WorkBuddy-多账号-v01.png": "f7ec0b40b7cbf181e719ba123946eb0de32438a138c544b8bed91b7d2d7051a9",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08b-WorkBuddyAI-多账号-v01.png": "5a42d0bbc0c097f019004c52d30828cd9f8546104fb46c8c1c67bbe013f1267b",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.gif": "134adfd3b779c407601ef3db3f7abc2bf82b6b476a458fc7d6c9dcefa648252c"
+  },
+  "platform_lint": "📋 公众号 HTML 合规校验: /Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/03_排版/v06-r02/正文_排版_财叔蓝(caishu-blue).html\n   span leaf 包裹: 135 处\n\n✅ 完全合规，可直接粘贴到公众号编辑器",
+  "errors": []
+}

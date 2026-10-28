@@ -1,0 +1,979 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "narration_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/narration.confirmed.json",
+  "narration_sha256": "8838341b0b8c28e293f4ea1135e6be42697b284cf0758c37795edc84e89c97ca",
+  "source_article_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v05.md",
+  "brand_profile": "caishu_ai_lab",
+  "episode": "4",
+  "motion_style": "caishu-editorial-v1",
+  "scenes": [
+    {
+      "id": "scene_01",
+      "narration": "兄弟们，这次真的 Token 自由了！",
+      "audience_takeaway": "制造结果感",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "开场直接展示权益可以换入口使用",
+      "content_description": "Token从受限客户端中释放并连接两个Agent",
+      "effect": {
+        "id": "magpie_hook",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_02",
+      "narration": "最近我用上了一个真神器，叫 Magpie，越用越上头。",
+      "audience_takeaway": "交代本期神器与实际结果",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "本次原生采集的Magpie Agent总览，多个Agent已连接及模型选项",
+      "capture_request_id": "native-agents-still",
+      "capture_request": {
+        "purpose": "本次原生采集的Magpie Agent总览，多个Agent已连接及模型选项",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Magpie真实主界面与连接状态"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-agents-still",
+      "full_window_first": true,
+      "display_sequence": [
+        {
+          "fromFrame": 0,
+          "assetPath": "magpie-04-revision-v02/native-agents-still.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 66,
+          "assetPath": "magpie-04-revision-v02/article-providers.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        }
+      ],
+      "source_camera": null
+    },
+    {
+      "id": "scene_03",
+      "narration": "它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。",
+      "audience_takeaway": "用真实模型列表证明结果",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "完整供应商页面接续开场，7秒切至完整路由页面，9.7秒切至完整Harness桌面并框出模型菜单；后续使用同一张截图推进。",
+      "capture_request_id": "article-providers",
+      "capture_request": {
+        "purpose": "真实Providers列表显示Codex、Grok、WorkBuddy、WorkBuddy AI、Antigravity与订阅状态，账号已在源画面模糊",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Harness真实模型菜单，保留来源provider"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-providers",
+      "full_window_first": true,
+      "display_sequence": [
+        {
+          "fromFrame": 0,
+          "assetPath": "magpie-04-revision-v02/article-providers.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 33,
+          "assetPath": "magpie-04-revision-v02/article-routing.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 114,
+          "assetPath": "magpie-04-revision-v02/article-models-a.png",
+          "sourceWidth": 2560,
+          "sourceHeight": 1640,
+          "sourceHighlights": [
+            {
+              "rect": [
+                1300,
+                180,
+                610,
+                790
+              ],
+              "color": "#D93232",
+              "strokeWidth": 5
+            }
+          ],
+          "sourceRedactions": []
+        }
+      ],
+      "source_camera": null
+    },
+    {
+      "id": "scene_04",
+      "narration": "现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。",
+      "audience_takeaway": "用真实模型列表证明结果",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "接续上一幕同一张完整Harness截图；先保留整体，再随“打开模型列表”连续运镜放大菜单，保持到“想用哪个就用哪个”。",
+      "capture_request_id": "article-models-a",
+      "capture_request": {
+        "purpose": "完整Harness窗口，实际模型列表显示多个来源",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "模型菜单展开与滚动，显示多个厂商"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-models-a",
+      "source_start_seconds": 7.8,
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": {
+        "targetRect": [
+          1240,
+          135,
+          760,
+          940
+        ],
+        "fromFrame": 33,
+        "toFrame": 78
+      }
+    },
+    {
+      "id": "scene_05",
+      "narration": "而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。",
+      "audience_takeaway": "用真实模型列表证明结果",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "Magpie中Codex已接入状态和15模型来源分组；不是Codex本体截图",
+      "capture_request_id": "article-codex-config",
+      "capture_request": {
+        "purpose": "Magpie中Codex已接入状态和15模型来源分组；不是Codex本体截图",
+        "app": "Codex",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Codex真实模型选择器或Magpie Codex Agent模型设置"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-codex-config",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_06",
+      "narration": "那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。",
+      "audience_takeaway": "一句话解释产品",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "把模型总控台的两端说清楚",
+      "content_description": "左侧三个模型来源接入中央Magpie，右侧连接两个Agent",
+      "effect": {
+        "id": "magpie_hub",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_07",
+      "narration": "Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。",
+      "audience_takeaway": "简短交代项目作者",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "GitHub官方yetone/magpie真实项目页，作者、项目名和MIT许可",
+      "capture_request_id": "public-author",
+      "capture_request": {
+        "purpose": "GitHub官方yetone/magpie真实项目页，作者、项目名和MIT许可",
+        "app": "GitHub",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "yetone/magpie项目页，作者、仓库名、开源信息"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "public-author",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_08",
+      "narration": "它干的事儿其实特别好懂，我给你举个最简单的例子。",
+      "audience_takeaway": "自然过渡到原理解释",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "官方中文README的模型统一入口定位，保留Magpie图标、标题与平台支持，去除赞助商区",
+      "capture_request_id": "public-readme",
+      "capture_request": {
+        "purpose": "官方中文README的模型统一入口定位，保留Magpie图标、标题与平台支持，去除赞助商区",
+        "app": "GitHub",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Magpie README中连接Agent的功能说明"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "public-readme",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_09",
+      "narration": "比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。",
+      "audience_takeaway": "用 Codex 举例说明订阅模型的原始边界",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "同一个模型权益原本跟随客户端",
+      "content_description": "Codex窗口围住账号与模型，底部阻隔线说明原来使用入口受限",
+      "effect": {
+        "id": "magpie_silo",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_10",
+      "narration": "WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。",
+      "audience_takeaway": "补充 WorkBuddy 例子并承接 Magpie 总控台",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "WorkBuddy完整模型菜单与计费倍率，未改模型选择",
+      "capture_request_id": "native-wb-models",
+      "capture_request": {
+        "purpose": "WorkBuddy完整模型菜单与计费倍率，未改模型选择",
+        "app": "WorkBuddy",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "WorkBuddy实际模型选择界面与客户端标题"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-wb-models",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": {
+        "targetRect": [
+          1020,
+          760,
+          755,
+          870
+        ],
+        "fromFrame": 30,
+        "toFrame": 78
+      }
+    },
+    {
+      "id": "scene_11",
+      "narration": "Magpie 做的事，就是在中间加一个总控台。",
+      "audience_takeaway": "解释 Magpie 的工作方式",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "总控台改变连接关系",
+      "content_description": "两个端点不动，中央插入Magpie",
+      "effect": {
+        "id": "magpie_insert",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_12",
+      "narration": "左边接你的模型和订阅，右边接你真正想用的 Agent。",
+      "audience_takeaway": "解释 Magpie 的工作方式",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "左右两端与口播同步建立",
+      "content_description": "左侧金色来源线路、右侧青绿Agent线路分段接通",
+      "effect": {
+        "id": "magpie_wiring",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_13",
+      "narration": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+      "audience_takeaway": "解释 Magpie 的工作方式",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "先发现可用模型再提供给Agent",
+      "content_description": "识别不同来源模型逐个打勾，再汇入一个模型入口",
+      "effect": {
+        "id": "magpie_discovery",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_14",
+      "narration": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+      "audience_takeaway": "用具体调用流程让观众秒懂",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "用运动说明真实任务的转发路径",
+      "content_description": "请求沿Harness→Magpie→WorkBuddy路线移动",
+      "effect": {
+        "id": "magpie_packet",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_15",
+      "narration": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+      "audience_takeaway": "落下核心价值",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "同一条链路解释返回过程",
+      "content_description": "结果沿WorkBuddy→Magpie→Harness反向回传",
+      "effect": {
+        "id": "magpie_packet",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_16",
+      "narration": "所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。",
+      "audience_takeaway": "落下核心价值",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "模型来源保留，使用入口可变",
+      "content_description": "同一权益Token从原Agent跨到其他Agent",
+      "effect": {
+        "id": "magpie_passport",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_17",
+      "narration": "这就是它最核心的一件事。",
+      "audience_takeaway": "收束核心判断",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "核心结论有清晰视觉落点",
+      "content_description": "权益与Agent间一个稳定调度关系落定",
+      "effect": {
+        "id": "magpie_core",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_18",
+      "narration": "这件事以前也有工具干过，但说实话，体验都不算特别好。",
+      "audience_takeaway": "对比旧工具体验",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "仅图解个人体验，下一幕展示工具",
+      "content_description": "左侧多次配置的折返线与右侧集中管理的直线对照",
+      "effect": {
+        "id": "magpie_compare",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_19",
+      "narration": "像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。",
+      "audience_takeaway": "对比旧工具体验",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "CC Switch官方仓库身份；只证明工具对象，不用项目页伪造Bug证据",
+      "capture_request_id": "public-ccswitch",
+      "capture_request": {
+        "purpose": "CC Switch官方仓库身份；只证明工具对象，不用项目页伪造Bug证据",
+        "app": "CC Switch",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "CC Switch真实项目页或配置页面，只作为工具身份，不伪造Bug"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "public-ccswitch",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_20",
+      "narration": "Magpie 就完全不一样，它把这件事干得极其丝滑。",
+      "audience_takeaway": "表达真实使用感受",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_recording",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "本次真实收起Codex设置回到Agent总览的动作；不改接入配置",
+      "capture_request_id": "native-agents-video",
+      "capture_request": {
+        "purpose": "本次真实收起Codex设置回到Agent总览的动作；不改接入配置",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Magpie Agents界面真实操作，展示集中管理"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-agents-video",
+      "source_start_seconds": 10.8,
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_21",
+      "narration": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+      "audience_takeaway": "展示功能成熟度",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "真实Providers列表显示Codex、Grok、WorkBuddy、WorkBuddy AI、Antigravity与订阅状态，账号已在源画面模糊",
+      "capture_request_id": "article-providers",
+      "capture_request": {
+        "purpose": "真实Providers列表显示Codex、Grok、WorkBuddy、WorkBuddy AI、Antigravity与订阅状态，账号已在源画面模糊",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Providers列表中的来源与可用模型"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-providers",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_22",
+      "narration": "而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。",
+      "audience_takeaway": "展示功能成熟度",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "真实路由页面保留Codex→Magpie→模型与账号的关系及使用上下文",
+      "capture_request_id": "article-routing",
+      "capture_request": {
+        "purpose": "真实路由页面保留Codex→Magpie→模型与账号的关系及使用上下文",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Routing页面中的组和路由设置，保留标题"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-routing",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_23",
+      "narration": "最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。",
+      "audience_takeaway": "口语化引出免费 Token 用法",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "把分散免费权益集中调度",
+      "content_description": "两处免费模型Token通过汇流线进入Magpie",
+      "effect": {
+        "id": "magpie_free",
+        "renderer": "custom",
+        "params": {}
+      }
+    },
+    {
+      "id": "scene_24",
+      "narration": "现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。",
+      "audience_takeaway": "交代当前免费模型与国内版积分",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "Qoder官方限免文档，保留完整标题、活动模型、每日额度和10月31日截止说明",
+      "capture_request_id": "public-qoder",
+      "capture_request": {
+        "purpose": "Qoder官方限免文档，保留完整标题、活动模型、每日额度和10月31日截止说明",
+        "app": "官方文档",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Qoder与WorkBuddy官方免费活动、截至日期和签到积分规则"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "public-qoder",
+      "evidence_sequence": [
+        {
+          "asset_id": "public-qoder",
+          "from_frame": 0
+        },
+        {
+          "asset_id": "native-wb-daily",
+          "from_frame": 156
+        }
+      ],
+      "full_window_first": true,
+      "display_sequence": [
+        {
+          "fromFrame": 0,
+          "assetPath": "magpie-04-revision-v02/public-qoder.png",
+          "sourceWidth": 1300,
+          "sourceHeight": 1800,
+          "sourceHighlights": [
+            {
+              "rect": [
+                90,
+                990,
+                1100,
+                155
+              ],
+              "color": "#D93232",
+              "strokeWidth": 5
+            }
+          ],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 156,
+          "assetPath": "magpie-04-revision-v02/native-wb-daily.png",
+          "sourceWidth": 2254,
+          "sourceHeight": 1710,
+          "sourceHighlights": [
+            {
+              "rect": [
+                20,
+                1360,
+                488,
+                235
+              ],
+              "color": "#D93232",
+              "strokeWidth": 5
+            }
+          ],
+          "sourceRedactions": [
+            {
+              "rect": [
+                22,
+                1615,
+                320,
+                88
+              ],
+              "color": "#EEF0F2"
+            }
+          ],
+          "sourceCamera": {
+            "targetRect": [
+              0,
+              1280,
+              540,
+              330
+            ],
+            "fromFrame": 180,
+            "toFrame": 218
+          }
+        }
+      ],
+      "source_camera": null
+    },
+    {
+      "id": "scene_25",
+      "narration": "问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。",
+      "audience_takeaway": "从免费额度自然转到统一使用需求",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "实际已装插件列表，包括WorkBuddy与Qoder",
+      "capture_request_id": "article-plugins",
+      "capture_request": {
+        "purpose": "实际已装插件列表，包括WorkBuddy与Qoder",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "真实插件页同时展示WorkBuddy与Qoder来源"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-plugins",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_26",
+      "narration": "我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。",
+      "audience_takeaway": "自然引出 Magpie 把免费模型接入 DeepSeek Harness",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_recording",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "本次Harness真实模型菜单，滚动展示模型来源，WorkBuddy DeepSeek保持选中，未更改默认模型",
+      "capture_request_id": "native-model-video",
+      "capture_request": {
+        "purpose": "本次Harness真实模型菜单，滚动展示模型来源，WorkBuddy DeepSeek保持选中，未更改默认模型",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Harness中实际选择WorkBuddy DeepSeek的模型列表"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-model-video",
+      "source_start_seconds": 0.1,
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": {
+        "targetRect": [
+          1260,
+          600,
+          1050,
+          1030
+        ],
+        "fromFrame": 30,
+        "toFrame": 75
+      }
+    },
+    {
+      "id": "scene_27",
+      "narration": "而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。",
+      "audience_takeaway": "表达 DeepSeek 在官方 Harness 中的实际体验",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_recording",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "所选0–7.43秒展示完成的命令、输出、模型与步骤统计；另通过AX核对过实际bash调用，轨迹界面不入片",
+      "capture_request_id": "native-tools-result",
+      "capture_request": {
+        "purpose": "所选0–7.43秒展示完成的命令、输出、模型与步骤统计；另通过AX核对过实际bash调用，轨迹界面不入片",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "真实任务输出录像，模型与完整结果上下文同时出现"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-tools-result",
+      "source_start_seconds": 0.0,
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_28",
+      "narration": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy AI、Codex 账号。",
+      "audience_takeaway": "突出多账号能力与本机实际状态",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "依次展示WorkBuddy 4账号、WorkBuddy AI 5账号、Codex当前1账号；不把同一账号复制成多个",
+      "capture_request_id": "article-accounts-wb",
+      "capture_request": {
+        "purpose": "真实WorkBuddy账号面板，4个账号与余额/状态；账号标识在源画面已模糊",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "WorkBuddy多账号页面，遮挡真实账号标识"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-accounts-wb",
+      "evidence_sequence": [
+        {
+          "asset_id": "article-accounts-wb",
+          "from_frame": 0
+        },
+        {
+          "asset_id": "article-accounts-wbai",
+          "from_frame": 102
+        },
+        {
+          "asset_id": "article-accounts-codex",
+          "from_frame": 186
+        }
+      ],
+      "full_window_first": true,
+      "display_sequence": [
+        {
+          "fromFrame": 0,
+          "assetPath": "magpie-04-revision-v02/article-accounts-wb.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 102,
+          "assetPath": "magpie-04-revision-v02/article-accounts-wbai.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        },
+        {
+          "fromFrame": 186,
+          "assetPath": "magpie-04-revision-v02/article-accounts-codex.png",
+          "sourceWidth": 2334,
+          "sourceHeight": 1738,
+          "sourceHighlights": [],
+          "sourceRedactions": []
+        }
+      ],
+      "source_camera": null
+    },
+    {
+      "id": "scene_29",
+      "narration": "每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。",
+      "audience_takeaway": "解释多账号使用体验与价值",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "真实WorkBuddy AI账号面板，5个已授权账号、添加账号入口；账号标识已模糊",
+      "capture_request_id": "article-accounts-wbai",
+      "capture_request": {
+        "purpose": "真实WorkBuddy AI账号面板，5个已授权账号、添加账号入口；账号标识已模糊",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "WorkBuddy AI多账号已授权状态，遮挡账号标识"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-accounts-wbai",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_30",
+      "narration": "安装也不用自己一条条敲命令，直接让 Agent 帮你装。",
+      "audience_takeaway": "给普通用户最省事的安装路径",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "官方中文快速开始三步，展示安装、添加来源与给Agent选择模型",
+      "capture_request_id": "public-install",
+      "capture_request": {
+        "purpose": "官方中文快速开始三步，展示安装、添加来源与给Agent选择模型",
+        "app": "GitHub",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "Magpie官方安装入口与支持平台文档"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "public-install",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_31",
+      "narration": "把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。",
+      "audience_takeaway": "给普通用户最省事的安装路径",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "文章原有安装提示词实际粘贴到Harness输入框；仅展示，未发送和执行",
+      "capture_request_id": "native-prompt",
+      "capture_request": {
+        "purpose": "文章原有安装提示词实际粘贴到Harness输入框；仅展示，未发送和执行",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "准备好的安装提示词完整可读，不执行系统安装"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-prompt",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_32",
+      "narration": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+      "audience_takeaway": "给普通用户最省事的安装路径",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "真实WorkBuddy AI账号面板，5个已授权账号、添加账号入口；账号标识已模糊",
+      "capture_request_id": "article-accounts-wbai",
+      "capture_request": {
+        "purpose": "真实WorkBuddy AI账号面板，5个已授权账号、添加账号入口；账号标识已模糊",
+        "app": "Magpie",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "真实账号授权入口，展示需要用户完成的步骤，不替用户登录"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "article-accounts-wbai",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_33",
+      "narration": "唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。",
+      "audience_takeaway": "指出最容易踩的配置坑",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_screenshot",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "访达显示真实.dsh/profiles目录中的desktop与web，同时保留目录标题和相邻文件夹，不打开配置秘密",
+      "capture_request_id": "native-profiles",
+      "capture_request": {
+        "purpose": "访达显示真实.dsh/profiles目录中的desktop与web，同时保留目录标题和相邻文件夹，不打开配置秘密",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "真实web/desktop Profile选择或真实配置文件路径"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-profiles",
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_34",
+      "narration": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+      "audience_takeaway": "给出成功验收标准",
+      "framing": "完整原始应用窗口等比放入固定灰色媒体框；保留Logo、左侧导航、标题与空白。只在明确口播提示后连续运镜到局部，不用局部截图开场。",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "real_recording",
+      "media_surface": "desktop",
+      "selection_reason": "真实界面或官方材料支持本幕实际对象与操作；原图不替换原生控件",
+      "content_description": "新公开只读测试真实发送、开始运行、调用Python并返回83810205；当前选用WorkBuddy DeepSeek",
+      "capture_request_id": "native-tools-start",
+      "capture_request": {
+        "purpose": "新公开只读测试真实发送、开始运行、调用Python并返回83810205；当前选用WorkBuddy DeepSeek",
+        "app": "DeepSeek Harness",
+        "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+        "required_events": [
+          "重启后模型列表和已运行的真实任务结果录像"
+        ],
+        "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+        "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天"
+      },
+      "capture_asset_id": "native-tools-start",
+      "source_start_seconds": 20.0,
+      "full_window_first": true,
+      "display_sequence": null,
+      "source_camera": null
+    },
+    {
+      "id": "scene_35",
+      "narration": "我是财叔，类似这种真能省 Token 的神器，我继续给大家挖，我们下期见。",
+      "audience_takeaway": "收尾并引导关注",
+      "framing": "固定1080×1920财叔版式；内容画布1024×1100；无额外英文标签",
+      "timing": "以本幕真实TTS自然时长校准，关键结果在对应字幕片段附近落定并留阅读时间。",
+      "visual_type": "motion_effect",
+      "selection_reason": "财叔持续挖工具的CTA",
+      "content_description": "Token与继续前进的箭头构成收尾",
+      "effect": {
+        "id": "magpie_outro",
+        "renderer": "custom",
+        "params": {}
+      }
+    }
+  ],
+  "bgm": {
+    "volume": 0.12,
+    "fadeInSeconds": 0.8,
+    "fadeOutSeconds": 1.6
+  },
+  "revision": "v02",
+  "revision_reason": "2026-10-28用户要求所有真实界面完整窗口展示，明确重点后才连续运镜；开场加入Agent、供应商、路由三个完整页面。"
+}

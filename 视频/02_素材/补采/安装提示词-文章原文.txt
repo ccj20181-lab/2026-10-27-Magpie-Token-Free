@@ -1,0 +1,15 @@
+我想在这台电脑上安装并配置 Magpie，最终目标是把我自己账号里的 WorkBuddy、WorkBuddy AI、Qoder、Codex、Grok Build、Antigravity 等模型来源统一接入 Magpie，并让 DeepSeek Harness 桌面端可以直接选择这些来源里的模型。
+
+请你直接在本机执行，不要只给我教程。
+
+1. 先检查这台电脑的操作系统，以及 Magpie、WorkBuddy、Qoder、DeepSeek Harness 当前是否已经安装。已经存在的环境不要重复破坏。
+2. 修改任何现有配置前先做备份，保留我现在能正常使用的模型和 Agent 配置。
+3. 查阅 Magpie 当前最新的官方安装说明，使用官方推荐方式安装或升级 Magpie。
+4. 安装完成后启动 Magpie，并确认本地服务可以正常工作。
+5. 检查 Magpie 当前的插件和订阅接入方式，把 WorkBuddy / WorkBuddy AI / Qoder / Codex / Grok Build / Antigravity 等当前可接入来源统一接入。
+6. 登录时优先复用我本机已有的账号登录状态。如果必须打开浏览器重新授权，请直接打开登录页面，然后停下来让我本人完成登录。不要向我索取密码、Cookie 或其他敏感凭据。
+7. 登录完成后检查模型列表，确认这些来源里的当前可用模型已经被正确识别。
+8. 把这些模型接入 DeepSeek Harness 桌面端。请确认修改的是桌面端真实使用的 desktop profile，不要只改 web profile。
+9. 配置完成后重启或新建 DeepSeek Harness 会话，检查模型选择器里是否已经出现这些模型。
+10. 最后用一个真实任务验收，确认模型可以正常调用工具。
+11. 完成后告诉我最终接入了哪些模型、哪些账号来源可以使用、DeepSeek Harness 当前默认模型是什么，以及有没有还需要我手动处理的地方。

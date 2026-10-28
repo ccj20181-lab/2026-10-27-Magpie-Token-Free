@@ -1,0 +1,330 @@
+{
+  "source": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy 海外版、Codex 账号。",
+  "asr": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy海外版，Codex账号。",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.6,
+      "text": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy海外版，Codex账号。",
+      "tokens": [
+        50365,
+        8661,
+        8661,
+        28053,
+        23049,
+        106,
+        24620,
+        11,
+        37445,
+        9144,
+        14852,
+        35488,
+        2166,
+        13089,
+        15729,
+        14468,
+        6392,
+        7549,
+        18464,
+        99,
+        26987,
+        1543,
+        1654,
+        25040,
+        3111,
+        13089,
+        15729,
+        8501,
+        224,
+        2289,
+        6392,
+        7549,
+        28846,
+        33,
+        532,
+        3173,
+        171,
+        120,
+        234,
+        28846,
+        33,
+        532,
+        3173,
+        20078,
+        12022,
+        42096,
+        171,
+        120,
+        234,
+        34,
+        1429,
+        87,
+        18464,
+        99,
+        26987,
+        1543,
+        50755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13167968289605503,
+      "compression_ratio": 1.069767441860465,
+      "no_speech_prob": 2.920672037554084e-11,
+      "words": [
+        {
+          "word": "最",
+          "start": 0.0,
+          "end": 0.2,
+          "probability": 0.99609375
+        },
+        {
+          "word": "最",
+          "start": 0.2,
+          "end": 0.34,
+          "probability": 0.9794921875
+        },
+        {
+          "word": "关",
+          "start": 0.34,
+          "end": 0.48,
+          "probability": 0.99853515625
+        },
+        {
+          "word": "键",
+          "start": 0.48,
+          "end": 0.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": "的是,",
+          "start": 0.62,
+          "end": 0.82,
+          "probability": 0.990234375
+        },
+        {
+          "word": "Mag",
+          "start": 1.02,
+          "end": 1.26,
+          "probability": 0.72119140625
+        },
+        {
+          "word": "pie",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.1490478515625
+        },
+        {
+          "word": "还",
+          "start": 1.44,
+          "end": 1.64,
+          "probability": 0.98583984375
+        },
+        {
+          "word": "支持",
+          "start": 1.64,
+          "end": 1.92,
+          "probability": 0.9912109375
+        },
+        {
+          "word": "你",
+          "start": 1.92,
+          "end": 2.1,
+          "probability": 0.99609375
+        },
+        {
+          "word": "同",
+          "start": 2.1,
+          "end": 2.3,
+          "probability": 0.97314453125
+        },
+        {
+          "word": "时",
+          "start": 2.3,
+          "end": 2.48,
+          "probability": 0.99560546875
+        },
+        {
+          "word": "接",
+          "start": 2.48,
+          "end": 2.64,
+          "probability": 0.982421875
+        },
+        {
+          "word": "多",
+          "start": 2.64,
+          "end": 2.82,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "个",
+          "start": 2.82,
+          "end": 2.94,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "账",
+          "start": 2.94,
+          "end": 3.08,
+          "probability": 0.9716796875
+        },
+        {
+          "word": "号。",
+          "start": 3.08,
+          "end": 3.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "我",
+          "start": 3.64,
+          "end": 3.64,
+          "probability": 0.94580078125
+        },
+        {
+          "word": "现在",
+          "start": 3.64,
+          "end": 3.86,
+          "probability": 0.99072265625
+        },
+        {
+          "word": "就",
+          "start": 3.86,
+          "end": 4.04,
+          "probability": 0.982421875
+        },
+        {
+          "word": "同",
+          "start": 4.04,
+          "end": 4.2,
+          "probability": 0.919921875
+        },
+        {
+          "word": "时",
+          "start": 4.2,
+          "end": 4.38,
+          "probability": 0.994140625
+        },
+        {
+          "word": "挂",
+          "start": 4.38,
+          "end": 4.54,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "了",
+          "start": 4.54,
+          "end": 4.66,
+          "probability": 0.99169921875
+        },
+        {
+          "word": "多",
+          "start": 4.66,
+          "end": 4.86,
+          "probability": 0.98828125
+        },
+        {
+          "word": "个",
+          "start": 4.86,
+          "end": 5.02,
+          "probability": 0.99609375
+        },
+        {
+          "word": "Work",
+          "start": 5.02,
+          "end": 5.22,
+          "probability": 0.2391357421875
+        },
+        {
+          "word": "B",
+          "start": 5.22,
+          "end": 5.36,
+          "probability": 0.04034423828125
+        },
+        {
+          "word": "ud",
+          "start": 5.36,
+          "end": 5.46,
+          "probability": 0.185791015625
+        },
+        {
+          "word": "dy，",
+          "start": 5.46,
+          "end": 5.58,
+          "probability": 0.66259765625
+        },
+        {
+          "word": "Work",
+          "start": 5.9,
+          "end": 6.0,
+          "probability": 0.478759765625
+        },
+        {
+          "word": "B",
+          "start": 6.0,
+          "end": 6.1,
+          "probability": 0.9755859375
+        },
+        {
+          "word": "ud",
+          "start": 6.1,
+          "end": 6.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "dy",
+          "start": 6.18,
+          "end": 6.28,
+          "probability": 0.99462890625
+        },
+        {
+          "word": "海",
+          "start": 6.28,
+          "end": 6.38,
+          "probability": 0.95166015625
+        },
+        {
+          "word": "外",
+          "start": 6.38,
+          "end": 6.52,
+          "probability": 0.99951171875
+        },
+        {
+          "word": "版，",
+          "start": 6.52,
+          "end": 6.64,
+          "probability": 0.99755859375
+        },
+        {
+          "word": "C",
+          "start": 6.94,
+          "end": 7.04,
+          "probability": 0.72314453125
+        },
+        {
+          "word": "ode",
+          "start": 7.04,
+          "end": 7.16,
+          "probability": 0.97607421875
+        },
+        {
+          "word": "x",
+          "start": 7.16,
+          "end": 7.3,
+          "probability": 0.90771484375
+        },
+        {
+          "word": "账",
+          "start": 7.3,
+          "end": 7.46,
+          "probability": 0.849609375
+        },
+        {
+          "word": "号。",
+          "start": 7.46,
+          "end": 7.6,
+          "probability": 0.99853515625
+        }
+      ]
+    }
+  ]
+}

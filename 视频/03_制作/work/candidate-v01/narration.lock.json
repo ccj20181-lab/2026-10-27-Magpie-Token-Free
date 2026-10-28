@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "brand": "ai-coach",
+  "status": "confirmed",
+  "title": "真神器！有了 Magpie，我真的 Token 自由了！",
+  "scenes": [
+    {
+      "id": "scene_01",
+      "narration": "兄弟们，这次真的 Token 自由了！",
+      "intent": "制造结果感",
+      "evidence_needed": [],
+      "estimated_seconds": 6
+    },
+    {
+      "id": "scene_02",
+      "narration": "最近我用上了一个真神器，叫 Magpie，越用越上头。",
+      "intent": "交代本期神器与实际结果",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_03",
+      "narration": "它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。",
+      "intent": "用真实模型列表证明结果",
+      "evidence_needed": [
+        "DeepSeek Harness 当前模型列表截图"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_04",
+      "narration": "现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。",
+      "intent": "用真实模型列表证明结果",
+      "evidence_needed": [
+        "DeepSeek Harness 模型列表截图"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_05",
+      "narration": "而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。",
+      "intent": "用真实模型列表证明结果",
+      "evidence_needed": [
+        "Codex 当前模型列表截图"
+      ],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_06",
+      "narration": "那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。",
+      "intent": "一句话解释产品",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_07",
+      "narration": "Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。",
+      "intent": "简短交代项目作者",
+      "evidence_needed": [
+        "Magpie GitHub 项目页"
+      ],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_08",
+      "narration": "它干的事儿其实特别好懂，我给你举个最简单的例子。",
+      "intent": "自然过渡到原理解释",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_09",
+      "narration": "比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。",
+      "intent": "用 Codex 举例说明订阅模型的原始边界",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_10",
+      "narration": "WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。",
+      "intent": "补充 WorkBuddy 例子并承接 Magpie 总控台",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_11",
+      "narration": "Magpie 做的事，就是在中间加一个总控台。",
+      "intent": "解释 Magpie 的工作方式",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_12",
+      "narration": "左边接你的模型和订阅，右边接你真正想用的 Agent。",
+      "intent": "解释 Magpie 的工作方式",
+      "evidence_needed": [],
+      "estimated_seconds": 9
+    },
+    {
+      "id": "scene_13",
+      "narration": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+      "intent": "解释 Magpie 的工作方式",
+      "evidence_needed": [
+        "Magpie Agents / Providers 界面"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_14",
+      "narration": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+      "intent": "用具体调用流程让观众秒懂",
+      "evidence_needed": [
+        "Magpie 本地网关与 WorkBuddy 实际接入证据"
+      ],
+      "estimated_seconds": 12
+    },
+    {
+      "id": "scene_15",
+      "narration": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+      "intent": "落下核心价值",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_16",
+      "narration": "所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。",
+      "intent": "落下核心价值",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_17",
+      "narration": "这就是它最核心的一件事。",
+      "intent": "收束核心判断",
+      "evidence_needed": [],
+      "estimated_seconds": 7
+    },
+    {
+      "id": "scene_18",
+      "narration": "这件事以前也有工具干过，但说实话，体验都不算特别好。",
+      "intent": "对比旧工具体验",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_19",
+      "narration": "像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。",
+      "intent": "对比旧工具体验",
+      "evidence_needed": [
+        "CC Switch 个人使用体验，来自用户明确陈述"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_20",
+      "narration": "Magpie 就完全不一样，它把这件事干得极其丝滑。",
+      "intent": "表达真实使用感受",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_21",
+      "narration": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+      "intent": "展示功能成熟度",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_22",
+      "narration": "而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。",
+      "intent": "展示功能成熟度",
+      "evidence_needed": [
+        "Magpie Routing / Accounts / Usage 等界面"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_23",
+      "narration": "最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。",
+      "intent": "口语化引出免费 Token 用法",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_24",
+      "narration": "现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。",
+      "intent": "交代当前免费模型与国内版积分",
+      "evidence_needed": [
+        "WorkBuddy 海外版与 Qoder DeepSeek V4.1 Flash 限免信息，截止时间发布前复核",
+        "WorkBuddy 国内版 Buddy 加油站每日 100 积分信息"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_25",
+      "narration": "问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。",
+      "intent": "从免费额度自然转到统一使用需求",
+      "evidence_needed": [],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_26",
+      "narration": "我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。",
+      "intent": "自然引出 Magpie 把免费模型接入 DeepSeek Harness",
+      "evidence_needed": [
+        "DeepSeek Harness 当前模型列表截图"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_27",
+      "narration": "而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。",
+      "intent": "表达 DeepSeek 在官方 Harness 中的实际体验",
+      "evidence_needed": [
+        "DeepSeek Harness 使用 WorkBuddy DeepSeek 的真实录屏，展示响应与 TOK/s"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_28",
+      "narration": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy AI、Codex 账号。",
+      "intent": "突出多账号能力与本机实际状态",
+      "evidence_needed": [
+        "Magpie Accounts 页面，多账号并存截图"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_29",
+      "narration": "每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。",
+      "intent": "解释多账号使用体验与价值",
+      "evidence_needed": [
+        "Magpie Accounts 页面，多账号并存截图"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_30",
+      "narration": "安装也不用自己一条条敲命令，直接让 Agent 帮你装。",
+      "intent": "给普通用户最省事的安装路径",
+      "evidence_needed": [],
+      "estimated_seconds": 8
+    },
+    {
+      "id": "scene_31",
+      "narration": "把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。",
+      "intent": "给普通用户最省事的安装路径",
+      "evidence_needed": [
+        "公众号正文中的安装提示词"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_32",
+      "narration": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+      "intent": "给普通用户最省事的安装路径",
+      "evidence_needed": [],
+      "estimated_seconds": 9
+    },
+    {
+      "id": "scene_33",
+      "narration": "唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。",
+      "intent": "指出最容易踩的配置坑",
+      "evidence_needed": [
+        "DeepSeek Harness web / desktop profile 本机事实记录"
+      ],
+      "estimated_seconds": 10
+    },
+    {
+      "id": "scene_34",
+      "narration": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+      "intent": "给出成功验收标准",
+      "evidence_needed": [
+        "DeepSeek Harness 模型列表与真实任务验收录屏"
+      ],
+      "estimated_seconds": 11
+    },
+    {
+      "id": "scene_35",
+      "narration": "我是财叔，类似这种真能省 Token 的神器，我继续给大家挖，我们下期见。",
+      "intent": "收尾并引导关注",
+      "evidence_needed": [],
+      "estimated_seconds": 9
+    }
+  ],
+  "sources": [
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v05.md",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/00_共用/调研/事实核对.md"
+  ],
+  "confirmation": {
+    "basis": "用户明确要求根据口播文案-v02生成完整视频",
+    "date": "2026-10-27",
+    "source_sha256": "637ceb5074b98eeab72039e425fc4a5ca8c18bb1cd339712c3ae6b1b35912344"
+  }
+}

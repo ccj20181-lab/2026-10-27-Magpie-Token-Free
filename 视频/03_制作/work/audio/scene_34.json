@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

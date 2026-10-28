@@ -1,0 +1,18 @@
+{
+  "body_approval": "用户：除了开头两张模型列表截图要改之外，其他都OK",
+  "first_two_revision": "按用户明确要求，保留原始整窗，红框标记模型菜单",
+  "unchanged_approved_assets": {
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/封面/封面-v01.png": "11d0b402732f17c0df63e8f19755e168daacf4d383b6edd6bc704aa9339fa052",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/03-Magpie-Agents-v01.png": "b1b84ca4696c7de3d34d8a59d4610e94572d87533d4c2b8c9ae39a8f4e72a558",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/04-模型转接原理-v01.png": "4682316e09ab14c56a97044612dea2e022aee8e24045aa78595d4fc9be25f761",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/05-Magpie-Providers-v01.png": "ad9692db0931479327663cbc3c0a20a2ed7aab677c32af30e83f2a7a7c3414f3",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/06-Magpie-Routing-v01.png": "6933533b0a5d1a474cd8ae1ea984287e352b04a1a28f69a975036a0c6e00219f",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/07-Magpie-Plugins-v01.png": "ad8e70f4d1874eddc2a89faee822551a97e318e58a46bbebf452d30bb9cfe2b2",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08a-WorkBuddy-多账号-v01.png": "f7ec0b40b7cbf181e719ba123946eb0de32438a138c544b8bed91b7d2d7051a9",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08b-WorkBuddyAI-多账号-v01.png": "5a42d0bbc0c097f019004c52d30828cd9f8546104fb46c8c1c67bbe013f1267b",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.gif": "134adfd3b779c407601ef3db3f7abc2bf82b6b476a458fc7d6c9dcefa648252c"
+  },
+  "prose_unchanged": true,
+  "codex_native_image_cancelled": true,
+  "current_account_observation": "Codex供应商页当前只显示1个账号；已报告，未改作者原文"
+}

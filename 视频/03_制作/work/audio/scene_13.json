@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

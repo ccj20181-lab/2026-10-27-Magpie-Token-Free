@@ -1,0 +1,104 @@
+01. [scene_01 | hook | 6s]
+兄弟们，这次真的 Token 自由了！
+
+02. [scene_02 | result | 8s]
+最近我用上了一个真神器，叫 Magpie，越用越上头。
+
+03. [scene_03 | proof | 10s]
+它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。
+
+04. [scene_04 | proof | 10s]
+现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。
+
+05. [scene_05 | proof | 8s]
+而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。
+
+06. [scene_06 | intro | 8s]
+那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。
+
+07. [scene_07 | author | 8s]
+Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。
+
+08. [scene_08 | transition | 8s]
+它干的事儿其实特别好懂，我给你举个最简单的例子。
+
+09. [scene_09 | problem | 10s]
+比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。
+
+10. [scene_10 | example | 10s]
+WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。
+
+11. [scene_11 | mechanism | 8s]
+Magpie 做的事，就是在中间加一个总控台。
+
+12. [scene_12 | mechanism | 9s]
+左边接你的模型和订阅，右边接你真正想用的 Agent。
+
+13. [scene_13 | mechanism | 11s]
+它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。
+
+14. [scene_14 | flow | 12s]
+比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。
+
+15. [scene_15 | core | 8s]
+结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。
+
+16. [scene_16 | core | 10s]
+所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。
+
+17. [scene_17 | judgment | 7s]
+这就是它最核心的一件事。
+
+18. [scene_18 | compare | 10s]
+这件事以前也有工具干过，但说实话，体验都不算特别好。
+
+19. [scene_19 | compare | 11s]
+像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。
+
+20. [scene_20 | experience | 8s]
+Magpie 就完全不一样，它把这件事干得极其丝滑。
+
+21. [scene_21 | features | 10s]
+模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。
+
+22. [scene_22 | features | 11s]
+而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。
+
+23. [scene_23 | free | 10s]
+最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。
+
+24. [scene_24 | free | 11s]
+现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。
+
+25. [scene_25 | fit | 10s]
+问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。
+
+26. [scene_26 | fit | 10s]
+我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。
+
+27. [scene_27 | fit | 10s]
+而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。
+
+28. [scene_28 | accounts | 11s]
+最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy AI、Codex 账号。
+
+29. [scene_29 | accounts | 10s]
+每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。
+
+30. [scene_30 | setup | 8s]
+安装也不用自己一条条敲命令，直接让 Agent 帮你装。
+
+31. [scene_31 | setup | 11s]
+把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。
+
+32. [scene_32 | setup | 9s]
+中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。
+
+33. [scene_33 | pitfall | 10s]
+唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。
+
+34. [scene_34 | verify | 11s]
+一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。
+
+35. [scene_35 | cta | 9s]
+我是财叔，类似这种真能省 Token 的神器，我继续给大家挖，我们下期见。

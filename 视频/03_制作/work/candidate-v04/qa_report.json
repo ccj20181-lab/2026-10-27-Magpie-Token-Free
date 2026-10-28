@@ -1,0 +1,67 @@
+{
+  "status": "pass",
+  "revision": "v04",
+  "video_sha256": "564e01aab05717810874be550696c4f624f968e589075974c7cac83fca352adf",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 5184,
+  "duration_seconds": 172.8,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode": "pass",
+  "prefix_34_scenes_props_and_meta_unchanged": true,
+  "prefix_5132_video_frames_decoded_md5_identical": true,
+  "all_34_existing_voice_source_hashes_unchanged": true,
+  "outro_voice_approved_source_samples_identical": true,
+  "outro_voice_retained_intervals_seconds": [
+    [
+      0,
+      0.74
+    ],
+    [
+      4,
+      4.98
+    ]
+  ],
+  "outro_text": "我是财叔，我们下期见。",
+  "top_badge_red_pixels_all_frames": 0,
+  "scene_count": 35,
+  "real_scenes": 22,
+  "motion_scenes": 13,
+  "integrated_loudness_lufs": -19.5,
+  "true_peak_dbfs": -1.8,
+  "music": "Same BGM source/volume; only move final fade-out to the restored ending",
+  "scope": "All prefix frames exact decoded equality; original voice sample equality; targeted encoded ASR and ending visual/native checks. No human full listening/viewing or publication claim.",
+  "encoded_outro_asr": "我是财叔，我们下期见。",
+  "agent_visual_review": {
+    "body_to_outro_boundary": "reviewed",
+    "outro_first_middle_last_frames": "reviewed at360px; only我是财叔/我们下期见",
+    "unrelated_34_scenes": "all5132 decoded frames equal v03",
+    "source_audio": "same first34 sources; retained outro samples equal approved original"
+  },
+  "native_playback": {
+    "app": "QuickTime Player",
+    "candidate_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v04/video_candidate.mp4",
+    "correct_path_opened": true,
+    "playback_progress_seconds": [
+      169.019,
+      172.8
+    ],
+    "last_visible_text": [
+      "我是财叔",
+      "我们下期见"
+    ],
+    "formal_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+    "human_full_listening_viewing": false,
+    "formal_path_opened": true,
+    "formal_playback_progress_seconds": [
+      170.153,
+      172.8
+    ],
+    "formal_ended_paused_at_seconds": 0
+  },
+  "checked_at": "2026-10-28T12:52:26.966681+08:00",
+  "previous_formal_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v03-20261028-125227/video.mp4",
+  "delivered_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4"
+}

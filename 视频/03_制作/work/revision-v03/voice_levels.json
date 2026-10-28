@@ -1,0 +1,10 @@
+{
+  "old": {
+    "mean_volume": -24.2,
+    "max_volume": -5.6
+  },
+  "new": {
+    "mean_volume": -23.7,
+    "max_volume": -4.2
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "consumer": "video",
+  "requests": [
+    {
+      "purpose": "Magpie真实主界面与连接状态",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Magpie真实主界面与连接状态"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "overview",
+      "scene_ids": [
+        "scene_02"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Harness真实模型菜单，保留来源provider",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Harness真实模型菜单，保留来源provider"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "models-a",
+      "scene_ids": [
+        "scene_03"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "模型菜单展开与滚动，显示多个厂商",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "模型菜单展开与滚动，显示多个厂商"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "models-b",
+      "scene_ids": [
+        "scene_04"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    },
+    {
+      "purpose": "Codex真实模型选择器或Magpie Codex Agent模型设置",
+      "app": "Codex",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Codex真实模型选择器或Magpie Codex Agent模型设置"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "codex-models",
+      "scene_ids": [
+        "scene_05"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "yetone/magpie项目页，作者、仓库名、开源信息",
+      "app": "GitHub",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "yetone/magpie项目页，作者、仓库名、开源信息"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "github-author",
+      "scene_ids": [
+        "scene_07"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Magpie README中连接Agent的功能说明",
+      "app": "GitHub",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Magpie README中连接Agent的功能说明"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "github-example",
+      "scene_ids": [
+        "scene_08"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "WorkBuddy实际模型选择界面与客户端标题",
+      "app": "WorkBuddy",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "WorkBuddy实际模型选择界面与客户端标题"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "workbuddy-models",
+      "scene_ids": [
+        "scene_10"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "CC Switch真实项目页或配置页面，只作为工具身份，不伪造Bug",
+      "app": "CC Switch",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "CC Switch真实项目页或配置页面，只作为工具身份，不伪造Bug"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "ccswitch",
+      "scene_ids": [
+        "scene_19"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Magpie Agents界面真实操作，展示集中管理",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Magpie Agents界面真实操作，展示集中管理"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "agents-recording",
+      "scene_ids": [
+        "scene_20"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    },
+    {
+      "purpose": "Providers列表中的来源与可用模型",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Providers列表中的来源与可用模型"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "providers",
+      "scene_ids": [
+        "scene_21"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Routing页面中的组和路由设置，保留标题",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Routing页面中的组和路由设置，保留标题"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "routing",
+      "scene_ids": [
+        "scene_22"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Qoder与WorkBuddy官方免费活动、截至日期和签到积分规则",
+      "app": "官方文档",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Qoder与WorkBuddy官方免费活动、截至日期和签到积分规则"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "free-policy",
+      "scene_ids": [
+        "scene_24"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "真实插件页同时展示WorkBuddy与Qoder来源",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "真实插件页同时展示WorkBuddy与Qoder来源"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "plugins",
+      "scene_ids": [
+        "scene_25"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Harness中实际选择WorkBuddy DeepSeek的模型列表",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Harness中实际选择WorkBuddy DeepSeek的模型列表"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "models-select",
+      "scene_ids": [
+        "scene_26"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    },
+    {
+      "purpose": "真实任务输出录像，模型与完整结果上下文同时出现",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "真实任务输出录像，模型与完整结果上下文同时出现"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "task-result",
+      "scene_ids": [
+        "scene_27"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    },
+    {
+      "purpose": "WorkBuddy多账号页面，遮挡真实账号标识",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "WorkBuddy多账号页面，遮挡真实账号标识"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "accounts-wb",
+      "scene_ids": [
+        "scene_28"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "WorkBuddy AI多账号已授权状态，遮挡账号标识",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "WorkBuddy AI多账号已授权状态，遮挡账号标识"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "accounts-wbai",
+      "scene_ids": [
+        "scene_29"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "Magpie官方安装入口与支持平台文档",
+      "app": "GitHub",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "Magpie官方安装入口与支持平台文档"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "installation",
+      "scene_ids": [
+        "scene_30"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "准备好的安装提示词完整可读，不执行系统安装",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "准备好的安装提示词完整可读，不执行系统安装"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "setup-prompt",
+      "scene_ids": [
+        "scene_31"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "真实账号授权入口，展示需要用户完成的步骤，不替用户登录",
+      "app": "Magpie",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "真实账号授权入口，展示需要用户完成的步骤，不替用户登录"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "authorization",
+      "scene_ids": [
+        "scene_32"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    },
+    {
+      "purpose": "真实web/desktop Profile选择或真实配置文件路径",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "真实web/desktop Profile选择或真实配置文件路径"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "profiles",
+      "scene_ids": [
+        "scene_33"
+      ],
+      "deliverables": [
+        "screenshot"
+      ]
+    },
+    {
+      "purpose": "重启后模型列表和已运行的真实任务结果录像",
+      "app": "DeepSeek Harness",
+      "task_context": "财叔第4期Magpie视频；优先复用同主题公众号原始素材，只补对应缺口",
+      "required_events": [
+        "重启后模型列表和已运行的真实任务结果录像"
+      ],
+      "framing": "保留应用标题、对象、模型来源和结果上下文；固定电脑媒体框，原始比例contain",
+      "readability_requirements": "手机画幅可识别关键标签；不显示邮箱、账号标识、密钥、令牌或未授权聊天",
+      "id": "verify",
+      "scene_ids": [
+        "scene_34"
+      ],
+      "deliverables": [
+        "recording"
+      ]
+    }
+  ]
+}

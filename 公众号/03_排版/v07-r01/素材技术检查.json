@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-27T21:30:11.215731+08:00",
+  "source_v05_unchanged": true,
+  "body_text_unchanged": true,
+  "image_count": 11,
+  "body_images": 10,
+  "codex_native_screenshot_cancelled": true,
+  "approved_unaffected_assets_preserved": true,
+  "first_two_images": "完整2560×1640应用窗口，原始模型菜单红框，随后等比缩放并加品牌框",
+  "gif": {
+    "frames": 69,
+    "duration_seconds": 23,
+    "speed": 1,
+    "fps": 3,
+    "loop": 0,
+    "bytes": 9076962,
+    "observed_tok_s": 111,
+    "all_frames_decode": true,
+    "border_valid": true
+  },
+  "html_lint": "0 ERROR / 0 WARNING",
+  "mobile_width": 390,
+  "mobile_horizontal_overflow": false,
+  "backend_visual_qa": "pending login"
+}

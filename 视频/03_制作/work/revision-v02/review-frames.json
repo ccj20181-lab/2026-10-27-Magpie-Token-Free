@@ -1,0 +1,16 @@
+{
+  "agent-full": 100,
+  "providers-full": 160,
+  "routing-full": 250,
+  "harness-full": 320,
+  "harness-join-before": 334,
+  "harness-join-after": 335,
+  "harness-moving": 390,
+  "harness-close": 430,
+  "wb-full": 1223,
+  "wb-moving": 1265,
+  "wb-close": 1311,
+  "credits-full": 3356,
+  "credits-moving": 3395,
+  "credits-close": 3431
+}

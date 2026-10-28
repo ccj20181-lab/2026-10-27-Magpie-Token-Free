@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

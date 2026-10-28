@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "system_root": "/Users/henry/Documents/我的创作知识库",
+  "entries": 212,
+  "vaults": [
+    {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+      "entries": 40,
+      "issues": []
+    },
+    {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/秒懂金融学院/04_创作知识库",
+      "entries": 101,
+      "issues": []
+    },
+    {
+      "ok": true,
+      "vault": "/Users/henry/Documents/我的创作知识库/02_CDI智库口播知识库",
+      "entries": 71,
+      "issues": []
+    }
+  ],
+  "issues": []
+}

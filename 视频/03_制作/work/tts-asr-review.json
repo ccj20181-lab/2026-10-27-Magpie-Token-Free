@@ -1,0 +1,7965 @@
+[
+  {
+    "id": "scene_01",
+    "source": "兄弟们，这次真的 Token 自由了！",
+    "asr": "兄弟们,这次真的Token自由了",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 1.94,
+        "text": "兄弟们,这次真的Token自由了",
+        "tokens": [
+          50365,
+          24982,
+          19630,
+          9497,
+          11,
+          5562,
+          9487,
+          8034,
+          51,
+          8406,
+          45233,
+          2289,
+          50465
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.25821549551827566,
+        "compression_ratio": 0.7659574468085106,
+        "no_speech_prob": 5.920032519757257e-11,
+        "words": [
+          {
+            "word": "兄",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "弟",
+            "start": 0.32,
+            "end": 0.46,
+            "probability": 1.0
+          },
+          {
+            "word": "们,",
+            "start": 0.46,
+            "end": 0.58,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "这",
+            "start": 0.76,
+            "end": 0.86,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "次",
+            "start": 0.86,
+            "end": 1.02,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "真的",
+            "start": 1.02,
+            "end": 1.26,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "T",
+            "start": 1.26,
+            "end": 1.4,
+            "probability": 0.278076171875
+          },
+          {
+            "word": "oken",
+            "start": 1.4,
+            "end": 1.52,
+            "probability": 0.96044921875
+          },
+          {
+            "word": "自由",
+            "start": 1.52,
+            "end": 1.78,
+            "probability": 0.98388671875
+          },
+          {
+            "word": "了",
+            "start": 1.78,
+            "end": 1.94,
+            "probability": 0.9921875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_02",
+    "source": "最近我用上了一个真神器，叫 Magpie，越用越上头。",
+    "asr": "最近我用上了一个真神器叫Magpie，越用越上头。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.34,
+        "text": "最近我用上了一个真神器叫Magpie，越用越上头。",
+        "tokens": [
+          50365,
+          46777,
+          1654,
+          9254,
+          5708,
+          2289,
+          20182,
+          6303,
+          20432,
+          34386,
+          19855,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          25761,
+          9254,
+          25761,
+          5708,
+          39862,
+          1543,
+          50535
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.29816577831904095,
+        "compression_ratio": 0.875,
+        "no_speech_prob": 6.7069634568373e-11,
+        "words": [
+          {
+            "word": "最近",
+            "start": 0.0,
+            "end": 0.42,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "我",
+            "start": 0.42,
+            "end": 0.6,
+            "probability": 0.98095703125
+          },
+          {
+            "word": "用",
+            "start": 0.6,
+            "end": 0.72,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "上",
+            "start": 0.72,
+            "end": 0.84,
+            "probability": 0.9619140625
+          },
+          {
+            "word": "了",
+            "start": 0.84,
+            "end": 0.94,
+            "probability": 0.982421875
+          },
+          {
+            "word": "一个",
+            "start": 0.94,
+            "end": 1.06,
+            "probability": 0.95849609375
+          },
+          {
+            "word": "真",
+            "start": 1.06,
+            "end": 1.2,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "神",
+            "start": 1.2,
+            "end": 1.36,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "器",
+            "start": 1.36,
+            "end": 1.52,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "叫",
+            "start": 1.52,
+            "end": 1.88,
+            "probability": 0.86181640625
+          },
+          {
+            "word": "Mag",
+            "start": 1.88,
+            "end": 2.12,
+            "probability": 0.89111328125
+          },
+          {
+            "word": "pie，",
+            "start": 2.12,
+            "end": 2.32,
+            "probability": 0.46240234375
+          },
+          {
+            "word": "越",
+            "start": 2.62,
+            "end": 2.76,
+            "probability": 0.939453125
+          },
+          {
+            "word": "用",
+            "start": 2.76,
+            "end": 2.88,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "越",
+            "start": 2.88,
+            "end": 3.0,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "上",
+            "start": 3.0,
+            "end": 3.18,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "头。",
+            "start": 3.18,
+            "end": 3.34,
+            "probability": 0.92333984375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_03",
+    "source": "它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。",
+    "asr": "它直接把WalkBuddy，Coder，这些大厂的免费模型接近了我常用的DeepSeek桌面段。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.96,
+        "text": "它直接把WalkBuddy，Coder，这些大厂的免费模型接近了我常用的DeepSeek桌面段。",
+        "tokens": [
+          50365,
+          11284,
+          43297,
+          16075,
+          54,
+          667,
+          33,
+          532,
+          3173,
+          171,
+          120,
+          234,
+          34,
+          19866,
+          171,
+          120,
+          234,
+          5562,
+          13824,
+          3582,
+          5014,
+          224,
+          1546,
+          2347,
+          235,
+          18464,
+          117,
+          41908,
+          39823,
+          14468,
+          17463,
+          2289,
+          1654,
+          11279,
+          9254,
+          1546,
+          11089,
+          595,
+          10637,
+          916,
+          162,
+          5475,
+          8833,
+          28427,
+          1543,
+          50625
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1481597880099682,
+        "compression_ratio": 0.9009009009009009,
+        "no_speech_prob": 6.178905304077276e-11,
+        "words": [
+          {
+            "word": "它",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.355224609375
+          },
+          {
+            "word": "直接",
+            "start": 0.26,
+            "end": 0.44,
+            "probability": 0.97509765625
+          },
+          {
+            "word": "把",
+            "start": 0.44,
+            "end": 0.62,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "W",
+            "start": 0.62,
+            "end": 0.74,
+            "probability": 0.1937255859375
+          },
+          {
+            "word": "alk",
+            "start": 0.74,
+            "end": 0.86,
+            "probability": 0.962890625
+          },
+          {
+            "word": "B",
+            "start": 0.86,
+            "end": 0.96,
+            "probability": 0.135986328125
+          },
+          {
+            "word": "ud",
+            "start": 0.96,
+            "end": 1.04,
+            "probability": 0.175048828125
+          },
+          {
+            "word": "dy，",
+            "start": 1.04,
+            "end": 1.2,
+            "probability": 0.88134765625
+          },
+          {
+            "word": "C",
+            "start": 1.48,
+            "end": 1.58,
+            "probability": 0.85107421875
+          },
+          {
+            "word": "oder，",
+            "start": 1.58,
+            "end": 1.68,
+            "probability": 0.8837890625
+          },
+          {
+            "word": "这",
+            "start": 1.78,
+            "end": 1.92,
+            "probability": 0.72705078125
+          },
+          {
+            "word": "些",
+            "start": 1.92,
+            "end": 2.04,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "大",
+            "start": 2.04,
+            "end": 2.14,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "厂",
+            "start": 2.14,
+            "end": 2.32,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "的",
+            "start": 2.32,
+            "end": 2.42,
+            "probability": 0.96484375
+          },
+          {
+            "word": "免",
+            "start": 2.42,
+            "end": 2.58,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "费",
+            "start": 2.58,
+            "end": 2.7,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "模",
+            "start": 2.7,
+            "end": 2.82,
+            "probability": 0.998046875
+          },
+          {
+            "word": "型",
+            "start": 2.82,
+            "end": 3.04,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "接",
+            "start": 3.04,
+            "end": 3.32,
+            "probability": 0.94189453125
+          },
+          {
+            "word": "近",
+            "start": 3.32,
+            "end": 3.44,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "了",
+            "start": 3.44,
+            "end": 3.54,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "我",
+            "start": 3.54,
+            "end": 3.64,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "常",
+            "start": 3.64,
+            "end": 3.78,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "用",
+            "start": 3.78,
+            "end": 3.96,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "的",
+            "start": 3.96,
+            "end": 4.06,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "De",
+            "start": 4.06,
+            "end": 4.18,
+            "probability": 0.791015625
+          },
+          {
+            "word": "ep",
+            "start": 4.18,
+            "end": 4.28,
+            "probability": 0.9482421875
+          },
+          {
+            "word": "Se",
+            "start": 4.28,
+            "end": 4.38,
+            "probability": 0.2098388671875
+          },
+          {
+            "word": "ek",
+            "start": 4.38,
+            "end": 4.52,
+            "probability": 0.8056640625
+          },
+          {
+            "word": "桌",
+            "start": 4.52,
+            "end": 4.68,
+            "probability": 0.984375
+          },
+          {
+            "word": "面",
+            "start": 4.68,
+            "end": 4.82,
+            "probability": 1.0
+          },
+          {
+            "word": "段。",
+            "start": 4.82,
+            "end": 4.96,
+            "probability": 0.62841796875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_04",
+    "source": "现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。",
+    "asr": "现在我打开模型列表。DeepSeek，Step，GPT，Grok，Gemini，全都在里面,想用哪个就用哪个。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.8,
+        "text": "现在我打开模型列表。DeepSeek，Step，GPT，Grok，Gemini，全都在里面,想用哪个就用哪个。",
+        "tokens": [
+          50365,
+          25040,
+          1654,
+          12467,
+          18937,
+          41908,
+          39823,
+          43338,
+          17571,
+          1543,
+          11089,
+          595,
+          10637,
+          916,
+          171,
+          120,
+          234,
+          23624,
+          171,
+          120,
+          234,
+          38,
+          47,
+          51,
+          171,
+          120,
+          234,
+          38,
+          31621,
+          171,
+          120,
+          234,
+          38,
+          443,
+          3812,
+          171,
+          120,
+          234,
+          11319,
+          7182,
+          3581,
+          15759,
+          8833,
+          11,
+          7093,
+          9254,
+          17028,
+          7549,
+          3111,
+          9254,
+          17028,
+          7549,
+          1543,
+          50705
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.09656645167957653,
+        "compression_ratio": 1.0272727272727273,
+        "no_speech_prob": 6.038208821834701e-11,
+        "words": [
+          {
+            "word": "现在",
+            "start": 0.0,
+            "end": 0.34,
+            "probability": 0.98388671875
+          },
+          {
+            "word": "我",
+            "start": 0.34,
+            "end": 0.5,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "打",
+            "start": 0.5,
+            "end": 0.58,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "开",
+            "start": 0.58,
+            "end": 0.7,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "模",
+            "start": 0.7,
+            "end": 0.82,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "型",
+            "start": 0.82,
+            "end": 0.96,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "列",
+            "start": 0.96,
+            "end": 1.06,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "表。",
+            "start": 1.06,
+            "end": 1.24,
+            "probability": 1.0
+          },
+          {
+            "word": "De",
+            "start": 1.54,
+            "end": 1.78,
+            "probability": 0.77001953125
+          },
+          {
+            "word": "ep",
+            "start": 1.78,
+            "end": 1.88,
+            "probability": 0.912109375
+          },
+          {
+            "word": "Se",
+            "start": 1.88,
+            "end": 2.0,
+            "probability": 0.1497802734375
+          },
+          {
+            "word": "ek，",
+            "start": 2.0,
+            "end": 2.16,
+            "probability": 0.72119140625
+          },
+          {
+            "word": "Step，",
+            "start": 2.44,
+            "end": 2.68,
+            "probability": 0.66552734375
+          },
+          {
+            "word": "G",
+            "start": 3.04,
+            "end": 3.1,
+            "probability": 0.935546875
+          },
+          {
+            "word": "P",
+            "start": 3.1,
+            "end": 3.18,
+            "probability": 0.78662109375
+          },
+          {
+            "word": "T，",
+            "start": 3.18,
+            "end": 3.36,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "G",
+            "start": 3.56,
+            "end": 3.62,
+            "probability": 0.791015625
+          },
+          {
+            "word": "rok，",
+            "start": 3.62,
+            "end": 3.8,
+            "probability": 0.213623046875
+          },
+          {
+            "word": "G",
+            "start": 4.1,
+            "end": 4.22,
+            "probability": 0.87890625
+          },
+          {
+            "word": "em",
+            "start": 4.22,
+            "end": 4.3,
+            "probability": 0.88232421875
+          },
+          {
+            "word": "ini，",
+            "start": 4.3,
+            "end": 4.46,
+            "probability": 0.96240234375
+          },
+          {
+            "word": "全",
+            "start": 4.74,
+            "end": 4.86,
+            "probability": 0.9052734375
+          },
+          {
+            "word": "都",
+            "start": 4.86,
+            "end": 4.98,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "在",
+            "start": 4.98,
+            "end": 5.1,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "里",
+            "start": 5.1,
+            "end": 5.2,
+            "probability": 0.9775390625
+          },
+          {
+            "word": "面,",
+            "start": 5.2,
+            "end": 5.32,
+            "probability": 0.99609375
+          },
+          {
+            "word": "想",
+            "start": 5.6,
+            "end": 5.74,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "用",
+            "start": 5.74,
+            "end": 5.88,
+            "probability": 0.994140625
+          },
+          {
+            "word": "哪",
+            "start": 5.88,
+            "end": 6.0,
+            "probability": 0.94677734375
+          },
+          {
+            "word": "个",
+            "start": 6.0,
+            "end": 6.12,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "就",
+            "start": 6.12,
+            "end": 6.42,
+            "probability": 0.86376953125
+          },
+          {
+            "word": "用",
+            "start": 6.42,
+            "end": 6.54,
+            "probability": 0.97802734375
+          },
+          {
+            "word": "哪",
+            "start": 6.54,
+            "end": 6.68,
+            "probability": 0.994140625
+          },
+          {
+            "word": "个。",
+            "start": 6.68,
+            "end": 6.8,
+            "probability": 0.998046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_05",
+    "source": "而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。",
+    "asr": "而且不止DeepSeek Harness，我日常主力用的Codex也被我接近了一大堆其他模型。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.0,
+        "text": "而且不止DeepSeek Harness，我日常主力用的Codex也被我接近了一大堆其他模型。",
+        "tokens": [
+          50365,
+          22942,
+          1960,
+          30438,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          1654,
+          6890,
+          11279,
+          13557,
+          13486,
+          9254,
+          1546,
+          34,
+          1429,
+          87,
+          6404,
+          23238,
+          1654,
+          14468,
+          17463,
+          2289,
+          2257,
+          3582,
+          10726,
+          228,
+          9572,
+          5000,
+          41908,
+          39823,
+          1543,
+          50625
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.13616671562194824,
+        "compression_ratio": 0.9,
+        "no_speech_prob": 5.850425005560211e-11,
+        "words": [
+          {
+            "word": "而且",
+            "start": 0.0,
+            "end": 0.4,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "不",
+            "start": 0.4,
+            "end": 0.6,
+            "probability": 0.9208984375
+          },
+          {
+            "word": "止",
+            "start": 0.6,
+            "end": 0.74,
+            "probability": 0.76806640625
+          },
+          {
+            "word": "De",
+            "start": 0.74,
+            "end": 0.86,
+            "probability": 0.4306640625
+          },
+          {
+            "word": "ep",
+            "start": 0.86,
+            "end": 0.96,
+            "probability": 0.986328125
+          },
+          {
+            "word": "Se",
+            "start": 0.96,
+            "end": 1.04,
+            "probability": 0.036346435546875
+          },
+          {
+            "word": "ek",
+            "start": 1.04,
+            "end": 1.14,
+            "probability": 0.0018167495727539062
+          },
+          {
+            "word": " H",
+            "start": 1.14,
+            "end": 1.24,
+            "probability": 0.90087890625
+          },
+          {
+            "word": "arness，",
+            "start": 1.24,
+            "end": 1.38,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "我",
+            "start": 1.72,
+            "end": 1.88,
+            "probability": 0.92333984375
+          },
+          {
+            "word": "日",
+            "start": 1.88,
+            "end": 1.96,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "常",
+            "start": 1.96,
+            "end": 2.1,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "主",
+            "start": 2.1,
+            "end": 2.28,
+            "probability": 0.98095703125
+          },
+          {
+            "word": "力",
+            "start": 2.28,
+            "end": 2.4,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "用",
+            "start": 2.4,
+            "end": 2.54,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "的",
+            "start": 2.54,
+            "end": 2.66,
+            "probability": 0.998046875
+          },
+          {
+            "word": "C",
+            "start": 2.66,
+            "end": 2.78,
+            "probability": 0.494140625
+          },
+          {
+            "word": "ode",
+            "start": 2.78,
+            "end": 2.9,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "x",
+            "start": 2.9,
+            "end": 3.08,
+            "probability": 0.84765625
+          },
+          {
+            "word": "也",
+            "start": 3.08,
+            "end": 3.46,
+            "probability": 0.802734375
+          },
+          {
+            "word": "被",
+            "start": 3.46,
+            "end": 3.58,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "我",
+            "start": 3.58,
+            "end": 3.72,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "接",
+            "start": 3.72,
+            "end": 3.86,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "近",
+            "start": 3.86,
+            "end": 4.0,
+            "probability": 0.9892578125
+          },
+          {
+            "word": "了",
+            "start": 4.0,
+            "end": 4.1,
+            "probability": 0.986328125
+          },
+          {
+            "word": "一",
+            "start": 4.1,
+            "end": 4.2,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "大",
+            "start": 4.2,
+            "end": 4.3,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "堆",
+            "start": 4.3,
+            "end": 4.48,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "其",
+            "start": 4.48,
+            "end": 4.62,
+            "probability": 0.978515625
+          },
+          {
+            "word": "他",
+            "start": 4.62,
+            "end": 4.74,
+            "probability": 0.85498046875
+          },
+          {
+            "word": "模",
+            "start": 4.74,
+            "end": 4.86,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "型。",
+            "start": 4.86,
+            "end": 5.0,
+            "probability": 0.99560546875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_06",
+    "source": "那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。",
+    "asr": "那Magpie到底是个啥?你把它理解成一个模型总控台就行。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.8,
+        "text": "那Magpie到底是个啥?你把它理解成一个模型总控台就行。",
+        "tokens": [
+          50365,
+          4184,
+          37445,
+          9144,
+          33883,
+          1541,
+          7549,
+          3284,
+          98,
+          30,
+          2166,
+          42061,
+          13876,
+          17278,
+          11336,
+          20182,
+          41908,
+          39823,
+          33440,
+          48707,
+          15433,
+          3111,
+          8082,
+          1543,
+          50565
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1823440515078031,
+        "compression_ratio": 0.8690476190476191,
+        "no_speech_prob": 6.003609415161648e-11,
+        "words": [
+          {
+            "word": "那",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.95361328125
+          },
+          {
+            "word": "Mag",
+            "start": 0.32,
+            "end": 0.5,
+            "probability": 0.85986328125
+          },
+          {
+            "word": "pie",
+            "start": 0.5,
+            "end": 0.64,
+            "probability": 0.1749267578125
+          },
+          {
+            "word": "到底",
+            "start": 0.64,
+            "end": 0.84,
+            "probability": 0.87255859375
+          },
+          {
+            "word": "是",
+            "start": 0.84,
+            "end": 1.06,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "个",
+            "start": 1.06,
+            "end": 1.14,
+            "probability": 0.96630859375
+          },
+          {
+            "word": "啥?",
+            "start": 1.14,
+            "end": 1.36,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "你",
+            "start": 1.56,
+            "end": 1.86,
+            "probability": 0.970703125
+          },
+          {
+            "word": "把它",
+            "start": 1.86,
+            "end": 2.0,
+            "probability": 0.9658203125
+          },
+          {
+            "word": "理",
+            "start": 2.0,
+            "end": 2.2,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "解",
+            "start": 2.2,
+            "end": 2.32,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "成",
+            "start": 2.32,
+            "end": 2.46,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "一个",
+            "start": 2.46,
+            "end": 2.68,
+            "probability": 0.97607421875
+          },
+          {
+            "word": "模",
+            "start": 2.68,
+            "end": 2.88,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "型",
+            "start": 2.88,
+            "end": 3.08,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "总",
+            "start": 3.08,
+            "end": 3.22,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "控",
+            "start": 3.22,
+            "end": 3.36,
+            "probability": 0.93896484375
+          },
+          {
+            "word": "台",
+            "start": 3.36,
+            "end": 3.5,
+            "probability": 0.990234375
+          },
+          {
+            "word": "就",
+            "start": 3.5,
+            "end": 3.66,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "行。",
+            "start": 3.66,
+            "end": 3.8,
+            "probability": 0.98046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_07",
+    "source": "Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。",
+    "asr": "Magpie，是GitHub上一个叫Yatone大神做的开源项目。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.24,
+        "text": "Magpie，是GitHub上一个叫Yatone大神做的开源项目。",
+        "tokens": [
+          50365,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          1541,
+          38,
+          270,
+          21150,
+          5708,
+          20182,
+          19855,
+          56,
+          267,
+          546,
+          3582,
+          20432,
+          10907,
+          1546,
+          18937,
+          47402,
+          10178,
+          117,
+          11386,
+          1543,
+          50530
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.3008101667676653,
+        "compression_ratio": 0.8513513513513513,
+        "no_speech_prob": 7.893261044777944e-11,
+        "words": [
+          {
+            "word": "Mag",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.95068359375
+          },
+          {
+            "word": "pie，",
+            "start": 0.3,
+            "end": 0.48,
+            "probability": 0.328369140625
+          },
+          {
+            "word": "是",
+            "start": 0.58,
+            "end": 0.72,
+            "probability": 0.8740234375
+          },
+          {
+            "word": "G",
+            "start": 0.72,
+            "end": 0.86,
+            "probability": 0.71630859375
+          },
+          {
+            "word": "it",
+            "start": 0.86,
+            "end": 0.92,
+            "probability": 0.76806640625
+          },
+          {
+            "word": "Hub",
+            "start": 0.92,
+            "end": 1.04,
+            "probability": 0.9814453125
+          },
+          {
+            "word": "上",
+            "start": 1.04,
+            "end": 1.24,
+            "probability": 0.83984375
+          },
+          {
+            "word": "一个",
+            "start": 1.24,
+            "end": 1.54,
+            "probability": 0.71923828125
+          },
+          {
+            "word": "叫",
+            "start": 1.54,
+            "end": 1.72,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "Y",
+            "start": 1.72,
+            "end": 1.84,
+            "probability": 0.1783447265625
+          },
+          {
+            "word": "at",
+            "start": 1.84,
+            "end": 1.94,
+            "probability": 0.48779296875
+          },
+          {
+            "word": "one",
+            "start": 1.94,
+            "end": 2.06,
+            "probability": 0.80712890625
+          },
+          {
+            "word": "大",
+            "start": 2.06,
+            "end": 2.2,
+            "probability": 0.485107421875
+          },
+          {
+            "word": "神",
+            "start": 2.2,
+            "end": 2.42,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "做",
+            "start": 2.42,
+            "end": 2.58,
+            "probability": 0.9111328125
+          },
+          {
+            "word": "的",
+            "start": 2.58,
+            "end": 2.68,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "开",
+            "start": 2.68,
+            "end": 2.78,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "源",
+            "start": 2.78,
+            "end": 2.92,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "项",
+            "start": 2.92,
+            "end": 3.12,
+            "probability": 0.99609375
+          },
+          {
+            "word": "目。",
+            "start": 3.12,
+            "end": 3.24,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_08",
+    "source": "它干的事儿其实特别好懂，我给你举个最简单的例子。",
+    "asr": "他干的事儿其实特别好懂,我给你举个最简单的例子。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.0,
+        "text": "他干的事儿其实特别好懂,我给你举个最简单的例子。",
+        "tokens": [
+          50365,
+          5000,
+          26111,
+          1546,
+          6973,
+          22933,
+          41646,
+          17682,
+          18453,
+          2131,
+          29624,
+          11,
+          1654,
+          23197,
+          2166,
+          940,
+          122,
+          7549,
+          8661,
+          11249,
+          222,
+          47446,
+          1546,
+          17797,
+          7626,
+          1543,
+          50525
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1883908680507115,
+        "compression_ratio": 0.8641975308641975,
+        "no_speech_prob": 7.358736536788868e-11,
+        "words": [
+          {
+            "word": "他",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.7783203125
+          },
+          {
+            "word": "干",
+            "start": 0.26,
+            "end": 0.36,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "的",
+            "start": 0.36,
+            "end": 0.48,
+            "probability": 0.99609375
+          },
+          {
+            "word": "事",
+            "start": 0.48,
+            "end": 0.6,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "儿",
+            "start": 0.6,
+            "end": 0.7,
+            "probability": 0.24658203125
+          },
+          {
+            "word": "其实",
+            "start": 0.7,
+            "end": 0.84,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "特",
+            "start": 0.84,
+            "end": 1.04,
+            "probability": 0.99609375
+          },
+          {
+            "word": "别",
+            "start": 1.04,
+            "end": 1.18,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "好",
+            "start": 1.18,
+            "end": 1.32,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "懂,",
+            "start": 1.32,
+            "end": 1.46,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "我",
+            "start": 1.84,
+            "end": 1.88,
+            "probability": 0.970703125
+          },
+          {
+            "word": "给",
+            "start": 1.88,
+            "end": 1.96,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "你",
+            "start": 1.96,
+            "end": 2.08,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "举",
+            "start": 2.08,
+            "end": 2.2,
+            "probability": 0.998046875
+          },
+          {
+            "word": "个",
+            "start": 2.2,
+            "end": 2.28,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "最",
+            "start": 2.28,
+            "end": 2.38,
+            "probability": 0.95849609375
+          },
+          {
+            "word": "简",
+            "start": 2.38,
+            "end": 2.56,
+            "probability": 1.0
+          },
+          {
+            "word": "单",
+            "start": 2.56,
+            "end": 2.66,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "的",
+            "start": 2.66,
+            "end": 2.76,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "例",
+            "start": 2.76,
+            "end": 2.86,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "子。",
+            "start": 2.86,
+            "end": 3.0,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_09",
+    "source": "比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。",
+    "asr": "比如你在Codex里登了一个账号,这个账号能用的一批模型,正常就只能在Codex里面用。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.68,
+        "text": "比如你在Codex里登了一个账号,这个账号能用的一批模型,正常就只能在Codex里面用。",
+        "tokens": [
+          50365,
+          36757,
+          41410,
+          34,
+          1429,
+          87,
+          15759,
+          25874,
+          2289,
+          20182,
+          18464,
+          99,
+          26987,
+          11,
+          15368,
+          18464,
+          99,
+          26987,
+          8225,
+          9254,
+          1546,
+          2257,
+          3416,
+          117,
+          41908,
+          39823,
+          11,
+          15789,
+          11279,
+          3111,
+          14003,
+          8225,
+          3581,
+          34,
+          1429,
+          87,
+          15759,
+          8833,
+          9254,
+          1543,
+          50651
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.11236429214477539,
+        "compression_ratio": 1.0384615384615385,
+        "no_speech_prob": 5.87624532366604e-11,
+        "words": [
+          {
+            "word": "比如",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "你在",
+            "start": 0.32,
+            "end": 0.66,
+            "probability": 0.9814453125
+          },
+          {
+            "word": "C",
+            "start": 0.66,
+            "end": 0.82,
+            "probability": 0.362548828125
+          },
+          {
+            "word": "ode",
+            "start": 0.82,
+            "end": 0.9,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "x",
+            "start": 0.9,
+            "end": 1.12,
+            "probability": 0.9638671875
+          },
+          {
+            "word": "里",
+            "start": 1.12,
+            "end": 1.2,
+            "probability": 0.966796875
+          },
+          {
+            "word": "登",
+            "start": 1.2,
+            "end": 1.38,
+            "probability": 0.99609375
+          },
+          {
+            "word": "了",
+            "start": 1.38,
+            "end": 1.5,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "一个",
+            "start": 1.5,
+            "end": 1.64,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "账",
+            "start": 1.64,
+            "end": 1.78,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "号,",
+            "start": 1.78,
+            "end": 1.94,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "这个",
+            "start": 2.3,
+            "end": 2.36,
+            "probability": 0.96875
+          },
+          {
+            "word": "账",
+            "start": 2.36,
+            "end": 2.52,
+            "probability": 0.99609375
+          },
+          {
+            "word": "号",
+            "start": 2.52,
+            "end": 2.7,
+            "probability": 1.0
+          },
+          {
+            "word": "能",
+            "start": 2.7,
+            "end": 2.98,
+            "probability": 0.9453125
+          },
+          {
+            "word": "用",
+            "start": 2.98,
+            "end": 3.14,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "的",
+            "start": 3.14,
+            "end": 3.22,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "一",
+            "start": 3.22,
+            "end": 3.36,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "批",
+            "start": 3.36,
+            "end": 3.44,
+            "probability": 0.99609375
+          },
+          {
+            "word": "模",
+            "start": 3.44,
+            "end": 3.58,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "型,",
+            "start": 3.58,
+            "end": 3.76,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "正",
+            "start": 3.92,
+            "end": 4.2,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "常",
+            "start": 4.2,
+            "end": 4.34,
+            "probability": 1.0
+          },
+          {
+            "word": "就",
+            "start": 4.34,
+            "end": 4.56,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "只",
+            "start": 4.56,
+            "end": 4.68,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "能",
+            "start": 4.68,
+            "end": 4.8,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "在",
+            "start": 4.8,
+            "end": 4.96,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "C",
+            "start": 4.96,
+            "end": 5.1,
+            "probability": 0.9833984375
+          },
+          {
+            "word": "ode",
+            "start": 5.1,
+            "end": 5.18,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "x",
+            "start": 5.18,
+            "end": 5.36,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "里",
+            "start": 5.36,
+            "end": 5.46,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "面",
+            "start": 5.46,
+            "end": 5.56,
+            "probability": 0.953125
+          },
+          {
+            "word": "用。",
+            "start": 5.56,
+            "end": 5.68,
+            "probability": 0.998046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_10",
+    "source": "WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。",
+    "asr": "WorkBuddy也一样,它有它自己的模型和额度,平时你就得回WorkBuddy里面用。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.66,
+        "text": "WorkBuddy也一样,它有它自己的模型和额度,平时你就得回WorkBuddy里面用。",
+        "tokens": [
+          50365,
+          28846,
+          33,
+          532,
+          3173,
+          6404,
+          2257,
+          14496,
+          11,
+          11284,
+          2412,
+          11284,
+          17645,
+          1546,
+          41908,
+          39823,
+          12565,
+          12501,
+          251,
+          13127,
+          11,
+          16716,
+          15729,
+          41045,
+          5916,
+          8350,
+          28846,
+          33,
+          532,
+          3173,
+          15759,
+          8833,
+          9254,
+          1543,
+          50600
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.14450984530978733,
+        "compression_ratio": 0.92,
+        "no_speech_prob": 7.808323432278996e-11,
+        "words": [
+          {
+            "word": "Work",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.5615234375
+          },
+          {
+            "word": "B",
+            "start": 0.26,
+            "end": 0.42,
+            "probability": 0.045196533203125
+          },
+          {
+            "word": "ud",
+            "start": 0.42,
+            "end": 0.5,
+            "probability": 0.01531982421875
+          },
+          {
+            "word": "dy",
+            "start": 0.5,
+            "end": 0.56,
+            "probability": 0.83984375
+          },
+          {
+            "word": "也",
+            "start": 0.56,
+            "end": 0.66,
+            "probability": 0.9716796875
+          },
+          {
+            "word": "一",
+            "start": 0.66,
+            "end": 0.8,
+            "probability": 0.99609375
+          },
+          {
+            "word": "样,",
+            "start": 0.8,
+            "end": 0.9,
+            "probability": 1.0
+          },
+          {
+            "word": "它",
+            "start": 1.08,
+            "end": 1.4,
+            "probability": 0.87646484375
+          },
+          {
+            "word": "有",
+            "start": 1.4,
+            "end": 1.52,
+            "probability": 0.99609375
+          },
+          {
+            "word": "它",
+            "start": 1.52,
+            "end": 1.62,
+            "probability": 0.96142578125
+          },
+          {
+            "word": "自己",
+            "start": 1.62,
+            "end": 1.82,
+            "probability": 0.994140625
+          },
+          {
+            "word": "的",
+            "start": 1.82,
+            "end": 1.96,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "模",
+            "start": 1.96,
+            "end": 2.08,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "型",
+            "start": 2.08,
+            "end": 2.24,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "和",
+            "start": 2.24,
+            "end": 2.38,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "额",
+            "start": 2.38,
+            "end": 2.54,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "度,",
+            "start": 2.54,
+            "end": 2.66,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "平",
+            "start": 2.96,
+            "end": 3.16,
+            "probability": 0.982421875
+          },
+          {
+            "word": "时",
+            "start": 3.16,
+            "end": 3.36,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "你就",
+            "start": 3.36,
+            "end": 3.62,
+            "probability": 0.87109375
+          },
+          {
+            "word": "得",
+            "start": 3.62,
+            "end": 3.76,
+            "probability": 0.994140625
+          },
+          {
+            "word": "回",
+            "start": 3.76,
+            "end": 3.9,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "Work",
+            "start": 3.9,
+            "end": 4.08,
+            "probability": 0.85498046875
+          },
+          {
+            "word": "B",
+            "start": 4.08,
+            "end": 4.22,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "ud",
+            "start": 4.22,
+            "end": 4.3,
+            "probability": 1.0
+          },
+          {
+            "word": "dy",
+            "start": 4.3,
+            "end": 4.4,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "里",
+            "start": 4.4,
+            "end": 4.44,
+            "probability": 0.96240234375
+          },
+          {
+            "word": "面",
+            "start": 4.44,
+            "end": 4.54,
+            "probability": 0.90283203125
+          },
+          {
+            "word": "用。",
+            "start": 4.54,
+            "end": 4.66,
+            "probability": 0.99609375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_11",
+    "source": "Magpie 做的事，就是在中间加一个总控台。",
+    "asr": "Magpie，做的事,就是在中间加一个总控台。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 2.76,
+        "text": "Magpie，做的事,就是在中间加一个总控台。",
+        "tokens": [
+          50365,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          10907,
+          1546,
+          6973,
+          11,
+          5620,
+          3581,
+          5975,
+          31685,
+          9990,
+          20182,
+          33440,
+          48707,
+          15433,
+          1543,
+          50510
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.26722853833978827,
+        "compression_ratio": 0.8333333333333334,
+        "no_speech_prob": 7.215439357111109e-11,
+        "words": [
+          {
+            "word": "Mag",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.92041015625
+          },
+          {
+            "word": "pie，",
+            "start": 0.32,
+            "end": 0.46,
+            "probability": 0.140380859375
+          },
+          {
+            "word": "做",
+            "start": 0.5,
+            "end": 0.64,
+            "probability": 0.62548828125
+          },
+          {
+            "word": "的",
+            "start": 0.64,
+            "end": 0.74,
+            "probability": 0.85546875
+          },
+          {
+            "word": "事,",
+            "start": 0.74,
+            "end": 0.9,
+            "probability": 0.91455078125
+          },
+          {
+            "word": "就是",
+            "start": 1.36,
+            "end": 1.46,
+            "probability": 0.95361328125
+          },
+          {
+            "word": "在",
+            "start": 1.46,
+            "end": 1.62,
+            "probability": 0.9765625
+          },
+          {
+            "word": "中",
+            "start": 1.62,
+            "end": 1.76,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "间",
+            "start": 1.76,
+            "end": 1.94,
+            "probability": 0.9287109375
+          },
+          {
+            "word": "加",
+            "start": 1.94,
+            "end": 2.14,
+            "probability": 0.9326171875
+          },
+          {
+            "word": "一个",
+            "start": 2.14,
+            "end": 2.32,
+            "probability": 0.9580078125
+          },
+          {
+            "word": "总",
+            "start": 2.32,
+            "end": 2.44,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "控",
+            "start": 2.44,
+            "end": 2.58,
+            "probability": 0.93310546875
+          },
+          {
+            "word": "台。",
+            "start": 2.58,
+            "end": 2.76,
+            "probability": 0.9755859375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_12",
+    "source": "左边接你的模型和订阅，右边接你真正想用的 Agent。",
+    "asr": "左边接你的模型和订阅,右边接你真正想用的Agent。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.5,
+        "text": "左边接你的模型和订阅,右边接你真正想用的Agent。",
+        "tokens": [
+          50365,
+          21975,
+          40503,
+          14468,
+          18961,
+          41908,
+          39823,
+          12565,
+          7422,
+          95,
+          10034,
+          227,
+          11,
+          22060,
+          40503,
+          14468,
+          2166,
+          6303,
+          15789,
+          7093,
+          9254,
+          1546,
+          32,
+          6930,
+          1543,
+          50541
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.11049150537561488,
+        "compression_ratio": 0.9565217391304348,
+        "no_speech_prob": 7.002019797308634e-11,
+        "words": [
+          {
+            "word": "左",
+            "start": 0.0,
+            "end": 0.28,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "边",
+            "start": 0.28,
+            "end": 0.48,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "接",
+            "start": 0.48,
+            "end": 0.62,
+            "probability": 0.994140625
+          },
+          {
+            "word": "你的",
+            "start": 0.62,
+            "end": 0.82,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "模",
+            "start": 0.82,
+            "end": 0.96,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "型",
+            "start": 0.96,
+            "end": 1.14,
+            "probability": 1.0
+          },
+          {
+            "word": "和",
+            "start": 1.14,
+            "end": 1.28,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "订",
+            "start": 1.28,
+            "end": 1.44,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "阅,",
+            "start": 1.44,
+            "end": 1.58,
+            "probability": 1.0
+          },
+          {
+            "word": "右",
+            "start": 1.72,
+            "end": 2.1,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "边",
+            "start": 2.1,
+            "end": 2.28,
+            "probability": 1.0
+          },
+          {
+            "word": "接",
+            "start": 2.28,
+            "end": 2.44,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "你",
+            "start": 2.44,
+            "end": 2.58,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "真",
+            "start": 2.58,
+            "end": 2.7,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "正",
+            "start": 2.7,
+            "end": 2.84,
+            "probability": 1.0
+          },
+          {
+            "word": "想",
+            "start": 2.84,
+            "end": 3.0,
+            "probability": 0.8583984375
+          },
+          {
+            "word": "用",
+            "start": 3.0,
+            "end": 3.14,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "的",
+            "start": 3.14,
+            "end": 3.24,
+            "probability": 1.0
+          },
+          {
+            "word": "A",
+            "start": 3.24,
+            "end": 3.34,
+            "probability": 0.54345703125
+          },
+          {
+            "word": "gent。",
+            "start": 3.34,
+            "end": 3.5,
+            "probability": 0.99755859375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_13",
+    "source": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+    "asr": "他先把不同账号里的可用模型认出来,再统一通过Magpie提供给其他Agent。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.7,
+        "text": "他先把不同账号里的可用模型认出来,再统一通过Magpie提供给其他Agent。",
+        "tokens": [
+          50365,
+          5000,
+          10108,
+          16075,
+          47123,
+          18464,
+          99,
+          26987,
+          15759,
+          1546,
+          4429,
+          9254,
+          41908,
+          39823,
+          7422,
+          97,
+          44561,
+          11,
+          8623,
+          10115,
+          253,
+          2257,
+          19550,
+          16866,
+          37445,
+          9144,
+          20949,
+          3254,
+          249,
+          23197,
+          9572,
+          5000,
+          32,
+          6930,
+          1543,
+          50605
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.17151876398035,
+        "compression_ratio": 0.8942307692307693,
+        "no_speech_prob": 6.401001950706586e-11,
+        "words": [
+          {
+            "word": "他",
+            "start": 0.0,
+            "end": 0.2,
+            "probability": 0.671875
+          },
+          {
+            "word": "先",
+            "start": 0.2,
+            "end": 0.34,
+            "probability": 0.97998046875
+          },
+          {
+            "word": "把",
+            "start": 0.34,
+            "end": 0.46,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "不同",
+            "start": 0.46,
+            "end": 0.72,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "账",
+            "start": 0.72,
+            "end": 0.88,
+            "probability": 0.90234375
+          },
+          {
+            "word": "号",
+            "start": 0.88,
+            "end": 1.0,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "里",
+            "start": 1.0,
+            "end": 1.08,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "的",
+            "start": 1.08,
+            "end": 1.2,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "可",
+            "start": 1.2,
+            "end": 1.34,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "用",
+            "start": 1.34,
+            "end": 1.46,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "模",
+            "start": 1.46,
+            "end": 1.6,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "型",
+            "start": 1.6,
+            "end": 1.76,
+            "probability": 0.994140625
+          },
+          {
+            "word": "认",
+            "start": 1.76,
+            "end": 1.88,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "出来,",
+            "start": 1.88,
+            "end": 2.12,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "再",
+            "start": 2.62,
+            "end": 2.64,
+            "probability": 0.68359375
+          },
+          {
+            "word": "统",
+            "start": 2.64,
+            "end": 2.84,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "一",
+            "start": 2.84,
+            "end": 2.98,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "通",
+            "start": 2.98,
+            "end": 3.14,
+            "probability": 0.9833984375
+          },
+          {
+            "word": "过",
+            "start": 3.14,
+            "end": 3.3,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "Mag",
+            "start": 3.3,
+            "end": 3.44,
+            "probability": 0.81298828125
+          },
+          {
+            "word": "pie",
+            "start": 3.44,
+            "end": 3.62,
+            "probability": 0.150146484375
+          },
+          {
+            "word": "提",
+            "start": 3.62,
+            "end": 3.88,
+            "probability": 0.86865234375
+          },
+          {
+            "word": "供",
+            "start": 3.88,
+            "end": 4.02,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "给",
+            "start": 4.02,
+            "end": 4.14,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "其",
+            "start": 4.14,
+            "end": 4.34,
+            "probability": 0.990234375
+          },
+          {
+            "word": "他",
+            "start": 4.34,
+            "end": 4.44,
+            "probability": 0.90869140625
+          },
+          {
+            "word": "A",
+            "start": 4.44,
+            "end": 4.56,
+            "probability": 0.468994140625
+          },
+          {
+            "word": "gent。",
+            "start": 4.56,
+            "end": 4.7,
+            "probability": 0.99609375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_14",
+    "source": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+    "asr": "比如,你在DeepSeek Harness，里,选WorkBuddy的DeepSeek，,任务先到Magpie，,再转给WorkBuddy里的DeepSeek，去跑。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.34,
+        "text": "比如,你在DeepSeek Harness，里,选WorkBuddy的DeepSeek，,任务先到Magpie，,再转给WorkBuddy里的DeepSeek，去跑。",
+        "tokens": [
+          50365,
+          36757,
+          11,
+          41410,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          15759,
+          11,
+          2215,
+          231,
+          28846,
+          33,
+          532,
+          3173,
+          1546,
+          11089,
+          595,
+          10637,
+          916,
+          171,
+          120,
+          234,
+          11,
+          26443,
+          5087,
+          94,
+          10108,
+          4511,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          11,
+          8623,
+          17819,
+          105,
+          23197,
+          28846,
+          33,
+          532,
+          3173,
+          15759,
+          1546,
+          11089,
+          595,
+          10637,
+          916,
+          171,
+          120,
+          234,
+          6734,
+          32585,
+          1543,
+          50685
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.17234342060391866,
+        "compression_ratio": 1.1517857142857142,
+        "no_speech_prob": 7.421012415687045e-11,
+        "words": [
+          {
+            "word": "比如,",
+            "start": 0.0,
+            "end": 0.28,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "你在",
+            "start": 0.5,
+            "end": 0.72,
+            "probability": 0.9716796875
+          },
+          {
+            "word": "De",
+            "start": 0.72,
+            "end": 0.86,
+            "probability": 0.66259765625
+          },
+          {
+            "word": "ep",
+            "start": 0.86,
+            "end": 0.96,
+            "probability": 0.94677734375
+          },
+          {
+            "word": "Se",
+            "start": 0.96,
+            "end": 1.04,
+            "probability": 0.091552734375
+          },
+          {
+            "word": "ek",
+            "start": 1.04,
+            "end": 1.16,
+            "probability": 0.64697265625
+          },
+          {
+            "word": " H",
+            "start": 1.16,
+            "end": 1.24,
+            "probability": 0.52685546875
+          },
+          {
+            "word": "arness，",
+            "start": 1.24,
+            "end": 1.44,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "里,",
+            "start": 1.86,
+            "end": 1.88,
+            "probability": 0.05645751953125
+          },
+          {
+            "word": "选",
+            "start": 1.9,
+            "end": 2.08,
+            "probability": 0.96875
+          },
+          {
+            "word": "Work",
+            "start": 2.08,
+            "end": 2.24,
+            "probability": 0.69580078125
+          },
+          {
+            "word": "B",
+            "start": 2.24,
+            "end": 2.38,
+            "probability": 0.489990234375
+          },
+          {
+            "word": "ud",
+            "start": 2.38,
+            "end": 2.48,
+            "probability": 0.07110595703125
+          },
+          {
+            "word": "dy",
+            "start": 2.48,
+            "end": 2.56,
+            "probability": 0.82568359375
+          },
+          {
+            "word": "的",
+            "start": 2.56,
+            "end": 2.64,
+            "probability": 0.92431640625
+          },
+          {
+            "word": "De",
+            "start": 2.64,
+            "end": 2.76,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "ep",
+            "start": 2.76,
+            "end": 2.84,
+            "probability": 0.998046875
+          },
+          {
+            "word": "Se",
+            "start": 2.84,
+            "end": 2.94,
+            "probability": 0.94140625
+          },
+          {
+            "word": "ek，,",
+            "start": 2.94,
+            "end": 3.06,
+            "probability": 1.0
+          },
+          {
+            "word": "任",
+            "start": 3.34,
+            "end": 3.4,
+            "probability": 0.98388671875
+          },
+          {
+            "word": "务",
+            "start": 3.4,
+            "end": 3.6,
+            "probability": 0.984375
+          },
+          {
+            "word": "先",
+            "start": 3.6,
+            "end": 3.72,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "到",
+            "start": 3.72,
+            "end": 3.88,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "Mag",
+            "start": 3.88,
+            "end": 4.04,
+            "probability": 0.90087890625
+          },
+          {
+            "word": "pie，,",
+            "start": 4.04,
+            "end": 4.22,
+            "probability": 0.25830078125
+          },
+          {
+            "word": "再",
+            "start": 4.6,
+            "end": 4.64,
+            "probability": 0.98388671875
+          },
+          {
+            "word": "转",
+            "start": 4.64,
+            "end": 4.84,
+            "probability": 0.9794921875
+          },
+          {
+            "word": "给",
+            "start": 4.84,
+            "end": 4.96,
+            "probability": 0.98193359375
+          },
+          {
+            "word": "Work",
+            "start": 4.96,
+            "end": 5.14,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "B",
+            "start": 5.14,
+            "end": 5.28,
+            "probability": 0.9814453125
+          },
+          {
+            "word": "ud",
+            "start": 5.28,
+            "end": 5.38,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "dy",
+            "start": 5.38,
+            "end": 5.46,
+            "probability": 0.982421875
+          },
+          {
+            "word": "里",
+            "start": 5.46,
+            "end": 5.54,
+            "probability": 0.92041015625
+          },
+          {
+            "word": "的",
+            "start": 5.54,
+            "end": 5.66,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "De",
+            "start": 5.66,
+            "end": 5.78,
+            "probability": 0.99609375
+          },
+          {
+            "word": "ep",
+            "start": 5.78,
+            "end": 5.86,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "Se",
+            "start": 5.86,
+            "end": 5.96,
+            "probability": 0.96337890625
+          },
+          {
+            "word": "ek，",
+            "start": 5.96,
+            "end": 6.04,
+            "probability": 1.0
+          },
+          {
+            "word": "去",
+            "start": 6.2,
+            "end": 6.2,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "跑。",
+            "start": 6.2,
+            "end": 6.34,
+            "probability": 0.99658203125
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_15",
+    "source": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+    "asr": "结果回来以后,在原路送回DeepSeek Harness，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy�Pcy，Pcy�Pcy，Pcy�Pcy，Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy几乎感觉不到",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.98,
+        "text": "结果回来以后,在原路送回DeepSeek Harness，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy，Pcy�Pcy，Pcy�Pcy，Pcy�Pcy，Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy�Pcy",
+        "tokens": [
+          50365,
+          45641,
+          9319,
+          8350,
+          6912,
+          3588,
+          13547,
+          11,
+          3581,
+          19683,
+          24658,
+          29309,
+          8350,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          234,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344,
+          171,
+          120,
+          47,
+          1344
+        ],
+        "temperature": 1.0,
+        "avg_logprob": -0.2490481228298611,
+        "compression_ratio": 4.346666666666667,
+        "no_speech_prob": 5.60535541593854e-11,
+        "words": [
+          {
+            "word": "结",
+            "start": 0.0,
+            "end": 0.24,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "果",
+            "start": 0.24,
+            "end": 0.38,
+            "probability": 1.0
+          },
+          {
+            "word": "回",
+            "start": 0.38,
+            "end": 0.52,
+            "probability": 0.986328125
+          },
+          {
+            "word": "来",
+            "start": 0.52,
+            "end": 0.64,
+            "probability": 0.998046875
+          },
+          {
+            "word": "以",
+            "start": 0.64,
+            "end": 0.74,
+            "probability": 0.955078125
+          },
+          {
+            "word": "后,",
+            "start": 0.74,
+            "end": 0.9,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "在",
+            "start": 1.04,
+            "end": 1.24,
+            "probability": 0.88037109375
+          },
+          {
+            "word": "原",
+            "start": 1.24,
+            "end": 1.36,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "路",
+            "start": 1.36,
+            "end": 1.52,
+            "probability": 0.99609375
+          },
+          {
+            "word": "送",
+            "start": 1.52,
+            "end": 1.7,
+            "probability": 0.99609375
+          },
+          {
+            "word": "回",
+            "start": 1.7,
+            "end": 1.88,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "De",
+            "start": 1.88,
+            "end": 2.06,
+            "probability": 0.5234375
+          },
+          {
+            "word": "ep",
+            "start": 2.06,
+            "end": 2.18,
+            "probability": 0.990234375
+          },
+          {
+            "word": "Se",
+            "start": 2.18,
+            "end": 2.26,
+            "probability": 0.07513427734375
+          },
+          {
+            "word": "ek",
+            "start": 2.26,
+            "end": 2.38,
+            "probability": 0.0011348724365234375
+          },
+          {
+            "word": " H",
+            "start": 2.38,
+            "end": 2.46,
+            "probability": 0.060455322265625
+          },
+          {
+            "word": "arness，",
+            "start": 2.46,
+            "end": 2.64,
+            "probability": 0.9833984375
+          },
+          {
+            "word": "P",
+            "start": 3.1,
+            "end": 3.36,
+            "probability": 0.00022017955780029297
+          },
+          {
+            "word": "cy，",
+            "start": 3.36,
+            "end": 3.42,
+            "probability": 2.187490463256836e-05
+          },
+          {
+            "word": "P",
+            "start": 3.42,
+            "end": 3.42,
+            "probability": 0.70751953125
+          },
+          {
+            "word": "cy，",
+            "start": 3.42,
+            "end": 3.46,
+            "probability": 0.59619140625
+          },
+          {
+            "word": "P",
+            "start": 3.52,
+            "end": 3.52,
+            "probability": 0.9169921875
+          },
+          {
+            "word": "cy，",
+            "start": 3.52,
+            "end": 3.52,
+            "probability": 0.79296875
+          },
+          {
+            "word": "P",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.9501953125
+          },
+          {
+            "word": "cy，",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.85400390625
+          },
+          {
+            "word": "P",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.95654296875
+          },
+          {
+            "word": "cy，",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.8857421875
+          },
+          {
+            "word": "P",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.96826171875
+          },
+          {
+            "word": "cy，",
+            "start": 3.58,
+            "end": 3.58,
+            "probability": 0.9150390625
+          },
+          {
+            "word": "P",
+            "start": 3.82,
+            "end": 3.82,
+            "probability": 0.96923828125
+          },
+          {
+            "word": "cy，",
+            "start": 3.82,
+            "end": 3.82,
+            "probability": 0.91796875
+          },
+          {
+            "word": "P",
+            "start": 3.88,
+            "end": 3.88,
+            "probability": 0.97265625
+          },
+          {
+            "word": "cy，",
+            "start": 3.88,
+            "end": 3.88,
+            "probability": 0.9375
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97509765625
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9404296875
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97412109375
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.94482421875
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9775390625
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.94775390625
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97802734375
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.94873046875
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97998046875
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.95166015625
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9794921875
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9580078125
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97998046875
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.95361328125
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.95703125
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9794921875
+          },
+          {
+            "word": "cy，",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.9560546875
+          },
+          {
+            "word": "P",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "cy",
+            "start": 3.98,
+            "end": 3.98,
+            "probability": 0.958984375
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 398,
+        "start": 3.98,
+        "end": 4.6,
+        "text": "几乎感觉不到",
+        "tokens": [
+          50365,
+          6336,
+          254,
+          2930,
+          236,
+          9709,
+          24447,
+          35728,
+          50403
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.4139625072479248,
+        "compression_ratio": 0.6666666666666666,
+        "no_speech_prob": 7.5733109020093e-12,
+        "words": [
+          {
+            "word": "几",
+            "start": 3.98,
+            "end": 4.1,
+            "probability": 0.7021484375
+          },
+          {
+            "word": "乎",
+            "start": 4.1,
+            "end": 4.18,
+            "probability": 1.0
+          },
+          {
+            "word": "感",
+            "start": 4.18,
+            "end": 4.34,
+            "probability": 0.96533203125
+          },
+          {
+            "word": "觉",
+            "start": 4.34,
+            "end": 4.46,
+            "probability": 0.97607421875
+          },
+          {
+            "word": "不到",
+            "start": 4.46,
+            "end": 4.6,
+            "probability": 0.99560546875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_16",
+    "source": "所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。",
+    "asr": "所以以前只能待在一个agent里的订阅模型,现在可以拿去给别的agent用。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.44,
+        "text": "所以以前只能待在一个agent里的订阅模型,现在可以拿去给别的agent用。",
+        "tokens": [
+          50365,
+          7239,
+          44996,
+          14003,
+          8225,
+          18390,
+          3581,
+          20182,
+          559,
+          317,
+          15759,
+          1546,
+          7422,
+          95,
+          10034,
+          227,
+          41908,
+          39823,
+          11,
+          25040,
+          6723,
+          24351,
+          6734,
+          23197,
+          18453,
+          1546,
+          559,
+          317,
+          9254,
+          1543,
+          50590
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.13232342898845673,
+        "compression_ratio": 0.9387755102040817,
+        "no_speech_prob": 7.483988428980126e-11,
+        "words": [
+          {
+            "word": "所以",
+            "start": 0.0,
+            "end": 0.36,
+            "probability": 0.99609375
+          },
+          {
+            "word": "以前",
+            "start": 0.36,
+            "end": 0.62,
+            "probability": 0.994140625
+          },
+          {
+            "word": "只",
+            "start": 0.62,
+            "end": 0.76,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "能",
+            "start": 0.76,
+            "end": 0.88,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "待",
+            "start": 0.88,
+            "end": 1.0,
+            "probability": 0.71728515625
+          },
+          {
+            "word": "在",
+            "start": 1.0,
+            "end": 1.14,
+            "probability": 0.998046875
+          },
+          {
+            "word": "一个",
+            "start": 1.14,
+            "end": 1.34,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "ag",
+            "start": 1.34,
+            "end": 1.5,
+            "probability": 0.7412109375
+          },
+          {
+            "word": "ent",
+            "start": 1.5,
+            "end": 1.7,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "里",
+            "start": 1.7,
+            "end": 1.78,
+            "probability": 0.998046875
+          },
+          {
+            "word": "的",
+            "start": 1.78,
+            "end": 1.92,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "订",
+            "start": 1.92,
+            "end": 2.04,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "阅",
+            "start": 2.04,
+            "end": 2.16,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "模",
+            "start": 2.16,
+            "end": 2.28,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "型,",
+            "start": 2.28,
+            "end": 2.48,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "现在",
+            "start": 2.7,
+            "end": 3.06,
+            "probability": 0.9794921875
+          },
+          {
+            "word": "可以",
+            "start": 3.06,
+            "end": 3.36,
+            "probability": 0.9921875
+          },
+          {
+            "word": "拿",
+            "start": 3.36,
+            "end": 3.48,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "去",
+            "start": 3.48,
+            "end": 3.64,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "给",
+            "start": 3.64,
+            "end": 3.76,
+            "probability": 0.998046875
+          },
+          {
+            "word": "别",
+            "start": 3.76,
+            "end": 3.92,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "的",
+            "start": 3.92,
+            "end": 4.06,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "ag",
+            "start": 4.06,
+            "end": 4.16,
+            "probability": 0.98828125
+          },
+          {
+            "word": "ent",
+            "start": 4.16,
+            "end": 4.28,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "用。",
+            "start": 4.28,
+            "end": 4.44,
+            "probability": 0.99365234375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_17",
+    "source": "这就是它最核心的一件事。",
+    "asr": "这就是它最核心的一件事。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 1.46,
+        "text": "这就是它最核心的一件事。",
+        "tokens": [
+          50365,
+          5562,
+          5620,
+          11284,
+          8661,
+          8987,
+          116,
+          7945,
+          1546,
+          2257,
+          20485,
+          6973,
+          1543,
+          50450
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.24423278172810872,
+        "compression_ratio": 0.7659574468085106,
+        "no_speech_prob": 6.969298055325979e-11,
+        "words": [
+          {
+            "word": "这",
+            "start": 0.0,
+            "end": 0.24,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "就是",
+            "start": 0.24,
+            "end": 0.38,
+            "probability": 0.998046875
+          },
+          {
+            "word": "它",
+            "start": 0.38,
+            "end": 0.52,
+            "probability": 0.8525390625
+          },
+          {
+            "word": "最",
+            "start": 0.52,
+            "end": 0.7,
+            "probability": 0.990234375
+          },
+          {
+            "word": "核",
+            "start": 0.7,
+            "end": 0.9,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "心",
+            "start": 0.9,
+            "end": 1.02,
+            "probability": 1.0
+          },
+          {
+            "word": "的",
+            "start": 1.02,
+            "end": 1.12,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "一",
+            "start": 1.12,
+            "end": 1.22,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "件",
+            "start": 1.22,
+            "end": 1.32,
+            "probability": 0.994140625
+          },
+          {
+            "word": "事。",
+            "start": 1.32,
+            "end": 1.46,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_18",
+    "source": "这件事以前也有工具干过，但说实话，体验都不算特别好。",
+    "asr": "这件事以前也有工具干过,但说实话,体验都不算特别好。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.9,
+        "text": "这件事以前也有工具干过,但说实话,体验都不算特别好。",
+        "tokens": [
+          50365,
+          5562,
+          20485,
+          6973,
+          44996,
+          6404,
+          2412,
+          23323,
+          39806,
+          26111,
+          16866,
+          11,
+          8395,
+          8090,
+          24726,
+          21596,
+          11,
+          29485,
+          49657,
+          234,
+          7182,
+          1960,
+          19497,
+          17682,
+          18453,
+          2131,
+          1543,
+          50561
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.11005174702611463,
+        "compression_ratio": 0.8705882352941177,
+        "no_speech_prob": 6.503398514157155e-11,
+        "words": [
+          {
+            "word": "这",
+            "start": 0.0,
+            "end": 0.28,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "件",
+            "start": 0.28,
+            "end": 0.4,
+            "probability": 0.998046875
+          },
+          {
+            "word": "事",
+            "start": 0.4,
+            "end": 0.56,
+            "probability": 1.0
+          },
+          {
+            "word": "以前",
+            "start": 0.56,
+            "end": 0.82,
+            "probability": 0.994140625
+          },
+          {
+            "word": "也",
+            "start": 0.82,
+            "end": 0.96,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "有",
+            "start": 0.96,
+            "end": 1.06,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "工",
+            "start": 1.06,
+            "end": 1.22,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "具",
+            "start": 1.22,
+            "end": 1.32,
+            "probability": 1.0
+          },
+          {
+            "word": "干",
+            "start": 1.32,
+            "end": 1.44,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "过,",
+            "start": 1.44,
+            "end": 1.66,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "但",
+            "start": 1.98,
+            "end": 2.04,
+            "probability": 0.97216796875
+          },
+          {
+            "word": "说",
+            "start": 2.04,
+            "end": 2.18,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "实",
+            "start": 2.18,
+            "end": 2.34,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "话,",
+            "start": 2.34,
+            "end": 2.52,
+            "probability": 0.998046875
+          },
+          {
+            "word": "体",
+            "start": 2.82,
+            "end": 2.98,
+            "probability": 0.9921875
+          },
+          {
+            "word": "验",
+            "start": 2.98,
+            "end": 3.16,
+            "probability": 0.998046875
+          },
+          {
+            "word": "都",
+            "start": 3.16,
+            "end": 3.28,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "不",
+            "start": 3.28,
+            "end": 3.4,
+            "probability": 0.998046875
+          },
+          {
+            "word": "算",
+            "start": 3.4,
+            "end": 3.5,
+            "probability": 0.998046875
+          },
+          {
+            "word": "特",
+            "start": 3.5,
+            "end": 3.62,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "别",
+            "start": 3.62,
+            "end": 3.76,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "好。",
+            "start": 3.76,
+            "end": 3.9,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_19",
+    "source": "像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。",
+    "asr": "像CC Switch我也折腾过,Bug挺多,还要手动填不少东西,用起来其实挺麻烦。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.48,
+        "text": "像CC Switch我也折腾过,Bug挺多,还要手动填不少东西,用起来其实挺麻烦。",
+        "tokens": [
+          50365,
+          12760,
+          11717,
+          13893,
+          27761,
+          7235,
+          246,
+          21184,
+          122,
+          16866,
+          11,
+          33,
+          697,
+          41046,
+          6392,
+          11,
+          14852,
+          4275,
+          11389,
+          34961,
+          13331,
+          104,
+          1960,
+          15686,
+          38409,
+          16220,
+          11,
+          9254,
+          9147,
+          6912,
+          41646,
+          41046,
+          38999,
+          23661,
+          99,
+          1543,
+          50640
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.15394557149786697,
+        "compression_ratio": 0.8942307692307693,
+        "no_speech_prob": 6.708407440658704e-11,
+        "words": [
+          {
+            "word": "像",
+            "start": 0.0,
+            "end": 0.34,
+            "probability": 0.99609375
+          },
+          {
+            "word": "CC",
+            "start": 0.34,
+            "end": 0.66,
+            "probability": 0.65966796875
+          },
+          {
+            "word": " Switch",
+            "start": 0.66,
+            "end": 0.98,
+            "probability": 0.3662109375
+          },
+          {
+            "word": "我也",
+            "start": 0.98,
+            "end": 1.44,
+            "probability": 0.86962890625
+          },
+          {
+            "word": "折",
+            "start": 1.44,
+            "end": 1.62,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "腾",
+            "start": 1.62,
+            "end": 1.74,
+            "probability": 0.9921875
+          },
+          {
+            "word": "过,",
+            "start": 1.74,
+            "end": 1.9,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "B",
+            "start": 2.18,
+            "end": 2.24,
+            "probability": 0.220947265625
+          },
+          {
+            "word": "ug",
+            "start": 2.24,
+            "end": 2.34,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "挺",
+            "start": 2.34,
+            "end": 2.48,
+            "probability": 0.99609375
+          },
+          {
+            "word": "多,",
+            "start": 2.48,
+            "end": 2.68,
+            "probability": 1.0
+          },
+          {
+            "word": "还",
+            "start": 2.94,
+            "end": 3.02,
+            "probability": 0.990234375
+          },
+          {
+            "word": "要",
+            "start": 3.02,
+            "end": 3.14,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "手",
+            "start": 3.14,
+            "end": 3.26,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "动",
+            "start": 3.26,
+            "end": 3.42,
+            "probability": 0.998046875
+          },
+          {
+            "word": "填",
+            "start": 3.42,
+            "end": 3.58,
+            "probability": 1.0
+          },
+          {
+            "word": "不",
+            "start": 3.58,
+            "end": 3.72,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "少",
+            "start": 3.72,
+            "end": 3.84,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "东",
+            "start": 3.84,
+            "end": 3.98,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "西,",
+            "start": 3.98,
+            "end": 4.16,
+            "probability": 1.0
+          },
+          {
+            "word": "用",
+            "start": 4.34,
+            "end": 4.48,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "起",
+            "start": 4.48,
+            "end": 4.62,
+            "probability": 1.0
+          },
+          {
+            "word": "来",
+            "start": 4.62,
+            "end": 4.76,
+            "probability": 1.0
+          },
+          {
+            "word": "其实",
+            "start": 4.76,
+            "end": 4.98,
+            "probability": 0.99609375
+          },
+          {
+            "word": "挺",
+            "start": 4.98,
+            "end": 5.16,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "麻",
+            "start": 5.16,
+            "end": 5.34,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "烦。",
+            "start": 5.34,
+            "end": 5.48,
+            "probability": 0.9990234375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_20",
+    "source": "Magpie 就完全不一样，它把这件事干得极其丝滑。",
+    "asr": "Magpie就完全不一样,他把这件事干得极其丝滑。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.16,
+        "text": "Magpie就完全不一样,他把这件事干得极其丝滑。",
+        "tokens": [
+          50365,
+          37445,
+          9144,
+          3111,
+          37100,
+          1960,
+          2257,
+          14496,
+          11,
+          5000,
+          16075,
+          5562,
+          20485,
+          6973,
+          26111,
+          5916,
+          7360,
+          223,
+          9572,
+          940,
+          251,
+          15868,
+          239,
+          1543,
+          50525
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.21395316490760216,
+        "compression_ratio": 0.8472222222222222,
+        "no_speech_prob": 5.386786849914671e-11,
+        "words": [
+          {
+            "word": "Mag",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.66943359375
+          },
+          {
+            "word": "pie",
+            "start": 0.3,
+            "end": 0.44,
+            "probability": 0.2381591796875
+          },
+          {
+            "word": "就",
+            "start": 0.44,
+            "end": 0.6,
+            "probability": 0.96533203125
+          },
+          {
+            "word": "完全",
+            "start": 0.6,
+            "end": 0.84,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "不",
+            "start": 0.84,
+            "end": 1.04,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "一",
+            "start": 1.04,
+            "end": 1.18,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "样,",
+            "start": 1.18,
+            "end": 1.28,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "他",
+            "start": 1.64,
+            "end": 1.7,
+            "probability": 0.76611328125
+          },
+          {
+            "word": "把",
+            "start": 1.7,
+            "end": 1.8,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "这",
+            "start": 1.8,
+            "end": 1.92,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "件",
+            "start": 1.92,
+            "end": 2.04,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "事",
+            "start": 2.04,
+            "end": 2.22,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "干",
+            "start": 2.22,
+            "end": 2.46,
+            "probability": 0.970703125
+          },
+          {
+            "word": "得",
+            "start": 2.46,
+            "end": 2.56,
+            "probability": 0.705078125
+          },
+          {
+            "word": "极",
+            "start": 2.56,
+            "end": 2.7,
+            "probability": 0.98046875
+          },
+          {
+            "word": "其",
+            "start": 2.7,
+            "end": 2.84,
+            "probability": 0.998046875
+          },
+          {
+            "word": "丝",
+            "start": 2.84,
+            "end": 2.98,
+            "probability": 0.92529296875
+          },
+          {
+            "word": "滑。",
+            "start": 2.98,
+            "end": 3.16,
+            "probability": 0.9873046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_21",
+    "source": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+    "asr": "模型、账号、订阅、agent 基本都在一个地方管,很多操作点几下就完事。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.32,
+        "text": "模型、账号、订阅、agent 基本都在一个地方管,很多操作点几下就完事。",
+        "tokens": [
+          50365,
+          41908,
+          39823,
+          1231,
+          18464,
+          99,
+          26987,
+          1231,
+          7422,
+          95,
+          10034,
+          227,
+          1231,
+          559,
+          317,
+          220,
+          37946,
+          7182,
+          3581,
+          20182,
+          30146,
+          23131,
+          11,
+          20778,
+          13167,
+          235,
+          11914,
+          12579,
+          6336,
+          254,
+          4438,
+          3111,
+          14128,
+          6973,
+          1543,
+          50640
+        ],
+        "temperature": 0.2,
+        "avg_logprob": -0.23875620558455185,
+        "compression_ratio": 0.8952380952380953,
+        "no_speech_prob": 6.657632084516862e-11,
+        "words": [
+          {
+            "word": "模",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.98193359375
+          },
+          {
+            "word": "型、",
+            "start": 0.3,
+            "end": 0.52,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "账",
+            "start": 0.7,
+            "end": 0.96,
+            "probability": 0.96728515625
+          },
+          {
+            "word": "号、",
+            "start": 0.96,
+            "end": 1.16,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "订",
+            "start": 1.42,
+            "end": 1.54,
+            "probability": 0.998046875
+          },
+          {
+            "word": "阅、",
+            "start": 1.54,
+            "end": 1.72,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "ag",
+            "start": 1.96,
+            "end": 2.12,
+            "probability": 0.33447265625
+          },
+          {
+            "word": "ent",
+            "start": 2.12,
+            "end": 2.32,
+            "probability": 0.99267578125
+          },
+          {
+            "word": " 基本",
+            "start": 2.32,
+            "end": 2.8,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "都",
+            "start": 2.8,
+            "end": 2.94,
+            "probability": 0.92919921875
+          },
+          {
+            "word": "在",
+            "start": 2.94,
+            "end": 3.06,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "一个",
+            "start": 3.06,
+            "end": 3.2,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "地方",
+            "start": 3.2,
+            "end": 3.42,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "管,",
+            "start": 3.42,
+            "end": 3.58,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "很多",
+            "start": 3.92,
+            "end": 4.04,
+            "probability": 0.9228515625
+          },
+          {
+            "word": "操",
+            "start": 4.04,
+            "end": 4.24,
+            "probability": 0.99609375
+          },
+          {
+            "word": "作",
+            "start": 4.24,
+            "end": 4.38,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "点",
+            "start": 4.38,
+            "end": 4.62,
+            "probability": 0.77685546875
+          },
+          {
+            "word": "几",
+            "start": 4.62,
+            "end": 4.8,
+            "probability": 1.0
+          },
+          {
+            "word": "下",
+            "start": 4.8,
+            "end": 4.9,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "就",
+            "start": 4.9,
+            "end": 5.02,
+            "probability": 0.986328125
+          },
+          {
+            "word": "完",
+            "start": 5.02,
+            "end": 5.14,
+            "probability": 0.97265625
+          },
+          {
+            "word": "事。",
+            "start": 5.14,
+            "end": 5.32,
+            "probability": 0.998046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_22",
+    "source": "而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。",
+    "asr": "而且功能非常完善。路由、模型、分组、自动切换、额度、用量统计都有。我现在其实只用了一小部分。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 7.3,
+        "text": "而且功能非常完善。路由、模型、分组、自动切换、额度、用量统计都有。我现在其实只用了一小部分。",
+        "tokens": [
+          50365,
+          22942,
+          32311,
+          8225,
+          14392,
+          14128,
+          5234,
+          226,
+          1543,
+          24658,
+          23786,
+          1231,
+          41908,
+          39823,
+          1231,
+          6627,
+          10115,
+          226,
+          1231,
+          9722,
+          34961,
+          23632,
+          26075,
+          95,
+          1231,
+          12501,
+          251,
+          13127,
+          1231,
+          9254,
+          26748,
+          10115,
+          253,
+          7422,
+          94,
+          48121,
+          1543,
+          1654,
+          25040,
+          41646,
+          14003,
+          9254,
+          2289,
+          2257,
+          7322,
+          32174,
+          1543,
+          50733
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.09086819084323182,
+        "compression_ratio": 1.0615384615384615,
+        "no_speech_prob": 6.037684241455565e-11,
+        "words": [
+          {
+            "word": "而且",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.998046875
+          },
+          {
+            "word": "功",
+            "start": 0.32,
+            "end": 0.48,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "能",
+            "start": 0.48,
+            "end": 0.62,
+            "probability": 1.0
+          },
+          {
+            "word": "非常",
+            "start": 0.62,
+            "end": 0.84,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "完",
+            "start": 0.84,
+            "end": 1.0,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "善。",
+            "start": 1.0,
+            "end": 1.32,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "路",
+            "start": 1.32,
+            "end": 1.72,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "由、",
+            "start": 1.72,
+            "end": 1.92,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "模",
+            "start": 2.08,
+            "end": 2.32,
+            "probability": 0.99609375
+          },
+          {
+            "word": "型、",
+            "start": 2.32,
+            "end": 2.56,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "分",
+            "start": 2.78,
+            "end": 2.98,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "组、",
+            "start": 2.98,
+            "end": 3.18,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "自",
+            "start": 3.4,
+            "end": 3.52,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "动",
+            "start": 3.52,
+            "end": 3.6,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "切",
+            "start": 3.6,
+            "end": 3.74,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "换、",
+            "start": 3.74,
+            "end": 3.98,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "额",
+            "start": 4.22,
+            "end": 4.46,
+            "probability": 0.99609375
+          },
+          {
+            "word": "度、",
+            "start": 4.46,
+            "end": 4.6,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "用",
+            "start": 4.8,
+            "end": 4.9,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "量",
+            "start": 4.9,
+            "end": 5.02,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "统",
+            "start": 5.02,
+            "end": 5.2,
+            "probability": 0.98193359375
+          },
+          {
+            "word": "计",
+            "start": 5.2,
+            "end": 5.36,
+            "probability": 1.0
+          },
+          {
+            "word": "都有。",
+            "start": 5.36,
+            "end": 5.54,
+            "probability": 0.97021484375
+          },
+          {
+            "word": "我",
+            "start": 5.8,
+            "end": 6.02,
+            "probability": 0.98193359375
+          },
+          {
+            "word": "现在",
+            "start": 6.02,
+            "end": 6.24,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "其实",
+            "start": 6.24,
+            "end": 6.52,
+            "probability": 0.978515625
+          },
+          {
+            "word": "只",
+            "start": 6.52,
+            "end": 6.7,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "用",
+            "start": 6.7,
+            "end": 6.82,
+            "probability": 0.998046875
+          },
+          {
+            "word": "了",
+            "start": 6.82,
+            "end": 6.9,
+            "probability": 0.990234375
+          },
+          {
+            "word": "一",
+            "start": 6.9,
+            "end": 6.98,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "小",
+            "start": 6.98,
+            "end": 7.1,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "部分。",
+            "start": 7.1,
+            "end": 7.3,
+            "probability": 0.99853515625
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_23",
+    "source": "最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。",
+    "asr": "最爽的用法是,Magpie还能帮你薅免费Token。它真是个薅免费Token的神器。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.8,
+        "text": "最爽的用法是,Magpie还能帮你薅免费Token。它真是个薅免费Token的神器。",
+        "tokens": [
+          50365,
+          8661,
+          8164,
+          121,
+          1546,
+          9254,
+          11148,
+          1541,
+          11,
+          37445,
+          9144,
+          14852,
+          8225,
+          4845,
+          106,
+          2166,
+          27746,
+          227,
+          2347,
+          235,
+          18464,
+          117,
+          51,
+          8406,
+          1543,
+          11284,
+          6303,
+          1541,
+          7549,
+          27746,
+          227,
+          2347,
+          235,
+          18464,
+          117,
+          51,
+          8406,
+          1546,
+          20432,
+          34386,
+          1543,
+          50610
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.15977165310881858,
+        "compression_ratio": 1.0222222222222221,
+        "no_speech_prob": 5.919888884653446e-11,
+        "words": [
+          {
+            "word": "最",
+            "start": 0.0,
+            "end": 0.22,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "爽",
+            "start": 0.22,
+            "end": 0.38,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "的",
+            "start": 0.38,
+            "end": 0.48,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "用",
+            "start": 0.48,
+            "end": 0.58,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "法",
+            "start": 0.58,
+            "end": 0.72,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "是,",
+            "start": 0.72,
+            "end": 0.92,
+            "probability": 0.99609375
+          },
+          {
+            "word": "Mag",
+            "start": 1.22,
+            "end": 1.3,
+            "probability": 0.71875
+          },
+          {
+            "word": "pie",
+            "start": 1.3,
+            "end": 1.46,
+            "probability": 0.1544189453125
+          },
+          {
+            "word": "还",
+            "start": 1.46,
+            "end": 1.66,
+            "probability": 0.9697265625
+          },
+          {
+            "word": "能",
+            "start": 1.66,
+            "end": 1.78,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "帮",
+            "start": 1.78,
+            "end": 1.94,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "你",
+            "start": 1.94,
+            "end": 2.06,
+            "probability": 0.935546875
+          },
+          {
+            "word": "薅",
+            "start": 2.06,
+            "end": 2.18,
+            "probability": 0.73876953125
+          },
+          {
+            "word": "免",
+            "start": 2.18,
+            "end": 2.4,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "费",
+            "start": 2.4,
+            "end": 2.54,
+            "probability": 0.998046875
+          },
+          {
+            "word": "T",
+            "start": 2.54,
+            "end": 2.66,
+            "probability": 0.5166015625
+          },
+          {
+            "word": "oken。",
+            "start": 2.66,
+            "end": 2.82,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "它",
+            "start": 3.02,
+            "end": 3.3,
+            "probability": 0.74072265625
+          },
+          {
+            "word": "真",
+            "start": 3.3,
+            "end": 3.42,
+            "probability": 0.98095703125
+          },
+          {
+            "word": "是",
+            "start": 3.42,
+            "end": 3.58,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "个",
+            "start": 3.58,
+            "end": 3.66,
+            "probability": 0.98388671875
+          },
+          {
+            "word": "薅",
+            "start": 3.66,
+            "end": 3.84,
+            "probability": 0.9853515625
+          },
+          {
+            "word": "免",
+            "start": 3.84,
+            "end": 4.04,
+            "probability": 1.0
+          },
+          {
+            "word": "费",
+            "start": 4.04,
+            "end": 4.14,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "T",
+            "start": 4.14,
+            "end": 4.26,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "oken",
+            "start": 4.26,
+            "end": 4.4,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "的",
+            "start": 4.4,
+            "end": 4.48,
+            "probability": 0.97998046875
+          },
+          {
+            "word": "神",
+            "start": 4.48,
+            "end": 4.6,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "器。",
+            "start": 4.6,
+            "end": 4.8,
+            "probability": 0.9794921875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_24",
+    "source": "现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。",
+    "asr": "现在WorkBuddy海外版Codex，都有免费的DeepSeek V4.1 Flash，活动到10月底。WorkBuddy国内版每天签到还送100G分。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.94,
+        "text": "现在WorkBuddy海外版Codex，都有免费的DeepSeek V4.1 Flash，活动到10月底。",
+        "tokens": [
+          50365,
+          25040,
+          28846,
+          33,
+          532,
+          3173,
+          20078,
+          12022,
+          42096,
+          34,
+          1429,
+          87,
+          171,
+          120,
+          234,
+          48121,
+          2347,
+          235,
+          18464,
+          117,
+          1546,
+          11089,
+          595,
+          10637,
+          916,
+          691,
+          19,
+          13,
+          16,
+          20232,
+          171,
+          120,
+          234,
+          25956,
+          34961,
+          4511,
+          3279,
+          6939,
+          22816,
+          1543,
+          50615
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.26017472051805063,
+        "compression_ratio": 0.9712230215827338,
+        "no_speech_prob": 5.3451104653490233e-11,
+        "words": [
+          {
+            "word": "现在",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "Work",
+            "start": 0.3,
+            "end": 0.48,
+            "probability": 0.4267578125
+          },
+          {
+            "word": "B",
+            "start": 0.48,
+            "end": 0.64,
+            "probability": 0.09295654296875
+          },
+          {
+            "word": "ud",
+            "start": 0.64,
+            "end": 0.72,
+            "probability": 0.4814453125
+          },
+          {
+            "word": "dy",
+            "start": 0.72,
+            "end": 0.82,
+            "probability": 0.95263671875
+          },
+          {
+            "word": "海",
+            "start": 0.82,
+            "end": 0.94,
+            "probability": 0.97314453125
+          },
+          {
+            "word": "外",
+            "start": 0.94,
+            "end": 1.06,
+            "probability": 1.0
+          },
+          {
+            "word": "版",
+            "start": 1.06,
+            "end": 1.2,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "C",
+            "start": 1.2,
+            "end": 1.44,
+            "probability": 0.92822265625
+          },
+          {
+            "word": "ode",
+            "start": 1.44,
+            "end": 1.52,
+            "probability": 0.00753021240234375
+          },
+          {
+            "word": "x，",
+            "start": 1.52,
+            "end": 1.62,
+            "probability": 0.0004742145538330078
+          },
+          {
+            "word": "都有",
+            "start": 1.88,
+            "end": 1.9,
+            "probability": 0.65087890625
+          },
+          {
+            "word": "免",
+            "start": 1.9,
+            "end": 2.14,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "费",
+            "start": 2.14,
+            "end": 2.28,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "的",
+            "start": 2.28,
+            "end": 2.38,
+            "probability": 0.982421875
+          },
+          {
+            "word": "De",
+            "start": 2.38,
+            "end": 2.54,
+            "probability": 0.78662109375
+          },
+          {
+            "word": "ep",
+            "start": 2.54,
+            "end": 2.62,
+            "probability": 0.94287109375
+          },
+          {
+            "word": "Se",
+            "start": 2.62,
+            "end": 2.74,
+            "probability": 0.2666015625
+          },
+          {
+            "word": "ek",
+            "start": 2.74,
+            "end": 2.88,
+            "probability": 0.732421875
+          },
+          {
+            "word": " V",
+            "start": 2.88,
+            "end": 3.2,
+            "probability": 0.65234375
+          },
+          {
+            "word": "4.",
+            "start": 3.2,
+            "end": 3.36,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "1",
+            "start": 3.48,
+            "end": 3.62,
+            "probability": 0.98779296875
+          },
+          {
+            "word": " Flash，",
+            "start": 3.62,
+            "end": 3.76,
+            "probability": 0.625
+          },
+          {
+            "word": "活",
+            "start": 4.1,
+            "end": 4.24,
+            "probability": 0.97314453125
+          },
+          {
+            "word": "动",
+            "start": 4.24,
+            "end": 4.36,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "到",
+            "start": 4.36,
+            "end": 4.52,
+            "probability": 0.994140625
+          },
+          {
+            "word": "10",
+            "start": 4.52,
+            "end": 4.68,
+            "probability": 0.87451171875
+          },
+          {
+            "word": "月",
+            "start": 4.68,
+            "end": 4.8,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "底。",
+            "start": 4.8,
+            "end": 4.94,
+            "probability": 0.99951171875
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "seek": 0,
+        "start": 5.24,
+        "end": 7.8,
+        "text": "WorkBuddy国内版每天签到还送100G分。",
+        "tokens": [
+          50615,
+          28846,
+          33,
+          532,
+          3173,
+          16086,
+          34742,
+          42096,
+          23664,
+          6135,
+          7973,
+          122,
+          4511,
+          14852,
+          29309,
+          6879,
+          38,
+          6627,
+          1543,
+          50765
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.26017472051805063,
+        "compression_ratio": 0.9712230215827338,
+        "no_speech_prob": 5.3451104653490233e-11,
+        "words": [
+          {
+            "word": "Work",
+            "start": 5.24,
+            "end": 5.52,
+            "probability": 0.90087890625
+          },
+          {
+            "word": "B",
+            "start": 5.52,
+            "end": 5.66,
+            "probability": 0.9892578125
+          },
+          {
+            "word": "ud",
+            "start": 5.66,
+            "end": 5.74,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "dy",
+            "start": 5.74,
+            "end": 5.82,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "国",
+            "start": 5.82,
+            "end": 5.92,
+            "probability": 0.90771484375
+          },
+          {
+            "word": "内",
+            "start": 5.92,
+            "end": 6.06,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "版",
+            "start": 6.06,
+            "end": 6.18,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "每",
+            "start": 6.18,
+            "end": 6.48,
+            "probability": 0.853515625
+          },
+          {
+            "word": "天",
+            "start": 6.48,
+            "end": 6.62,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "签",
+            "start": 6.62,
+            "end": 6.8,
+            "probability": 0.9658203125
+          },
+          {
+            "word": "到",
+            "start": 6.8,
+            "end": 6.94,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "还",
+            "start": 6.94,
+            "end": 7.14,
+            "probability": 0.962890625
+          },
+          {
+            "word": "送",
+            "start": 7.14,
+            "end": 7.28,
+            "probability": 0.982421875
+          },
+          {
+            "word": "100",
+            "start": 7.28,
+            "end": 7.5,
+            "probability": 0.9208984375
+          },
+          {
+            "word": "G",
+            "start": 7.5,
+            "end": 7.64,
+            "probability": 0.407470703125
+          },
+          {
+            "word": "分。",
+            "start": 7.64,
+            "end": 7.8,
+            "probability": 0.974609375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_25",
+    "source": "问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。",
+    "asr": "问题是,这些免费的DeepSeek都散在WorkBuddy，Coder这些客户端里,我又不想来回切客户端用。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.08,
+        "text": "问题是,这些免费的DeepSeek都散在WorkBuddy，Coder这些客户端里,我又不想来回切客户端用。",
+        "tokens": [
+          50365,
+          34069,
+          1541,
+          11,
+          5562,
+          13824,
+          2347,
+          235,
+          18464,
+          117,
+          1546,
+          11089,
+          595,
+          10637,
+          916,
+          7182,
+          7017,
+          96,
+          3581,
+          28846,
+          33,
+          532,
+          3173,
+          171,
+          120,
+          234,
+          34,
+          19866,
+          5562,
+          13824,
+          32316,
+          1486,
+          115,
+          11957,
+          107,
+          15759,
+          11,
+          1654,
+          17047,
+          1960,
+          7093,
+          6912,
+          8350,
+          23632,
+          32316,
+          1486,
+          115,
+          11957,
+          107,
+          9254,
+          1543,
+          50675
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.10830529230945515,
+        "compression_ratio": 0.9743589743589743,
+        "no_speech_prob": 5.079903511728823e-11,
+        "words": [
+          {
+            "word": "问题",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.990234375
+          },
+          {
+            "word": "是,",
+            "start": 0.3,
+            "end": 0.5,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "这",
+            "start": 0.78,
+            "end": 0.86,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "些",
+            "start": 0.86,
+            "end": 0.98,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "免",
+            "start": 0.98,
+            "end": 1.16,
+            "probability": 0.998046875
+          },
+          {
+            "word": "费",
+            "start": 1.16,
+            "end": 1.28,
+            "probability": 0.998046875
+          },
+          {
+            "word": "的",
+            "start": 1.28,
+            "end": 1.4,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "De",
+            "start": 1.4,
+            "end": 1.48,
+            "probability": 0.515625
+          },
+          {
+            "word": "ep",
+            "start": 1.48,
+            "end": 1.56,
+            "probability": 0.96826171875
+          },
+          {
+            "word": "Se",
+            "start": 1.56,
+            "end": 1.66,
+            "probability": 0.1666259765625
+          },
+          {
+            "word": "ek",
+            "start": 1.66,
+            "end": 1.8,
+            "probability": 0.68701171875
+          },
+          {
+            "word": "都",
+            "start": 1.8,
+            "end": 2.08,
+            "probability": 0.89306640625
+          },
+          {
+            "word": "散",
+            "start": 2.08,
+            "end": 2.24,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "在",
+            "start": 2.24,
+            "end": 2.44,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "Work",
+            "start": 2.44,
+            "end": 2.64,
+            "probability": 0.53076171875
+          },
+          {
+            "word": "B",
+            "start": 2.64,
+            "end": 2.82,
+            "probability": 0.253173828125
+          },
+          {
+            "word": "ud",
+            "start": 2.82,
+            "end": 2.9,
+            "probability": 0.2939453125
+          },
+          {
+            "word": "dy，",
+            "start": 2.9,
+            "end": 3.0,
+            "probability": 0.5224609375
+          },
+          {
+            "word": "C",
+            "start": 3.22,
+            "end": 3.32,
+            "probability": 0.916015625
+          },
+          {
+            "word": "oder",
+            "start": 3.32,
+            "end": 3.48,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "这",
+            "start": 3.48,
+            "end": 3.74,
+            "probability": 0.9326171875
+          },
+          {
+            "word": "些",
+            "start": 3.74,
+            "end": 3.84,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "客",
+            "start": 3.84,
+            "end": 3.94,
+            "probability": 0.99609375
+          },
+          {
+            "word": "户",
+            "start": 3.94,
+            "end": 4.08,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "端",
+            "start": 4.08,
+            "end": 4.22,
+            "probability": 1.0
+          },
+          {
+            "word": "里,",
+            "start": 4.22,
+            "end": 4.34,
+            "probability": 0.9814453125
+          },
+          {
+            "word": "我",
+            "start": 4.58,
+            "end": 4.76,
+            "probability": 0.9716796875
+          },
+          {
+            "word": "又",
+            "start": 4.76,
+            "end": 4.84,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "不",
+            "start": 4.84,
+            "end": 4.94,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "想",
+            "start": 4.94,
+            "end": 5.08,
+            "probability": 0.994140625
+          },
+          {
+            "word": "来",
+            "start": 5.08,
+            "end": 5.2,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "回",
+            "start": 5.2,
+            "end": 5.36,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "切",
+            "start": 5.36,
+            "end": 5.54,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "客",
+            "start": 5.54,
+            "end": 5.7,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "户",
+            "start": 5.7,
+            "end": 5.82,
+            "probability": 1.0
+          },
+          {
+            "word": "端",
+            "start": 5.82,
+            "end": 5.96,
+            "probability": 0.99609375
+          },
+          {
+            "word": "用。",
+            "start": 5.96,
+            "end": 6.08,
+            "probability": 0.99755859375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_26",
+    "source": "我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。",
+    "asr": "我就想把它们统一接近DeepSeek Harness，可不可以?可以,Magpie，就能直接帮我接过去。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.14,
+        "text": "我就想把它们统一接近DeepSeek Harness，可不可以?可以,Magpie，就能直接帮我接过去。",
+        "tokens": [
+          50365,
+          22020,
+          7093,
+          42061,
+          9497,
+          10115,
+          253,
+          2257,
+          14468,
+          17463,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          4429,
+          1960,
+          6723,
+          30,
+          6723,
+          11,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          3111,
+          8225,
+          43297,
+          4845,
+          106,
+          1654,
+          14468,
+          16866,
+          6734,
+          1543,
+          50625
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.2103443145751953,
+        "compression_ratio": 0.9908256880733946,
+        "no_speech_prob": 6.082803011286941e-11,
+        "words": [
+          {
+            "word": "我就",
+            "start": 0.0,
+            "end": 0.28,
+            "probability": 0.9775390625
+          },
+          {
+            "word": "想",
+            "start": 0.28,
+            "end": 0.42,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "把它",
+            "start": 0.42,
+            "end": 0.56,
+            "probability": 0.92041015625
+          },
+          {
+            "word": "们",
+            "start": 0.56,
+            "end": 0.76,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "统",
+            "start": 0.76,
+            "end": 0.88,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "一",
+            "start": 0.88,
+            "end": 1.02,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "接",
+            "start": 1.02,
+            "end": 1.18,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "近",
+            "start": 1.18,
+            "end": 1.36,
+            "probability": 0.81640625
+          },
+          {
+            "word": "De",
+            "start": 1.36,
+            "end": 1.54,
+            "probability": 0.2340087890625
+          },
+          {
+            "word": "ep",
+            "start": 1.54,
+            "end": 1.66,
+            "probability": 0.9775390625
+          },
+          {
+            "word": "Se",
+            "start": 1.66,
+            "end": 1.74,
+            "probability": 0.328857421875
+          },
+          {
+            "word": "ek",
+            "start": 1.74,
+            "end": 1.84,
+            "probability": 0.0548095703125
+          },
+          {
+            "word": " H",
+            "start": 1.84,
+            "end": 1.94,
+            "probability": 0.50634765625
+          },
+          {
+            "word": "arness，",
+            "start": 1.94,
+            "end": 2.1,
+            "probability": 0.998046875
+          },
+          {
+            "word": "可",
+            "start": 2.4,
+            "end": 2.5,
+            "probability": 0.81005859375
+          },
+          {
+            "word": "不",
+            "start": 2.5,
+            "end": 2.56,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "可以?",
+            "start": 2.56,
+            "end": 2.74,
+            "probability": 0.99609375
+          },
+          {
+            "word": "可以,",
+            "start": 3.0,
+            "end": 3.22,
+            "probability": 0.94677734375
+          },
+          {
+            "word": "Mag",
+            "start": 3.52,
+            "end": 3.7,
+            "probability": 0.802734375
+          },
+          {
+            "word": "pie，",
+            "start": 3.7,
+            "end": 3.84,
+            "probability": 0.321533203125
+          },
+          {
+            "word": "就",
+            "start": 4.02,
+            "end": 4.14,
+            "probability": 0.96533203125
+          },
+          {
+            "word": "能",
+            "start": 4.14,
+            "end": 4.28,
+            "probability": 0.9130859375
+          },
+          {
+            "word": "直接",
+            "start": 4.28,
+            "end": 4.48,
+            "probability": 0.974609375
+          },
+          {
+            "word": "帮",
+            "start": 4.48,
+            "end": 4.66,
+            "probability": 0.95849609375
+          },
+          {
+            "word": "我",
+            "start": 4.66,
+            "end": 4.78,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "接",
+            "start": 4.78,
+            "end": 4.88,
+            "probability": 0.998046875
+          },
+          {
+            "word": "过",
+            "start": 4.88,
+            "end": 5.0,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "去。",
+            "start": 5.0,
+            "end": 5.14,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_27",
+    "source": "而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。",
+    "asr": "而且DeepSeek配官方DeepSeek Harness真的很爽。响应快,工具调用顺,基本就是原生的感觉。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 7.14,
+        "text": "而且DeepSeek配官方DeepSeek Harness真的很爽。响应快,工具调用顺,基本就是原生的感觉。",
+        "tokens": [
+          50365,
+          22942,
+          11089,
+          595,
+          10637,
+          916,
+          38846,
+          31929,
+          9249,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          38317,
+          8164,
+          121,
+          1543,
+          3858,
+          235,
+          44297,
+          10251,
+          11,
+          23323,
+          39806,
+          8897,
+          225,
+          9254,
+          10178,
+          118,
+          11,
+          37946,
+          5620,
+          19683,
+          8244,
+          1546,
+          9709,
+          24447,
+          1543,
+          50725
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.1650435243334089,
+        "compression_ratio": 0.9482758620689655,
+        "no_speech_prob": 4.6130089331741786e-11,
+        "words": [
+          {
+            "word": "而且",
+            "start": 0.0,
+            "end": 0.44,
+            "probability": 0.998046875
+          },
+          {
+            "word": "De",
+            "start": 0.44,
+            "end": 0.7,
+            "probability": 0.6171875
+          },
+          {
+            "word": "ep",
+            "start": 0.7,
+            "end": 0.8,
+            "probability": 0.951171875
+          },
+          {
+            "word": "Se",
+            "start": 0.8,
+            "end": 0.9,
+            "probability": 0.08721923828125
+          },
+          {
+            "word": "ek",
+            "start": 0.9,
+            "end": 1.04,
+            "probability": 0.8359375
+          },
+          {
+            "word": "配",
+            "start": 1.04,
+            "end": 1.32,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "官",
+            "start": 1.32,
+            "end": 1.54,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "方",
+            "start": 1.54,
+            "end": 1.78,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "De",
+            "start": 1.78,
+            "end": 2.26,
+            "probability": 0.986328125
+          },
+          {
+            "word": "ep",
+            "start": 2.26,
+            "end": 2.36,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "Se",
+            "start": 2.36,
+            "end": 2.5,
+            "probability": 0.94189453125
+          },
+          {
+            "word": "ek",
+            "start": 2.5,
+            "end": 2.64,
+            "probability": 1.0
+          },
+          {
+            "word": " H",
+            "start": 2.64,
+            "end": 2.76,
+            "probability": 0.94580078125
+          },
+          {
+            "word": "arness",
+            "start": 2.76,
+            "end": 2.98,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "真的很",
+            "start": 2.98,
+            "end": 3.44,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "爽。",
+            "start": 3.44,
+            "end": 3.84,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "响",
+            "start": 4.02,
+            "end": 4.36,
+            "probability": 0.7529296875
+          },
+          {
+            "word": "应",
+            "start": 4.36,
+            "end": 4.5,
+            "probability": 0.6123046875
+          },
+          {
+            "word": "快,",
+            "start": 4.5,
+            "end": 4.68,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "工",
+            "start": 4.86,
+            "end": 5.12,
+            "probability": 0.9638671875
+          },
+          {
+            "word": "具",
+            "start": 5.12,
+            "end": 5.24,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "调",
+            "start": 5.24,
+            "end": 5.36,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "用",
+            "start": 5.36,
+            "end": 5.52,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "顺,",
+            "start": 5.52,
+            "end": 5.68,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "基本",
+            "start": 5.96,
+            "end": 6.2,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "就是",
+            "start": 6.2,
+            "end": 6.44,
+            "probability": 0.96923828125
+          },
+          {
+            "word": "原",
+            "start": 6.44,
+            "end": 6.58,
+            "probability": 0.9921875
+          },
+          {
+            "word": "生",
+            "start": 6.58,
+            "end": 6.76,
+            "probability": 0.6796875
+          },
+          {
+            "word": "的",
+            "start": 6.76,
+            "end": 6.88,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "感",
+            "start": 6.88,
+            "end": 6.98,
+            "probability": 0.98046875
+          },
+          {
+            "word": "觉。",
+            "start": 6.98,
+            "end": 7.14,
+            "probability": 0.998046875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_28",
+    "source": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy AI、Codex 账号。",
+    "asr": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy，AI�Codex账号。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.82,
+        "text": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy，AI�Codex账号。",
+        "tokens": [
+          50365,
+          8661,
+          8661,
+          28053,
+          23049,
+          106,
+          24620,
+          11,
+          37445,
+          9144,
+          14852,
+          35488,
+          2166,
+          13089,
+          15729,
+          14468,
+          6392,
+          7549,
+          18464,
+          99,
+          26987,
+          1543,
+          1654,
+          25040,
+          3111,
+          13089,
+          15729,
+          8501,
+          224,
+          2289,
+          6392,
+          7549,
+          28846,
+          33,
+          532,
+          3173,
+          171,
+          120,
+          234,
+          28846,
+          33,
+          532,
+          3173,
+          171,
+          120,
+          234,
+          48698,
+          171,
+          120,
+          34,
+          1429,
+          87,
+          18464,
+          99,
+          26987,
+          1543,
+          50760
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.16641536252251987,
+        "compression_ratio": 1.089430894308943,
+        "no_speech_prob": 6.427110926798818e-11,
+        "words": [
+          {
+            "word": "最",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "最",
+            "start": 0.26,
+            "end": 0.4,
+            "probability": 0.9765625
+          },
+          {
+            "word": "关",
+            "start": 0.4,
+            "end": 0.54,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "键",
+            "start": 0.54,
+            "end": 0.68,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "的是,",
+            "start": 0.68,
+            "end": 0.9,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "Mag",
+            "start": 1.28,
+            "end": 1.38,
+            "probability": 0.94482421875
+          },
+          {
+            "word": "pie",
+            "start": 1.38,
+            "end": 1.54,
+            "probability": 0.09954833984375
+          },
+          {
+            "word": "还",
+            "start": 1.54,
+            "end": 1.68,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "支持",
+            "start": 1.68,
+            "end": 1.98,
+            "probability": 0.99609375
+          },
+          {
+            "word": "你",
+            "start": 1.98,
+            "end": 2.14,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "同",
+            "start": 2.14,
+            "end": 2.3,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "时",
+            "start": 2.3,
+            "end": 2.48,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "接",
+            "start": 2.48,
+            "end": 2.6,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "多",
+            "start": 2.6,
+            "end": 2.78,
+            "probability": 0.9931640625
+          },
+          {
+            "word": "个",
+            "start": 2.78,
+            "end": 2.9,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "账",
+            "start": 2.9,
+            "end": 3.04,
+            "probability": 0.97265625
+          },
+          {
+            "word": "号。",
+            "start": 3.04,
+            "end": 3.18,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "我",
+            "start": 3.4,
+            "end": 3.68,
+            "probability": 0.9677734375
+          },
+          {
+            "word": "现在",
+            "start": 3.68,
+            "end": 3.92,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "就",
+            "start": 3.92,
+            "end": 4.06,
+            "probability": 0.984375
+          },
+          {
+            "word": "同",
+            "start": 4.06,
+            "end": 4.22,
+            "probability": 0.95361328125
+          },
+          {
+            "word": "时",
+            "start": 4.22,
+            "end": 4.4,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "挂",
+            "start": 4.4,
+            "end": 4.54,
+            "probability": 0.9921875
+          },
+          {
+            "word": "了",
+            "start": 4.54,
+            "end": 4.66,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "多",
+            "start": 4.66,
+            "end": 4.8,
+            "probability": 0.9921875
+          },
+          {
+            "word": "个",
+            "start": 4.8,
+            "end": 4.94,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "Work",
+            "start": 4.94,
+            "end": 5.08,
+            "probability": 0.310302734375
+          },
+          {
+            "word": "B",
+            "start": 5.08,
+            "end": 5.22,
+            "probability": 0.0245819091796875
+          },
+          {
+            "word": "ud",
+            "start": 5.22,
+            "end": 5.3,
+            "probability": 0.2027587890625
+          },
+          {
+            "word": "dy，",
+            "start": 5.3,
+            "end": 5.44,
+            "probability": 0.5087890625
+          },
+          {
+            "word": "Work",
+            "start": 5.78,
+            "end": 5.88,
+            "probability": 0.05657958984375
+          },
+          {
+            "word": "B",
+            "start": 5.88,
+            "end": 6.0,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "ud",
+            "start": 6.0,
+            "end": 6.1,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "dy，",
+            "start": 6.1,
+            "end": 6.22,
+            "probability": 0.9140625
+          },
+          {
+            "word": "AI",
+            "start": 6.56,
+            "end": 6.82,
+            "probability": 0.378173828125
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_29",
+    "source": "每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。",
+    "asr": "每个账号登录验证一次就行,后面交给Magpie管,相当于可以多倍白嫖。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.74,
+        "text": "每个账号登录验证一次就行,后面交给Magpie管,相当于可以多倍白嫖。",
+        "tokens": [
+          50365,
+          23664,
+          7549,
+          18464,
+          99,
+          26987,
+          25874,
+          7391,
+          243,
+          49657,
+          234,
+          5233,
+          223,
+          27505,
+          3111,
+          8082,
+          11,
+          13547,
+          8833,
+          28455,
+          23197,
+          37445,
+          9144,
+          23131,
+          11,
+          15106,
+          16233,
+          37732,
+          6723,
+          6392,
+          35477,
+          13558,
+          38291,
+          244,
+          1543,
+          50615
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.140092269794361,
+        "compression_ratio": 0.89,
+        "no_speech_prob": 6.274791103377808e-11,
+        "words": [
+          {
+            "word": "每",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "个",
+            "start": 0.3,
+            "end": 0.42,
+            "probability": 0.99560546875
+          },
+          {
+            "word": "账",
+            "start": 0.42,
+            "end": 0.52,
+            "probability": 0.9658203125
+          },
+          {
+            "word": "号",
+            "start": 0.52,
+            "end": 0.68,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "登",
+            "start": 0.68,
+            "end": 0.82,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "录",
+            "start": 0.82,
+            "end": 0.98,
+            "probability": 0.8974609375
+          },
+          {
+            "word": "验",
+            "start": 0.98,
+            "end": 1.06,
+            "probability": 0.998046875
+          },
+          {
+            "word": "证",
+            "start": 1.06,
+            "end": 1.24,
+            "probability": 1.0
+          },
+          {
+            "word": "一次",
+            "start": 1.24,
+            "end": 1.42,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "就",
+            "start": 1.42,
+            "end": 1.58,
+            "probability": 0.998046875
+          },
+          {
+            "word": "行,",
+            "start": 1.58,
+            "end": 1.78,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "后",
+            "start": 2.2,
+            "end": 2.28,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "面",
+            "start": 2.28,
+            "end": 2.42,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "交",
+            "start": 2.42,
+            "end": 2.54,
+            "probability": 0.998046875
+          },
+          {
+            "word": "给",
+            "start": 2.54,
+            "end": 2.68,
+            "probability": 0.99609375
+          },
+          {
+            "word": "Mag",
+            "start": 2.68,
+            "end": 2.84,
+            "probability": 0.81005859375
+          },
+          {
+            "word": "pie",
+            "start": 2.84,
+            "end": 2.96,
+            "probability": 0.050384521484375
+          },
+          {
+            "word": "管,",
+            "start": 2.96,
+            "end": 3.14,
+            "probability": 0.88671875
+          },
+          {
+            "word": "相",
+            "start": 3.54,
+            "end": 3.68,
+            "probability": 0.994140625
+          },
+          {
+            "word": "当",
+            "start": 3.68,
+            "end": 3.8,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "于",
+            "start": 3.8,
+            "end": 3.92,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "可以",
+            "start": 3.92,
+            "end": 4.08,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "多",
+            "start": 4.08,
+            "end": 4.28,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "倍",
+            "start": 4.28,
+            "end": 4.42,
+            "probability": 0.9384765625
+          },
+          {
+            "word": "白",
+            "start": 4.42,
+            "end": 4.58,
+            "probability": 0.92724609375
+          },
+          {
+            "word": "嫖。",
+            "start": 4.58,
+            "end": 4.74,
+            "probability": 0.9326171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_30",
+    "source": "安装也不用自己一条条敲命令，直接让 Agent 帮你装。",
+    "asr": "安装也不用自己一条条敲命令,直接让Agent帮你装。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.1,
+        "text": "安装也不用自己一条条敲命令,直接让Agent帮你装。",
+        "tokens": [
+          50365,
+          16206,
+          8083,
+          227,
+          6404,
+          24384,
+          17645,
+          2257,
+          48837,
+          48837,
+          7017,
+          110,
+          25236,
+          49061,
+          11,
+          43297,
+          33650,
+          32,
+          6930,
+          4845,
+          106,
+          2166,
+          8083,
+          227,
+          1543,
+          50530
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.13341942539921514,
+        "compression_ratio": 0.8571428571428571,
+        "no_speech_prob": 6.525016638114778e-11,
+        "words": [
+          {
+            "word": "安",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "装",
+            "start": 0.26,
+            "end": 0.38,
+            "probability": 0.998046875
+          },
+          {
+            "word": "也",
+            "start": 0.38,
+            "end": 0.5,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "不用",
+            "start": 0.5,
+            "end": 0.7,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "自己",
+            "start": 0.7,
+            "end": 0.94,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "一",
+            "start": 0.94,
+            "end": 1.06,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "条",
+            "start": 1.06,
+            "end": 1.18,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "条",
+            "start": 1.18,
+            "end": 1.32,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "敲",
+            "start": 1.32,
+            "end": 1.46,
+            "probability": 0.9921875
+          },
+          {
+            "word": "命",
+            "start": 1.46,
+            "end": 1.62,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "令,",
+            "start": 1.62,
+            "end": 1.74,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "直接",
+            "start": 1.94,
+            "end": 2.18,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "让",
+            "start": 2.18,
+            "end": 2.38,
+            "probability": 0.978515625
+          },
+          {
+            "word": "A",
+            "start": 2.38,
+            "end": 2.5,
+            "probability": 0.607421875
+          },
+          {
+            "word": "gent",
+            "start": 2.5,
+            "end": 2.66,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "帮",
+            "start": 2.66,
+            "end": 2.86,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "你",
+            "start": 2.86,
+            "end": 2.98,
+            "probability": 0.994140625
+          },
+          {
+            "word": "装。",
+            "start": 2.98,
+            "end": 3.1,
+            "probability": 0.9931640625
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_31",
+    "source": "把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。",
+    "asr": "把我准备好的提示词丢给WorkBuddy，DeepSeek Harness，Token，Z去安装Magpie，接账号、检查模型。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 6.16,
+        "text": "把我准备好的提示词丢给WorkBuddy，DeepSeek Harness，Token，Z去安装Magpie，接账号、检查模型。",
+        "tokens": [
+          50365,
+          16075,
+          1654,
+          6336,
+          228,
+          1787,
+          229,
+          20715,
+          20949,
+          25696,
+          5233,
+          235,
+          940,
+          95,
+          23197,
+          28846,
+          33,
+          532,
+          3173,
+          171,
+          120,
+          234,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          51,
+          8406,
+          171,
+          120,
+          234,
+          57,
+          6734,
+          16206,
+          8083,
+          227,
+          37445,
+          9144,
+          171,
+          120,
+          234,
+          14468,
+          18464,
+          99,
+          26987,
+          1231,
+          16407,
+          222,
+          42623,
+          41908,
+          39823,
+          1543,
+          50679
+        ],
+        "temperature": 0.8,
+        "avg_logprob": -0.38015184564105536,
+        "compression_ratio": 0.9147286821705426,
+        "no_speech_prob": 5.022849844382726e-11,
+        "words": [
+          {
+            "word": "把",
+            "start": 0.0,
+            "end": 0.22,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "我",
+            "start": 0.22,
+            "end": 0.34,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "准",
+            "start": 0.34,
+            "end": 0.46,
+            "probability": 0.984375
+          },
+          {
+            "word": "备",
+            "start": 0.46,
+            "end": 0.56,
+            "probability": 1.0
+          },
+          {
+            "word": "好的",
+            "start": 0.56,
+            "end": 0.72,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "提",
+            "start": 0.72,
+            "end": 0.88,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "示",
+            "start": 0.88,
+            "end": 1.04,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "词",
+            "start": 1.04,
+            "end": 1.24,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "丢",
+            "start": 1.24,
+            "end": 1.48,
+            "probability": 0.984375
+          },
+          {
+            "word": "给",
+            "start": 1.48,
+            "end": 1.62,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "Work",
+            "start": 1.62,
+            "end": 1.78,
+            "probability": 0.3505859375
+          },
+          {
+            "word": "B",
+            "start": 1.78,
+            "end": 1.94,
+            "probability": 0.2171630859375
+          },
+          {
+            "word": "ud",
+            "start": 1.94,
+            "end": 2.02,
+            "probability": 0.74169921875
+          },
+          {
+            "word": "dy，",
+            "start": 2.02,
+            "end": 2.14,
+            "probability": 0.97021484375
+          },
+          {
+            "word": "De",
+            "start": 2.46,
+            "end": 2.66,
+            "probability": 0.3388671875
+          },
+          {
+            "word": "ep",
+            "start": 2.66,
+            "end": 2.76,
+            "probability": 0.9326171875
+          },
+          {
+            "word": "Se",
+            "start": 2.76,
+            "end": 2.86,
+            "probability": 0.458984375
+          },
+          {
+            "word": "ek",
+            "start": 2.86,
+            "end": 2.98,
+            "probability": 0.744140625
+          },
+          {
+            "word": " H",
+            "start": 2.98,
+            "end": 3.06,
+            "probability": 0.681640625
+          },
+          {
+            "word": "arness，",
+            "start": 3.06,
+            "end": 3.24,
+            "probability": 0.998046875
+          },
+          {
+            "word": "T",
+            "start": 3.64,
+            "end": 3.84,
+            "probability": 0.00021660327911376953
+          },
+          {
+            "word": "oken，",
+            "start": 3.84,
+            "end": 4.04,
+            "probability": 1.043081283569336e-05
+          },
+          {
+            "word": "Z",
+            "start": 4.04,
+            "end": 4.04,
+            "probability": 0.0404052734375
+          },
+          {
+            "word": "去",
+            "start": 4.04,
+            "end": 4.1,
+            "probability": 0.007312774658203125
+          },
+          {
+            "word": "安",
+            "start": 4.1,
+            "end": 4.18,
+            "probability": 0.1220703125
+          },
+          {
+            "word": "装",
+            "start": 4.18,
+            "end": 4.38,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "Mag",
+            "start": 4.38,
+            "end": 4.52,
+            "probability": 0.81494140625
+          },
+          {
+            "word": "pie，",
+            "start": 4.52,
+            "end": 4.7,
+            "probability": 0.1202392578125
+          },
+          {
+            "word": "接",
+            "start": 4.94,
+            "end": 5.08,
+            "probability": 0.87744140625
+          },
+          {
+            "word": "账",
+            "start": 5.08,
+            "end": 5.22,
+            "probability": 0.916015625
+          },
+          {
+            "word": "号、",
+            "start": 5.22,
+            "end": 5.4,
+            "probability": 0.99609375
+          },
+          {
+            "word": "检",
+            "start": 5.58,
+            "end": 5.72,
+            "probability": 0.9853515625
+          },
+          {
+            "word": "查",
+            "start": 5.72,
+            "end": 5.86,
+            "probability": 0.998046875
+          },
+          {
+            "word": "模",
+            "start": 5.86,
+            "end": 5.98,
+            "probability": 0.97509765625
+          },
+          {
+            "word": "型。",
+            "start": 5.98,
+            "end": 6.16,
+            "probability": 0.99951171875
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_32",
+    "source": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+    "asr": "中间需要登录授权的时候,你自己点一下,剩下的继续让Agent干。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.14,
+        "text": "中间需要登录授权的时候,你自己点一下,剩下的继续让Agent干。",
+        "tokens": [
+          50365,
+          5975,
+          31685,
+          35748,
+          25874,
+          7391,
+          243,
+          6900,
+          230,
+          4422,
+          225,
+          49873,
+          11,
+          2166,
+          17645,
+          12579,
+          8861,
+          11,
+          5935,
+          102,
+          4438,
+          1546,
+          10115,
+          100,
+          10115,
+          255,
+          33650,
+          32,
+          6930,
+          26111,
+          1543,
+          50585
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.16881975983128403,
+        "compression_ratio": 0.8817204301075269,
+        "no_speech_prob": 6.472023611481248e-11,
+        "words": [
+          {
+            "word": "中",
+            "start": 0.0,
+            "end": 0.22,
+            "probability": 0.98291015625
+          },
+          {
+            "word": "间",
+            "start": 0.22,
+            "end": 0.38,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "需要",
+            "start": 0.38,
+            "end": 0.58,
+            "probability": 0.9921875
+          },
+          {
+            "word": "登",
+            "start": 0.58,
+            "end": 0.74,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "录",
+            "start": 0.74,
+            "end": 0.9,
+            "probability": 0.77294921875
+          },
+          {
+            "word": "授",
+            "start": 0.9,
+            "end": 1.06,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "权",
+            "start": 1.06,
+            "end": 1.2,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "的时候,",
+            "start": 1.2,
+            "end": 1.44,
+            "probability": 0.9833984375
+          },
+          {
+            "word": "你",
+            "start": 1.76,
+            "end": 1.84,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "自己",
+            "start": 1.84,
+            "end": 2.02,
+            "probability": 0.99755859375
+          },
+          {
+            "word": "点",
+            "start": 2.02,
+            "end": 2.16,
+            "probability": 0.99609375
+          },
+          {
+            "word": "一下,",
+            "start": 2.16,
+            "end": 2.4,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "剩",
+            "start": 2.84,
+            "end": 2.9,
+            "probability": 0.9892578125
+          },
+          {
+            "word": "下",
+            "start": 2.9,
+            "end": 3.04,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "的",
+            "start": 3.04,
+            "end": 3.16,
+            "probability": 0.99267578125
+          },
+          {
+            "word": "继",
+            "start": 3.16,
+            "end": 3.48,
+            "probability": 0.955078125
+          },
+          {
+            "word": "续",
+            "start": 3.48,
+            "end": 3.58,
+            "probability": 1.0
+          },
+          {
+            "word": "让",
+            "start": 3.58,
+            "end": 3.7,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "A",
+            "start": 3.7,
+            "end": 3.84,
+            "probability": 0.4189453125
+          },
+          {
+            "word": "gent",
+            "start": 3.84,
+            "end": 3.98,
+            "probability": 0.99609375
+          },
+          {
+            "word": "干。",
+            "start": 3.98,
+            "end": 4.14,
+            "probability": 0.97021484375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_33",
+    "source": "唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。",
+    "asr": "唯一特别注意一点,DeepSeek Harness，有web，desktop两套profile。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 3.94,
+        "text": "唯一特别注意一点,DeepSeek Harness，有web，desktop两套profile。",
+        "tokens": [
+          50365,
+          17198,
+          107,
+          2257,
+          17682,
+          18453,
+          40794,
+          49042,
+          11,
+          11089,
+          595,
+          10637,
+          916,
+          389,
+          16937,
+          171,
+          120,
+          234,
+          2412,
+          826,
+          65,
+          171,
+          120,
+          234,
+          14792,
+          13031,
+          36257,
+          1881,
+          245,
+          29175,
+          794,
+          1543,
+          50565
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.19283221749698415,
+        "compression_ratio": 0.9156626506024096,
+        "no_speech_prob": 6.730187934733678e-11,
+        "words": [
+          {
+            "word": "唯",
+            "start": 0.0,
+            "end": 0.24,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "一",
+            "start": 0.24,
+            "end": 0.34,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "特",
+            "start": 0.34,
+            "end": 0.46,
+            "probability": 0.91943359375
+          },
+          {
+            "word": "别",
+            "start": 0.46,
+            "end": 0.58,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "注意",
+            "start": 0.58,
+            "end": 0.74,
+            "probability": 0.98193359375
+          },
+          {
+            "word": "一点,",
+            "start": 0.74,
+            "end": 1.04,
+            "probability": 0.81982421875
+          },
+          {
+            "word": "De",
+            "start": 1.32,
+            "end": 1.36,
+            "probability": 0.292236328125
+          },
+          {
+            "word": "ep",
+            "start": 1.36,
+            "end": 1.44,
+            "probability": 0.9287109375
+          },
+          {
+            "word": "Se",
+            "start": 1.44,
+            "end": 1.54,
+            "probability": 0.318359375
+          },
+          {
+            "word": "ek",
+            "start": 1.54,
+            "end": 1.66,
+            "probability": 0.266357421875
+          },
+          {
+            "word": " H",
+            "start": 1.66,
+            "end": 1.74,
+            "probability": 0.6416015625
+          },
+          {
+            "word": "arness，",
+            "start": 1.74,
+            "end": 1.9,
+            "probability": 0.98974609375
+          },
+          {
+            "word": "有",
+            "start": 2.22,
+            "end": 2.38,
+            "probability": 0.75927734375
+          },
+          {
+            "word": "we",
+            "start": 2.38,
+            "end": 2.52,
+            "probability": 0.415771484375
+          },
+          {
+            "word": "b，",
+            "start": 2.52,
+            "end": 2.64,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "des",
+            "start": 2.78,
+            "end": 2.92,
+            "probability": 0.0168304443359375
+          },
+          {
+            "word": "ktop",
+            "start": 2.92,
+            "end": 3.18,
+            "probability": 0.978515625
+          },
+          {
+            "word": "两",
+            "start": 3.18,
+            "end": 3.36,
+            "probability": 0.7900390625
+          },
+          {
+            "word": "套",
+            "start": 3.36,
+            "end": 3.6,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "prof",
+            "start": 3.6,
+            "end": 3.76,
+            "probability": 0.80126953125
+          },
+          {
+            "word": "ile。",
+            "start": 3.76,
+            "end": 3.94,
+            "probability": 0.99609375
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_34",
+    "source": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+    "asr": "一定让Agent改对Desktop,重启以后看模型列表,再拿一个真实任务跑通,就算搞定。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 5.5,
+        "text": "一定让Agent改对Desktop,重启以后看模型列表,再拿一个真实任务跑通,就算搞定。",
+        "tokens": [
+          50365,
+          24272,
+          33650,
+          32,
+          6930,
+          34490,
+          8713,
+          29543,
+          13031,
+          11,
+          12624,
+          2392,
+          107,
+          3588,
+          13547,
+          4200,
+          41908,
+          39823,
+          43338,
+          17571,
+          11,
+          8623,
+          24351,
+          20182,
+          6303,
+          24726,
+          26443,
+          5087,
+          94,
+          32585,
+          19550,
+          11,
+          3111,
+          19497,
+          41816,
+          12088,
+          1543,
+          50645
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.15834931838206756,
+        "compression_ratio": 0.9026548672566371,
+        "no_speech_prob": 5.8060986574126616e-11,
+        "words": [
+          {
+            "word": "一定",
+            "start": 0.0,
+            "end": 0.26,
+            "probability": 0.95556640625
+          },
+          {
+            "word": "让",
+            "start": 0.26,
+            "end": 0.44,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "A",
+            "start": 0.44,
+            "end": 0.58,
+            "probability": 0.533203125
+          },
+          {
+            "word": "gent",
+            "start": 0.58,
+            "end": 0.74,
+            "probability": 0.9970703125
+          },
+          {
+            "word": "改",
+            "start": 0.74,
+            "end": 1.0,
+            "probability": 0.830078125
+          },
+          {
+            "word": "对",
+            "start": 1.0,
+            "end": 1.14,
+            "probability": 0.98681640625
+          },
+          {
+            "word": "Des",
+            "start": 1.14,
+            "end": 1.3,
+            "probability": 0.8056640625
+          },
+          {
+            "word": "ktop,",
+            "start": 1.3,
+            "end": 1.58,
+            "probability": 0.9716796875
+          },
+          {
+            "word": "重",
+            "start": 1.74,
+            "end": 2.02,
+            "probability": 0.99072265625
+          },
+          {
+            "word": "启",
+            "start": 2.02,
+            "end": 2.2,
+            "probability": 0.99658203125
+          },
+          {
+            "word": "以",
+            "start": 2.2,
+            "end": 2.32,
+            "probability": 0.96337890625
+          },
+          {
+            "word": "后",
+            "start": 2.32,
+            "end": 2.44,
+            "probability": 0.99609375
+          },
+          {
+            "word": "看",
+            "start": 2.44,
+            "end": 2.64,
+            "probability": 0.9853515625
+          },
+          {
+            "word": "模",
+            "start": 2.64,
+            "end": 2.78,
+            "probability": 0.9951171875
+          },
+          {
+            "word": "型",
+            "start": 2.78,
+            "end": 2.92,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "列",
+            "start": 2.92,
+            "end": 3.04,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "表,",
+            "start": 3.04,
+            "end": 3.2,
+            "probability": 1.0
+          },
+          {
+            "word": "再",
+            "start": 3.6,
+            "end": 3.66,
+            "probability": 0.98486328125
+          },
+          {
+            "word": "拿",
+            "start": 3.66,
+            "end": 3.8,
+            "probability": 0.98583984375
+          },
+          {
+            "word": "一个",
+            "start": 3.8,
+            "end": 3.96,
+            "probability": 0.97900390625
+          },
+          {
+            "word": "真",
+            "start": 3.96,
+            "end": 4.1,
+            "probability": 0.9921875
+          },
+          {
+            "word": "实",
+            "start": 4.1,
+            "end": 4.24,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "任",
+            "start": 4.24,
+            "end": 4.34,
+            "probability": 0.95068359375
+          },
+          {
+            "word": "务",
+            "start": 4.34,
+            "end": 4.46,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "跑",
+            "start": 4.46,
+            "end": 4.58,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "通,",
+            "start": 4.58,
+            "end": 4.76,
+            "probability": 0.99462890625
+          },
+          {
+            "word": "就",
+            "start": 4.92,
+            "end": 5.1,
+            "probability": 0.98779296875
+          },
+          {
+            "word": "算",
+            "start": 5.1,
+            "end": 5.24,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "搞",
+            "start": 5.24,
+            "end": 5.36,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "定。",
+            "start": 5.36,
+            "end": 5.5,
+            "probability": 0.99853515625
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scene_35",
+    "source": "我是财叔，类似这种真能省 Token 的神器，我继续给大家挖，我们下期见。",
+    "asr": "我是才叔,类似这种真能省Token的神器,我继续给大家挖,我们下期见。",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 4.7,
+        "text": "我是才叔,类似这种真能省Token的神器,我继续给大家挖,我们下期见。",
+        "tokens": [
+          50365,
+          15914,
+          18888,
+          39936,
+          11,
+          22113,
+          119,
+          7384,
+          120,
+          5562,
+          39810,
+          6303,
+          8225,
+          2862,
+          223,
+          51,
+          8406,
+          1546,
+          20432,
+          34386,
+          11,
+          1654,
+          10115,
+          100,
+          10115,
+          255,
+          23197,
+          6868,
+          8501,
+          244,
+          11,
+          15003,
+          4438,
+          16786,
+          23813,
+          1543,
+          50603
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.19382352578012566,
+        "compression_ratio": 0.89,
+        "no_speech_prob": 5.898932731174256e-11,
+        "words": [
+          {
+            "word": "我是",
+            "start": 0.0,
+            "end": 0.32,
+            "probability": 0.99365234375
+          },
+          {
+            "word": "才",
+            "start": 0.32,
+            "end": 0.48,
+            "probability": 0.417724609375
+          },
+          {
+            "word": "叔,",
+            "start": 0.48,
+            "end": 0.64,
+            "probability": 0.5341796875
+          },
+          {
+            "word": "类",
+            "start": 0.82,
+            "end": 1.18,
+            "probability": 0.9912109375
+          },
+          {
+            "word": "似",
+            "start": 1.18,
+            "end": 1.28,
+            "probability": 1.0
+          },
+          {
+            "word": "这",
+            "start": 1.28,
+            "end": 1.4,
+            "probability": 0.994140625
+          },
+          {
+            "word": "种",
+            "start": 1.4,
+            "end": 1.54,
+            "probability": 0.99951171875
+          },
+          {
+            "word": "真",
+            "start": 1.54,
+            "end": 1.72,
+            "probability": 0.986328125
+          },
+          {
+            "word": "能",
+            "start": 1.72,
+            "end": 1.88,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "省",
+            "start": 1.88,
+            "end": 2.06,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "T",
+            "start": 2.06,
+            "end": 2.2,
+            "probability": 0.1744384765625
+          },
+          {
+            "word": "oken",
+            "start": 2.2,
+            "end": 2.34,
+            "probability": 0.97705078125
+          },
+          {
+            "word": "的",
+            "start": 2.34,
+            "end": 2.44,
+            "probability": 0.9921875
+          },
+          {
+            "word": "神",
+            "start": 2.44,
+            "end": 2.56,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "器,",
+            "start": 2.56,
+            "end": 2.74,
+            "probability": 0.98876953125
+          },
+          {
+            "word": "我",
+            "start": 2.9,
+            "end": 3.08,
+            "probability": 0.9873046875
+          },
+          {
+            "word": "继",
+            "start": 3.08,
+            "end": 3.26,
+            "probability": 0.998046875
+          },
+          {
+            "word": "续",
+            "start": 3.26,
+            "end": 3.34,
+            "probability": 1.0
+          },
+          {
+            "word": "给",
+            "start": 3.34,
+            "end": 3.42,
+            "probability": 0.9765625
+          },
+          {
+            "word": "大家",
+            "start": 3.42,
+            "end": 3.66,
+            "probability": 0.998046875
+          },
+          {
+            "word": "挖,",
+            "start": 3.66,
+            "end": 3.82,
+            "probability": 0.99169921875
+          },
+          {
+            "word": "我们",
+            "start": 4.12,
+            "end": 4.22,
+            "probability": 0.994140625
+          },
+          {
+            "word": "下",
+            "start": 4.22,
+            "end": 4.44,
+            "probability": 0.9990234375
+          },
+          {
+            "word": "期",
+            "start": 4.44,
+            "end": 4.58,
+            "probability": 0.99853515625
+          },
+          {
+            "word": "见。",
+            "start": 4.58,
+            "end": 4.7,
+            "probability": 0.99853515625
+          }
+        ]
+      }
+    ]
+  }
+]

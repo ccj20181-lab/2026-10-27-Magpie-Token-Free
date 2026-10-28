@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "episode": 4,
+  "brand_profile": "caishu_ai_lab",
+  "formal": true,
+  "material_mix": {
+    "real": 22,
+    "motion": 13,
+    "ai_generated": 0
+  },
+  "narration_source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v04.txt",
+  "narration_sha256": "3746a2d9adb2f0bcfcf61d22ec22846717f6046d6013cd9d5f5189463ab61080",
+  "props": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v04/remotion_props.json",
+  "props_sha256": "8b3629a797d31612e85498bc5c24ccc4456977e8ee1382928874e00ed677d898",
+  "capture_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/capture_manifest.json",
+  "source_snapshot": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v04/source-snapshot",
+  "audio_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/audio_manifest.json",
+  "bgm": {
+    "path": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/music/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+    "volume": 0.12,
+    "durationSeconds": 150.508,
+    "sourcePath": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/共享素材/音频/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+    "sha256": "fefedeea496d10ad389a8aab0ea6f741f11cd27f7002a21b46fe5378221a0e86",
+    "fadeInSeconds": 0.8,
+    "fadeOutSeconds": 1.6
+  },
+  "postproduction": {
+    "uniform_mix_gain_db": 5,
+    "integrated_loudness_lufs": -19.5,
+    "true_peak_dbfs": -1.8,
+    "existing_voice_sources_unchanged": 34,
+    "restored_outro": "Original scene35 samples retained at0–0.74s and4–4.98s; no TTS regeneration",
+    "bgm": "same source and volume; final fade aligned to restored ending"
+  },
+  "delivery": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/delivery.json",
+  "qa_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/qa_report.json",
+  "video_sha256": "564e01aab05717810874be550696c4f624f968e589075974c7cac83fca352adf",
+  "status": "delivered_local_not_published",
+  "revision": "v04",
+  "previous_delivery": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v03-20261028-125227",
+  "duration_seconds": 172.8,
+  "frames": 5184,
+  "show_episode_marker": false
+}

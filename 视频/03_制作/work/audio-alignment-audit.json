@@ -1,0 +1,77 @@
+{
+  "video": "/Users/henry/Desktop/\u8d22\u53d4 AI Lab/03_\u5185\u5bb9\u751f\u4ea7/\u9879\u76ee/2026-10-27-Magpie-Token\u81ea\u7531/\u89c6\u9891/03_\u5236\u4f5c/work/candidate-v01/video_delivery.mp4",
+  "rows": [
+    {
+      "range": [
+        0,
+        2
+      ],
+      "source": "voice",
+      "lag_samples": 683,
+      "correlation": 0.9380945563316345
+    },
+    {
+      "range": [
+        0,
+        2
+      ],
+      "source": "bgm",
+      "lag_samples": 676,
+      "correlation": 0.30479303002357483
+    },
+    {
+      "range": [
+        5,
+        15
+      ],
+      "source": "voice",
+      "lag_samples": 684,
+      "correlation": 0.774703323841095
+    },
+    {
+      "range": [
+        5,
+        15
+      ],
+      "source": "bgm",
+      "lag_samples": 677,
+      "correlation": 0.36314308643341064
+    },
+    {
+      "range": [
+        65,
+        75
+      ],
+      "source": "voice",
+      "lag_samples": 683,
+      "correlation": 0.6780100464820862
+    },
+    {
+      "range": [
+        65,
+        75
+      ],
+      "source": "bgm",
+      "lag_samples": 677,
+      "correlation": 0.340615838766098
+    },
+    {
+      "range": [
+        151,
+        161
+      ],
+      "source": "voice",
+      "lag_samples": 690,
+      "correlation": 0.8913182020187378
+    },
+    {
+      "range": [
+        151,
+        161
+      ],
+      "source": "bgm",
+      "lag_samples": 683,
+      "correlation": 0.4301910102367401
+    }
+  ]
+}

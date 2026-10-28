@@ -1,0 +1,74 @@
+[
+  {
+    "range": [
+      0,
+      2
+    ],
+    "source": "voice",
+    "lag_samples": 683,
+    "correlation": 0.9380945563316345
+  },
+  {
+    "range": [
+      0,
+      2
+    ],
+    "source": "bgm",
+    "lag_samples": 676,
+    "correlation": 0.30479303002357483
+  },
+  {
+    "range": [
+      5,
+      15
+    ],
+    "source": "voice",
+    "lag_samples": 684,
+    "correlation": 0.774703323841095
+  },
+  {
+    "range": [
+      5,
+      15
+    ],
+    "source": "bgm",
+    "lag_samples": 677,
+    "correlation": 0.36314308643341064
+  },
+  {
+    "range": [
+      65,
+      75
+    ],
+    "source": "voice",
+    "lag_samples": 683,
+    "correlation": 0.6780100464820862
+  },
+  {
+    "range": [
+      65,
+      75
+    ],
+    "source": "bgm",
+    "lag_samples": 677,
+    "correlation": 0.340615838766098
+  },
+  {
+    "range": [
+      151,
+      161
+    ],
+    "source": "voice",
+    "lag_samples": 690,
+    "correlation": 0.8913182020187378
+  },
+  {
+    "range": [
+      151,
+      161
+    ],
+    "source": "bgm",
+    "lag_samples": 683,
+    "correlation": 0.4301910102367401
+  }
+]

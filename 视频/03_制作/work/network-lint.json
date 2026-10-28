@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "entries": 212,
+  "relation_cards": 212,
+  "knowledge_nodes": 34,
+  "parent_obsidian": [],
+  "vaults": [
+    {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+      "profile": "caishu",
+      "entries": 40,
+      "relation_cards": 40,
+      "knowledge_nodes": 6,
+      "broken_links": 0,
+      "forbidden_links": 0,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/秒懂金融学院/04_创作知识库",
+      "profile": "miaodong",
+      "entries": 101,
+      "relation_cards": 101,
+      "knowledge_nodes": 15,
+      "broken_links": 0,
+      "forbidden_links": 0,
+      "issues": [],
+      "warnings": []
+    },
+    {
+      "ok": true,
+      "vault": "/Users/henry/Documents/我的创作知识库/02_CDI智库口播知识库",
+      "profile": "cdi",
+      "entries": 71,
+      "relation_cards": 71,
+      "knowledge_nodes": 13,
+      "broken_links": 0,
+      "forbidden_links": 0,
+      "issues": [],
+      "warnings": []
+    }
+  ],
+  "issues": []
+}

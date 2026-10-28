@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "state": "pushed_pending_visual_qa",
+  "pushed_at": "2026-10-28T07:53:35+08:00",
+  "manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/04_发布/当前/release-manifest.json",
+  "preflight_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/04_发布/当前/.caishu-release/preflight-pushed-nzrpDfp75juLmURZ1bCkyWcLHq3ZIbzE9Q709YoTqC0rq-Nj.json",
+  "preflight_hash": "fd9e03b478a40ec389afa9fcc2bbb3b127d2d389b10a01e5651ced219721e962",
+  "media_id": "nzrpDfp75juLmURZ1bCkyWcLHq3ZIbzE9Q709YoTqC0rq-Nj_V5QTh7ZKndeC4NU",
+  "publication_id": "18213569c3db9facce614502605ddb787715d6ce11248631d8e518bb4501f6d6",
+  "material_id": "",
+  "completion_allowed": false,
+  "message": "接口成功不等于完成；等待公众号后台或手机预览目视验收。",
+  "archive_state": "archived",
+  "archive_entry_id": "caishu-ai-lab:wechat-article:031",
+  "archive_version": 4,
+  "archive_lifecycle_state": "pushed_pending_visual_qa",
+  "archive_output": "{\"ok\": true, \"path\": \"/Users/henry/Desktop/财叔 AI Lab/02_创作知识库/01-公众号文章/财叔AI-Lab/031-真神器！有了-Magpie，我真的-Token-自由了！/lifecycle.json\", \"state\": \"pushed_pending_visual_qa\"}"
+}

@@ -1,0 +1,179 @@
+{
+  "status": "pass",
+  "revision": "v02",
+  "video_sha256": "13f4e8a58a3c394d03e5453a19c586f16cc4205578660ae95916bce6e37f8295",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 5292,
+  "duration_seconds": 176.4,
+  "video_codec": "h264",
+  "pixel_format": "yuvj420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "full_decode": "pass",
+  "scene_count": 35,
+  "real_scenes": 22,
+  "motion_scenes": 13,
+  "image_generated_scenes": 0,
+  "audio_reused_byte_for_byte": true,
+  "audio_aac_sha256": "e919fa1c6ec62ed4a7de5265f6a6741460eaa17e000e2fc69be77a0d2aeebb75",
+  "audio_decoded_pcm_sha256": "7693d81d20c43cee4e6b0348e63b9db9fb3c7091178dfb9343070b38056b9dd7",
+  "brand_bgm_metadata_unchanged": true,
+  "all_narration_subtitles_timing_unchanged": true,
+  "all_real_scenes_no_precrop": true,
+  "source_motion_scenes_unchanged": true,
+  "encoded_motion_midpoint_comparisons": [
+    {
+      "scene": "scene_01",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_06",
+      "mean_pixel_error_0_255": 0.3482682291666667
+    },
+    {
+      "scene": "scene_09",
+      "mean_pixel_error_0_255": 0.19827835648148148
+    },
+    {
+      "scene": "scene_11",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_12",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_13",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_14",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_15",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_16",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_17",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_18",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_23",
+      "mean_pixel_error_0_255": 0.0
+    },
+    {
+      "scene": "scene_35",
+      "mean_pixel_error_0_255": 0.0
+    }
+  ],
+  "harness_join_media_mean_pixel_error": 0.0011935763888888888,
+  "camera_geometry_checks": [
+    {
+      "scene": "scene_04",
+      "target_visible_during_every_camera_frame": true,
+      "camera": {
+        "targetRect": [
+          1240,
+          135,
+          760,
+          940
+        ],
+        "fromFrame": 33,
+        "toFrame": 78
+      }
+    },
+    {
+      "scene": "scene_10",
+      "target_visible_during_every_camera_frame": true,
+      "camera": {
+        "targetRect": [
+          1020,
+          760,
+          755,
+          870
+        ],
+        "fromFrame": 30,
+        "toFrame": 78
+      }
+    },
+    {
+      "scene": "scene_24",
+      "target_visible_during_every_camera_frame": true,
+      "camera": {
+        "targetRect": [
+          0,
+          1280,
+          540,
+          330
+        ],
+        "fromFrame": 180,
+        "toFrame": 218
+      }
+    },
+    {
+      "scene": "scene_26",
+      "target_visible_during_every_camera_frame": true,
+      "camera": {
+        "targetRect": [
+          1260,
+          600,
+          1050,
+          1030
+        ],
+        "fromFrame": 30,
+        "toFrame": 75
+      }
+    }
+  ],
+  "visual_review_frames": 81,
+  "scope": "Agent encoded-frame and camera-path review; native playback recorded separately. No claim of full human listening/viewing, user aesthetic acceptance or publication.",
+  "checked_at": "2026-10-28T07:47:40.740634+08:00",
+  "agent_visual_review": {
+    "all_35_midpoints": "reviewed at phone scale",
+    "all_22_real_scene_establishing_views_and_evidence_switches": "complete original windows reviewed",
+    "camera_first_middle_landing_and_harness_join": "reviewed; same screenshot across join; red frames follow source",
+    "daily_credit_camera": "corrected affine translation; target remains visible throughout; private account area covered",
+    "later_real_pages": "plugins/accounts/prompts/profiles/results retain complete source windows",
+    "fixed_media_frame": "1024x1080 at (28,510), 16px inset; uniform XY scale; no outer-frame motion",
+    "frames": 81
+  },
+  "native_playback": {
+    "app": "QuickTime Player",
+    "candidate_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v02/video_candidate.mp4",
+    "open_correct_path": true,
+    "duration_display": "02:56",
+    "playback_progress_verified_seconds": [
+      [
+        0,
+        25.86
+      ],
+      [
+        110.02,
+        121.99
+      ]
+    ],
+    "workbuddy_segment_seek_and_play": 39,
+    "ended_paused_at_seconds": 0,
+    "human_full_listening_viewing": false,
+    "formal_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+    "formal_path_open_verified": true,
+    "formal_path_playback_progress_seconds": [
+      6.95,
+      26.64
+    ],
+    "formal_path_ended_paused_at_seconds": 0
+  },
+  "previous_formal_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v01-20261028-074741/video.mp4",
+  "delivered_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4"
+}

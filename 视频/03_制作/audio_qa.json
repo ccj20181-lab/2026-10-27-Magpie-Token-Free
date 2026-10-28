@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "source_script": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v04.txt",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "scenes": 35,
+  "reused_original_voice_clips_hash_verified": 33,
+  "changed_voice_scene": "scene_28",
+  "targeted_asr_source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/revision-v03/scene_28_asr.json",
+  "encoded_asr": [
+    {
+      "clip": "scene_28",
+      "asr": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy海外版，Codex账号。"
+    },
+    {
+      "clip": "ending",
+      "asr": "DPC Harness，有Web和Desktop两套Profile。一定让Agent改对Desktop,重启以后看模型列表,再拿一个真实任务跑通,就算搞定。"
+    }
+  ],
+  "integrated_loudness_lufs": -19.5,
+  "true_peak_dbfs": -1.8,
+  "human_full_listening": false,
+  "existing_voice_sources_hash_verified": 34,
+  "restored_outro_source_intervals_seconds": [
+    [
+      0,
+      0.74
+    ],
+    [
+      4,
+      4.98
+    ]
+  ],
+  "restored_outro_encoded_asr": "我是财叔，我们下期见。"
+}

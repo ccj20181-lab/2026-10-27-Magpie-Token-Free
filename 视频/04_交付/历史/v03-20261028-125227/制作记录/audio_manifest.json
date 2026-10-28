@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "scenes": {
+    "scene_01": {
+      "text": "兄弟们，这次真的 Token 自由了！",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_01.mp3",
+      "provider": "minimax",
+      "duration_ms": 2217,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_02": {
+      "text": "最近我用上了一个真神器，叫 Magpie，越用越上头。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_02.mp3",
+      "provider": "minimax",
+      "duration_ms": 3657,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_03": {
+      "text": "它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_03.mp3",
+      "provider": "minimax",
+      "duration_ms": 5247,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_04": {
+      "text": "现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_04.mp3",
+      "provider": "minimax",
+      "duration_ms": 7058,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_05": {
+      "text": "而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_05.mp3",
+      "provider": "minimax",
+      "duration_ms": 5317,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_06": {
+      "text": "那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_06.mp3",
+      "provider": "minimax",
+      "duration_ms": 4075,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_07": {
+      "text": "Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_07.mp3",
+      "provider": "minimax",
+      "duration_ms": 3471,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_08": {
+      "text": "它干的事儿其实特别好懂，我给你举个最简单的例子。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_08.mp3",
+      "provider": "minimax",
+      "duration_ms": 3205,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_09": {
+      "text": "比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_09.mp3",
+      "provider": "minimax",
+      "duration_ms": 5955,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_10": {
+      "text": "WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_10.mp3",
+      "provider": "minimax",
+      "duration_ms": 4864,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_11": {
+      "text": "Magpie 做的事，就是在中间加一个总控台。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_11.mp3",
+      "provider": "minimax",
+      "duration_ms": 3123,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_12": {
+      "text": "左边接你的模型和订阅，右边接你真正想用的 Agent。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_12.mp3",
+      "provider": "minimax",
+      "duration_ms": 3808,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_13": {
+      "text": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_13.mp3",
+      "provider": "minimax",
+      "duration_ms": 5015,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_14": {
+      "text": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_14.mp3",
+      "provider": "minimax",
+      "duration_ms": 6524,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_15": {
+      "text": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_15.mp3",
+      "provider": "minimax",
+      "duration_ms": 4864,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_16": {
+      "text": "所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_16.mp3",
+      "provider": "minimax",
+      "duration_ms": 4713,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_17": {
+      "text": "这就是它最核心的一件事。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_17.mp3",
+      "provider": "minimax",
+      "duration_ms": 1695,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_18": {
+      "text": "这件事以前也有工具干过，但说实话，体验都不算特别好。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_18.mp3",
+      "provider": "minimax",
+      "duration_ms": 4075,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_19": {
+      "text": "像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_19.mp3",
+      "provider": "minimax",
+      "duration_ms": 5700,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_20": {
+      "text": "Magpie 就完全不一样，它把这件事干得极其丝滑。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_20.mp3",
+      "provider": "minimax",
+      "duration_ms": 3390,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_21": {
+      "text": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_21.mp3",
+      "provider": "minimax",
+      "duration_ms": 5584,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_22": {
+      "text": "而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_22.mp3",
+      "provider": "minimax",
+      "duration_ms": 7616,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_23": {
+      "text": "最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_23.mp3",
+      "provider": "minimax",
+      "duration_ms": 5015,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_24": {
+      "text": "现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_24.mp3",
+      "provider": "minimax",
+      "duration_ms": 8068,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_25": {
+      "text": "问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_25.mp3",
+      "provider": "minimax",
+      "duration_ms": 6409,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_26": {
+      "text": "我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_26.mp3",
+      "provider": "minimax",
+      "duration_ms": 5398,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_27": {
+      "text": "而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_27.mp3",
+      "provider": "minimax",
+      "duration_ms": 7430,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_28": {
+      "text": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy 海外版、Codex 账号。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/revision-v03/work/audio/scene_28.mp3",
+      "provider": "minimax",
+      "duration_ms": 7813,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_29": {
+      "text": "每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_29.mp3",
+      "provider": "minimax",
+      "duration_ms": 4980,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_30": {
+      "text": "安装也不用自己一条条敲命令，直接让 Agent 帮你装。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_30.mp3",
+      "provider": "minimax",
+      "duration_ms": 3390,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_31": {
+      "text": "把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_31.mp3",
+      "provider": "minimax",
+      "duration_ms": 6490,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_32": {
+      "text": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_32.mp3",
+      "provider": "minimax",
+      "duration_ms": 4446,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_33": {
+      "text": "唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_33.mp3",
+      "provider": "minimax",
+      "duration_ms": 4109,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    },
+    "scene_34": {
+      "text": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/audio/scene_34.mp3",
+      "provider": "minimax",
+      "duration_ms": 5805,
+      "model": "speech-2.8-turbo",
+      "voice": "financevideo_v1_20260215",
+      "speed": 1.13
+    }
+  },
+  "revision": "v03"
+}

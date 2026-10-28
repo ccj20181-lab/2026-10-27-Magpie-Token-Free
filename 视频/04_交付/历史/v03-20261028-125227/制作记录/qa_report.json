@@ -1,0 +1,198 @@
+{
+  "status": "pass",
+  "revision": "v03",
+  "video_sha256": "1a681aebe7354e4f930db492fabd4b10df1297c3800d294eb9e55ac89f4b27e0",
+  "width": 1080,
+  "height": 1920,
+  "frames": 5132,
+  "fps": 30,
+  "duration_seconds": 171.06666666666666,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode": "pass",
+  "integrated_loudness_lufs": -19.5,
+  "true_peak_dbfs": -1.9,
+  "top_badge_red_pixels_all_frames": 0,
+  "old_badge_detection_control": 124,
+  "new_script_matches_all_captions": true,
+  "removed_scene": "scene_35",
+  "changed_voice_scene": "scene_28",
+  "unchanged_voice_scenes_hash_verified": 33,
+  "real_scenes": 22,
+  "motion_scenes": 12,
+  "visual_comparisons_excluding_changed_header_and_account_sequence": [
+    {
+      "scene": "scene_01",
+      "media_roi_mean_pixel_error": 0.3332656486896253
+    },
+    {
+      "scene": "scene_02",
+      "media_roi_mean_pixel_error": 0.09576835607537361
+    },
+    {
+      "scene": "scene_03",
+      "media_roi_mean_pixel_error": 0.006941737058696123
+    },
+    {
+      "scene": "scene_04",
+      "media_roi_mean_pixel_error": 0.44997021875676846
+    },
+    {
+      "scene": "scene_05",
+      "media_roi_mean_pixel_error": 0.014698397227636993
+    },
+    {
+      "scene": "scene_06",
+      "media_roi_mean_pixel_error": 0.2276045050898852
+    },
+    {
+      "scene": "scene_07",
+      "media_roi_mean_pixel_error": 0.028446502057613166
+    },
+    {
+      "scene": "scene_08",
+      "media_roi_mean_pixel_error": 0.033303552090101794
+    },
+    {
+      "scene": "scene_09",
+      "media_roi_mean_pixel_error": 0.0
+    },
+    {
+      "scene": "scene_10",
+      "media_roi_mean_pixel_error": 0.5591049382716049
+    },
+    {
+      "scene": "scene_11",
+      "media_roi_mean_pixel_error": 0.179540285899935
+    },
+    {
+      "scene": "scene_12",
+      "media_roi_mean_pixel_error": 0.2166450075806801
+    },
+    {
+      "scene": "scene_13",
+      "media_roi_mean_pixel_error": 0.09253573749187784
+    },
+    {
+      "scene": "scene_14",
+      "media_roi_mean_pixel_error": 0.07404970760233918
+    },
+    {
+      "scene": "scene_15",
+      "media_roi_mean_pixel_error": 0.024970218756768466
+    },
+    {
+      "scene": "scene_16",
+      "media_roi_mean_pixel_error": 0.012340264240849037
+    },
+    {
+      "scene": "scene_17",
+      "media_roi_mean_pixel_error": 0.11686972059779077
+    },
+    {
+      "scene": "scene_18",
+      "media_roi_mean_pixel_error": 0.013504440112627247
+    },
+    {
+      "scene": "scene_19",
+      "media_roi_mean_pixel_error": 0.0051629846220489495
+    },
+    {
+      "scene": "scene_20",
+      "media_roi_mean_pixel_error": 0.004025882607753953
+    },
+    {
+      "scene": "scene_21",
+      "media_roi_mean_pixel_error": 0.0038417803768680957
+    },
+    {
+      "scene": "scene_22",
+      "media_roi_mean_pixel_error": 0.002033246696989387
+    },
+    {
+      "scene": "scene_23",
+      "media_roi_mean_pixel_error": 0.2101120857699805
+    },
+    {
+      "scene": "scene_24",
+      "media_roi_mean_pixel_error": 0.04959118475200347
+    },
+    {
+      "scene": "scene_25",
+      "media_roi_mean_pixel_error": 0.020316222655403945
+    },
+    {
+      "scene": "scene_26",
+      "media_roi_mean_pixel_error": 0.5210851202079273
+    },
+    {
+      "scene": "scene_27",
+      "media_roi_mean_pixel_error": 0.07492690058479533
+    },
+    {
+      "scene": "scene_29",
+      "media_roi_mean_pixel_error": 0.10550140784058913
+    },
+    {
+      "scene": "scene_30",
+      "media_roi_mean_pixel_error": 0.06293859649122807
+    },
+    {
+      "scene": "scene_31",
+      "media_roi_mean_pixel_error": 0.0
+    },
+    {
+      "scene": "scene_32",
+      "media_roi_mean_pixel_error": 0.0
+    },
+    {
+      "scene": "scene_33",
+      "media_roi_mean_pixel_error": 0.0
+    },
+    {
+      "scene": "scene_34",
+      "media_roi_mean_pixel_error": 0.007975958414554906
+    }
+  ],
+  "phone_review_frames": 41,
+  "bgm_same_source_and_configuration": true,
+  "scope": "Targeted source/encoded ASR, full decode, all-frame badge check, per-scene media comparison, phone-scale visual samples and native playback; no human full listening/viewing, aesthetic approval or publication claim.",
+  "encoded_targeted_asr": [
+    {
+      "clip": "scene_28",
+      "asr": "最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy海外版，Codex账号。"
+    },
+    {
+      "clip": "ending",
+      "asr": "DPC Harness，有Web和Desktop两套Profile。一定让Agent改对Desktop,重启以后看模型列表,再拿一个真实任务跑通,就算搞定。"
+    }
+  ],
+  "agent_visual_review": {
+    "changed_caption_at_2m20": "WorkBuddy、WorkBuddy海外版; readable at360px",
+    "top_marker": "absent in all5132 encoded frames and reviewed samples",
+    "ending": "last frame and encoded ASR end at就算搞定; entire scene35 absent",
+    "previous_whole_window_camera_work": "preserved; 33 unchanged media ROI comparisons passed",
+    "human_full_listening_viewing": false
+  },
+  "native_playback": {
+    "app": "QuickTime Player",
+    "candidate_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v03/video_candidate.mp4",
+    "correct_path_opened": true,
+    "duration_display": "02:51",
+    "playback_progress_seconds": [
+      133.28,
+      170.72
+    ],
+    "ended_paused_at_seconds": 0,
+    "formal_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+    "formal_path_opened": true,
+    "formal_playback_progress_seconds": [
+      136.27,
+      171.09
+    ],
+    "formal_end_paused_at_seconds": 0
+  },
+  "checked_at": "2026-10-28T12:42:10.572774+08:00",
+  "previous_formal_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v02-20261028-124210/video.mp4",
+  "delivered_video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4"
+}

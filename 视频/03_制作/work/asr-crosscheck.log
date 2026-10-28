@@ -1,0 +1,13 @@
+/Users/henry/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+/Users/henry/Library/Python/3.9/lib/python/site-packages/faster_whisper/feature_extractor.py:224: RuntimeWarning: divide by zero encountered in matmul
+  mel_spec = self.mel_filters @ magnitudes
+/Users/henry/Library/Python/3.9/lib/python/site-packages/faster_whisper/feature_extractor.py:224: RuntimeWarning: overflow encountered in matmul
+  mel_spec = self.mel_filters @ magnitudes
+/Users/henry/Library/Python/3.9/lib/python/site-packages/faster_whisper/feature_extractor.py:224: RuntimeWarning: invalid value encountered in matmul
+  mel_spec = self.mel_filters @ magnitudes
+scene_03 他直接把WorkBuddy，Coder，这些大厂的免费模型接近了我常用的DeepSeek桌面端。
+scene_24 现在WorkBuddy，海外版，Coder，都有免费的DeepSeek，V4.1 Flash 活动到10月底。WorkBuddy，国内版每天迁到还送100g分。
+scene_28 最最关键的是,Magpie还支持你同时接多个账号。我现在就同时挂了多个WorkBuddy，WorkBuddy，AI，Codex 账号。
+scene_31 把我准备好的提示词丢给WorkBuddy，或DeepSeek Harness，让他自己安装Magpie，接账号，检查模型。
+scene_33 唯一特别注意一点，DeepSeek Harness，有Web，和Desktop，两套Profile。

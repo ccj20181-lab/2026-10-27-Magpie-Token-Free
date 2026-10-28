@@ -1,0 +1,8 @@
+{
+  "identical": true,
+  "video_streams": {
+    "video_candidate.mp4": "0,v,SHA256=884bed0360eedb8671346d39da3e30086e78da28309d5a0ccd87dea844e490d4",
+    "video_delivery.mp4": "0,v,SHA256=884bed0360eedb8671346d39da3e30086e78da28309d5a0ccd87dea844e490d4"
+  },
+  "operation": "Final audio uniformly increased by 5 dB; H.264 picture packets copied unchanged."
+}

@@ -1,0 +1,1441 @@
+{
+  "data": {
+    "meta": {
+      "brandProfile": "caishu_ai_lab",
+      "seriesTitle": "每天一条AI干货",
+      "showEpisodeMarker": true,
+      "motionStyle": "caishu-editorial-v1",
+      "cornerLogoPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/brand/caishu_ai_lab_primary_logo.png",
+      "cornerLogoWidth": 236,
+      "cornerLogoHeight": 88,
+      "cornerLogoPaddingX": 12,
+      "cornerLogoPaddingY": 8,
+      "cornerLogoBorderRadius": 18,
+      "cornerLogoBackground": "rgba(255,255,255,0.96)",
+      "bgm": {
+        "path": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/music/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+        "volume": 0.12,
+        "durationSeconds": 150.508,
+        "sourcePath": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/共享素材/音频/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+        "sha256": "fefedeea496d10ad389a8aab0ea6f741f11cd27f7002a21b46fe5378221a0e86",
+        "fadeInSeconds": 0.8,
+        "fadeOutSeconds": 1.6
+      },
+      "workflowVersion": 2,
+      "episode": "4",
+      "demoTitle": "真神器！有了 Magpie，我真的 Token 自由了！",
+      "fps": 30,
+      "width": 1080,
+      "height": 1920
+    },
+    "scenes": [
+      {
+        "id": "scene_01",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "制造结果感",
+        "caption": "兄弟们，这次真的 Token 自由了！",
+        "durationFrames": 67,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_01.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "兄弟们",
+            "startFrame": 0,
+            "endFrame": 22
+          },
+          {
+            "text": "这次真的 Token 自由了",
+            "startFrame": 22,
+            "endFrame": 67
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_hook",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_02",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "交代本期神器与实际结果",
+        "caption": "最近我用上了一个真神器，叫 Magpie，越用越上头。",
+        "durationFrames": 110,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_02.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_02.png",
+        "captionSegments": [
+          {
+            "text": "最近我用上了一个真神器",
+            "startFrame": 0,
+            "endFrame": 45
+          },
+          {
+            "text": "叫 Magpie，越用越上头",
+            "startFrame": 45,
+            "endFrame": 110
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          410,
+          40,
+          1900,
+          920
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_03",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "用真实模型列表证明结果",
+        "caption": "它直接把 WorkBuddy、Qoder 这些大厂的免费模型，接进了我常用的 DeepSeek 桌面端。",
+        "durationFrames": 158,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_03.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_03.png",
+        "captionSegments": [
+          {
+            "text": "它直接把 WorkBuddy、Qoder",
+            "startFrame": 0,
+            "endFrame": 52
+          },
+          {
+            "text": "这些大厂的免费模型",
+            "startFrame": 52,
+            "endFrame": 90
+          },
+          {
+            "text": "接进了我常用的 DeepSeek 桌面端",
+            "startFrame": 90,
+            "endFrame": 158
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          0,
+          0,
+          2560,
+          1640
+        ],
+        "mediaSurface": "desktop",
+        "sourceHighlights": [
+          {
+            "rect": [
+              1300,
+              170,
+              630,
+              810
+            ],
+            "color": "#D93232",
+            "strokeWidth": 5
+          }
+        ]
+      },
+      {
+        "id": "scene_04",
+        "kind": "video",
+        "visualType": "real_recording",
+        "layout": "recording",
+        "headline": "用真实模型列表证明结果",
+        "caption": "现在我打开模型列表，DeepSeek、Step、GPT、Grok、Gemini，全都在里面，想用哪个就用哪个。",
+        "durationFrames": 212,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_04.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_04.mp4",
+        "captionSegments": [
+          {
+            "text": "现在我打开模型列表",
+            "startFrame": 0,
+            "endFrame": 45
+          },
+          {
+            "text": "DeepSeek、Step、GPT",
+            "startFrame": 45,
+            "endFrame": 106
+          },
+          {
+            "text": "Grok、Gemini，全都在里面",
+            "startFrame": 106,
+            "endFrame": 167
+          },
+          {
+            "text": "想用哪个就用哪个",
+            "startFrame": 167,
+            "endFrame": 212
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          1260,
+          600,
+          1050,
+          1030
+        ],
+        "mediaSurface": "desktop",
+        "mediaStartFrame": 234
+      },
+      {
+        "id": "scene_05",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "用真实模型列表证明结果",
+        "caption": "而且不止 DeepSeek Harness，我日常主力用的 Codex，也被我接进了一大堆其他模型。",
+        "durationFrames": 160,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_05.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_05.png",
+        "captionSegments": [
+          {
+            "text": "而且不止 DeepSeek Harness",
+            "startFrame": 0,
+            "endFrame": 51
+          },
+          {
+            "text": "我日常主力用的 Codex",
+            "startFrame": 51,
+            "endFrame": 91
+          },
+          {
+            "text": "也被我接进了一大堆其他模型",
+            "startFrame": 91,
+            "endFrame": 160
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          450,
+          100,
+          1850,
+          1050
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_06",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "一句话解释产品",
+        "caption": "那 Magpie 到底是个啥？你把它理解成一个模型总控台就行。",
+        "durationFrames": 123,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_06.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "那 Magpie 到底是个啥",
+            "startFrame": 0,
+            "endFrame": 46
+          },
+          {
+            "text": "你把它理解成一个模型总控台就行",
+            "startFrame": 46,
+            "endFrame": 123
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_hub",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_07",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "简短交代项目作者",
+        "caption": "Magpie 是 GitHub 上一个叫 yetone 的大神做的开源项目。",
+        "durationFrames": 105,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_07.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_07.png",
+        "captionSegments": [
+          {
+            "text": "Magpie 是 GitHub 上",
+            "startFrame": 0,
+            "endFrame": 36
+          },
+          {
+            "text": "一个叫 yetone 的大神做的开源项目",
+            "startFrame": 36,
+            "endFrame": 105
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 650,
+        "sourceHeight": 900,
+        "sourceRect": [
+          0,
+          65,
+          650,
+          550
+        ],
+        "mediaSurface": "desktop",
+        "sourceHighlights": [
+          {
+            "rect": [
+              15,
+              80,
+              245,
+              40
+            ],
+            "color": "#D93232",
+            "strokeWidth": 5
+          }
+        ]
+      },
+      {
+        "id": "scene_08",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "自然过渡到原理解释",
+        "caption": "它干的事儿其实特别好懂，我给你举个最简单的例子。",
+        "durationFrames": 97,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_08.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_08.png",
+        "captionSegments": [
+          {
+            "text": "它干的事儿其实特别好懂",
+            "startFrame": 0,
+            "endFrame": 54
+          },
+          {
+            "text": "我给你举个最简单的例子",
+            "startFrame": 54,
+            "endFrame": 97
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 900,
+        "sourceHeight": 1700,
+        "sourceRect": [
+          40,
+          0,
+          820,
+          990
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_09",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "用 Codex 举例说明订阅模型的原始边界",
+        "caption": "比如你在 Codex 里登了一个账号，这个账号能用的一批模型，正常就只能在 Codex 里面用。",
+        "durationFrames": 179,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_09.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "比如你在 Codex 里登了一个账号",
+            "startFrame": 0,
+            "endFrame": 68
+          },
+          {
+            "text": "这个账号能用的一批模型",
+            "startFrame": 68,
+            "endFrame": 117
+          },
+          {
+            "text": "正常就只能在 Codex 里面用",
+            "startFrame": 117,
+            "endFrame": 179
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_silo",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_10",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "补充 WorkBuddy 例子并承接 Magpie 总控台",
+        "caption": "WorkBuddy 也一样，它有它自己的模型和额度，平时你就得回 WorkBuddy 里面用。",
+        "durationFrames": 146,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_10.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_10.png",
+        "captionSegments": [
+          {
+            "text": "WorkBuddy 也一样",
+            "startFrame": 0,
+            "endFrame": 31
+          },
+          {
+            "text": "它有它自己的模型和额度",
+            "startFrame": 31,
+            "endFrame": 88
+          },
+          {
+            "text": "平时你就得回 WorkBuddy 里面用",
+            "startFrame": 88,
+            "endFrame": 146
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2254,
+        "sourceHeight": 1710,
+        "sourceRect": [
+          1030,
+          760,
+          730,
+          860
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_11",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "解释 Magpie 的工作方式",
+        "caption": "Magpie 做的事，就是在中间加一个总控台。",
+        "durationFrames": 94,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_11.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "Magpie 做的事",
+            "startFrame": 0,
+            "endFrame": 40
+          },
+          {
+            "text": "就是在中间加一个总控台",
+            "startFrame": 40,
+            "endFrame": 94
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_insert",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_12",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "解释 Magpie 的工作方式",
+        "caption": "左边接你的模型和订阅，右边接你真正想用的 Agent。",
+        "durationFrames": 115,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_12.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "左边接你的模型和订阅",
+            "startFrame": 0,
+            "endFrame": 51
+          },
+          {
+            "text": "右边接你真正想用的 Agent",
+            "startFrame": 51,
+            "endFrame": 115
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_wiring",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_13",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "解释 Magpie 的工作方式",
+        "caption": "它先把不同账号里的可用模型认出来，再统一通过 Magpie 提供给其他 Agent。",
+        "durationFrames": 151,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_13.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "它先把不同账号里的可用模型认出来",
+            "startFrame": 0,
+            "endFrame": 78
+          },
+          {
+            "text": "再统一通过 Magpie",
+            "startFrame": 78,
+            "endFrame": 108
+          },
+          {
+            "text": "提供给其他 Agent",
+            "startFrame": 108,
+            "endFrame": 151
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_discovery",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_14",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "用具体调用流程让观众秒懂",
+        "caption": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+        "durationFrames": 196,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_14.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "比如你在 DeepSeek Harness 里",
+            "startFrame": 0,
+            "endFrame": 56
+          },
+          {
+            "text": "选 WorkBuddy 的 DeepSeek",
+            "startFrame": 56,
+            "endFrame": 99
+          },
+          {
+            "text": "任务先到 Magpie",
+            "startFrame": 99,
+            "endFrame": 137
+          },
+          {
+            "text": "再转给 WorkBuddy 里的 DeepSeek 去跑",
+            "startFrame": 137,
+            "endFrame": 196
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_packet",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_15",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "落下核心价值",
+        "caption": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+        "durationFrames": 146,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_15.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "结果回来以后",
+            "startFrame": 0,
+            "endFrame": 29
+          },
+          {
+            "text": "再原路送回 DeepSeek Harness",
+            "startFrame": 29,
+            "endFrame": 84
+          },
+          {
+            "text": "整个过程你几乎感觉不到",
+            "startFrame": 84,
+            "endFrame": 146
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_packet",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_16",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "落下核心价值",
+        "caption": "所以以前只能待在一个 Agent 里的订阅模型，现在可以拿去给别的 Agent 用。",
+        "durationFrames": 142,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_16.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "所以以前只能待在一个 Agent 里的订阅模型",
+            "startFrame": 0,
+            "endFrame": 80
+          },
+          {
+            "text": "现在可以拿去给别的 Agent 用",
+            "startFrame": 80,
+            "endFrame": 142
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_passport",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_17",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "收束核心判断",
+        "caption": "这就是它最核心的一件事。",
+        "durationFrames": 51,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_17.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "这就是它最核心的一件事",
+            "startFrame": 0,
+            "endFrame": 51
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_core",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_18",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "对比旧工具体验",
+        "caption": "这件事以前也有工具干过，但说实话，体验都不算特别好。",
+        "durationFrames": 123,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_18.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "这件事以前也有工具干过",
+            "startFrame": 0,
+            "endFrame": 58
+          },
+          {
+            "text": "但说实话，体验都不算特别好",
+            "startFrame": 58,
+            "endFrame": 123
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_compare",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_19",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "对比旧工具体验",
+        "caption": "像 CC Switch 我也折腾过，Bug 挺多，还要手动填不少东西，用起来其实挺麻烦。",
+        "durationFrames": 171,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_19.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_19.png",
+        "captionSegments": [
+          {
+            "text": "像 CC Switch 我也折腾过",
+            "startFrame": 0,
+            "endFrame": 64
+          },
+          {
+            "text": "Bug 挺多，还要手动填不少东西",
+            "startFrame": 64,
+            "endFrame": 129
+          },
+          {
+            "text": "用起来其实挺麻烦",
+            "startFrame": 129,
+            "endFrame": 171
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 1300,
+        "sourceHeight": 1800,
+        "sourceRect": [
+          0,
+          130,
+          1300,
+          1200
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_20",
+        "kind": "video",
+        "visualType": "real_recording",
+        "layout": "recording",
+        "headline": "表达真实使用感受",
+        "caption": "Magpie 就完全不一样，它把这件事干得极其丝滑。",
+        "durationFrames": 102,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_20.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_20.mp4",
+        "captionSegments": [
+          {
+            "text": "Magpie 就完全不一样",
+            "startFrame": 0,
+            "endFrame": 42
+          },
+          {
+            "text": "它把这件事干得极其丝滑",
+            "startFrame": 42,
+            "endFrame": 102
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          410,
+          40,
+          1900,
+          920
+        ],
+        "mediaSurface": "desktop",
+        "mediaStartFrame": 324
+      },
+      {
+        "id": "scene_21",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "展示功能成熟度",
+        "caption": "模型、账号、订阅、Agent，基本都在一个地方管，很多操作点几下就完事。",
+        "durationFrames": 168,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_21.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_21.png",
+        "captionSegments": [
+          {
+            "text": "模型、账号、订阅、Agent",
+            "startFrame": 0,
+            "endFrame": 69
+          },
+          {
+            "text": "基本都在一个地方管",
+            "startFrame": 69,
+            "endFrame": 117
+          },
+          {
+            "text": "很多操作点几下就完事",
+            "startFrame": 117,
+            "endFrame": 168
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          440,
+          110,
+          1870,
+          1380
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_22",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "展示功能成熟度",
+        "caption": "而且功能非常完善，路由、模型分组、自动切换、额度、用量统计都有，我现在其实只用了一小部分。",
+        "durationFrames": 229,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_22.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_22.png",
+        "captionSegments": [
+          {
+            "text": "而且功能非常完善",
+            "startFrame": 0,
+            "endFrame": 39
+          },
+          {
+            "text": "路由、模型分组、自动切换",
+            "startFrame": 39,
+            "endFrame": 126
+          },
+          {
+            "text": "额度、用量统计都有",
+            "startFrame": 126,
+            "endFrame": 173
+          },
+          {
+            "text": "我现在其实只用了一小部分",
+            "startFrame": 173,
+            "endFrame": 229
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          440,
+          120,
+          1870,
+          1000
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_23",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "口语化引出免费 Token 用法",
+        "caption": "最爽的用法是，Magpie 还能帮你薅免费 Token，它真是个薅免费 Token 的神器。",
+        "durationFrames": 151,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_23.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "最爽的用法是",
+            "startFrame": 0,
+            "endFrame": 36
+          },
+          {
+            "text": "Magpie 还能帮你薅免费 Token",
+            "startFrame": 36,
+            "endFrame": 90
+          },
+          {
+            "text": "它真是个薅免费 Token 的神器",
+            "startFrame": 90,
+            "endFrame": 151
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_free",
+          "renderer": "custom",
+          "params": {}
+        }
+      },
+      {
+        "id": "scene_24",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "交代当前免费模型与国内版积分",
+        "caption": "现在 WorkBuddy 海外版、Qoder 都有免费的 DeepSeek V4.1 Flash，活动到十月底；WorkBuddy 国内版每天签到还送一百积分。",
+        "durationFrames": 243,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_24.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_24.png",
+        "captionSegments": [
+          {
+            "text": "现在 WorkBuddy 海外版、Qoder",
+            "startFrame": 0,
+            "endFrame": 55
+          },
+          {
+            "text": "都有免费的 DeepSeek V4.1 Flash",
+            "startFrame": 55,
+            "endFrame": 122
+          },
+          {
+            "text": "活动到十月底",
+            "startFrame": 122,
+            "endFrame": 156
+          },
+          {
+            "text": "WorkBuddy 国内版",
+            "startFrame": 156,
+            "endFrame": 184
+          },
+          {
+            "text": "每天签到还送一百积分",
+            "startFrame": 184,
+            "endFrame": 243
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 1300,
+        "sourceHeight": 1800,
+        "sourceRect": [
+          75,
+          320,
+          1120,
+          900
+        ],
+        "mediaSurface": "desktop",
+        "sourceHighlights": [
+          {
+            "rect": [
+              90,
+              990,
+              1100,
+              155
+            ],
+            "color": "#D93232",
+            "strokeWidth": 5
+          }
+        ],
+        "evidenceSequence": [
+          {
+            "fromFrame": 0,
+            "assetPath": "ai-coach-daily-demo/magpie-04-evidence/scene_24-0.png",
+            "sourceWidth": 1300,
+            "sourceHeight": 1800,
+            "sourceRect": [
+              75,
+              320,
+              1120,
+              900
+            ],
+            "sourceHighlights": [
+              {
+                "rect": [
+                  90,
+                  990,
+                  1100,
+                  155
+                ],
+                "color": "#D93232",
+                "strokeWidth": 5
+              }
+            ]
+          },
+          {
+            "fromFrame": 156,
+            "assetPath": "ai-coach-daily-demo/magpie-04-evidence/scene_24-1.png",
+            "sourceWidth": 2254,
+            "sourceHeight": 1710,
+            "sourceRect": [
+              15,
+              1350,
+              500,
+              245
+            ]
+          }
+        ]
+      },
+      {
+        "id": "scene_25",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "从免费额度自然转到统一使用需求",
+        "caption": "问题是，这些免费的 DeepSeek 都散在 WorkBuddy、Qoder 这些客户端里，我又不想来回切客户端用。",
+        "durationFrames": 193,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_25.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_25.png",
+        "captionSegments": [
+          {
+            "text": "问题是，这些免费的 DeepSeek",
+            "startFrame": 0,
+            "endFrame": 53
+          },
+          {
+            "text": "都散在 WorkBuddy、Qoder 这些客户端里",
+            "startFrame": 53,
+            "endFrame": 136
+          },
+          {
+            "text": "我又不想来回切客户端用",
+            "startFrame": 136,
+            "endFrame": 193
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          440,
+          120,
+          1870,
+          850
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_26",
+        "kind": "video",
+        "visualType": "real_recording",
+        "layout": "recording",
+        "headline": "自然引出 Magpie 把免费模型接入 DeepSeek Harness",
+        "caption": "我就想把它们统一接进 DeepSeek Harness，可不可以？可以，Magpie 就能直接帮我接过去。",
+        "durationFrames": 162,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_26.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_26.mp4",
+        "captionSegments": [
+          {
+            "text": "我就想把它们统一接进",
+            "startFrame": 0,
+            "endFrame": 40
+          },
+          {
+            "text": "DeepSeek Harness",
+            "startFrame": 40,
+            "endFrame": 71
+          },
+          {
+            "text": "可不可以？可以",
+            "startFrame": 71,
+            "endFrame": 105
+          },
+          {
+            "text": "Magpie 就能直接帮我接过去",
+            "startFrame": 105,
+            "endFrame": 162
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          1260,
+          600,
+          1050,
+          1030
+        ],
+        "mediaSurface": "desktop",
+        "mediaStartFrame": 3
+      },
+      {
+        "id": "scene_27",
+        "kind": "video",
+        "visualType": "real_recording",
+        "layout": "recording",
+        "headline": "表达 DeepSeek 在官方 Harness 中的实际体验",
+        "caption": "而且 DeepSeek 配官方 DeepSeek Harness，真的很爽，响应快，工具调用顺，基本就是原生的感觉。",
+        "durationFrames": 223,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_27.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_27.mp4",
+        "captionSegments": [
+          {
+            "text": "而且 DeepSeek 配官方 DeepSeek Harness",
+            "startFrame": 0,
+            "endFrame": 88
+          },
+          {
+            "text": "真的很爽，响应快",
+            "startFrame": 88,
+            "endFrame": 145
+          },
+          {
+            "text": "工具调用顺",
+            "startFrame": 145,
+            "endFrame": 178
+          },
+          {
+            "text": "基本就是原生的感觉",
+            "startFrame": 178,
+            "endFrame": 223
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          490,
+          500,
+          1550,
+          1090
+        ],
+        "mediaSurface": "desktop",
+        "mediaStartFrame": 0
+      },
+      {
+        "id": "scene_28",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "突出多账号能力与本机实际状态",
+        "caption": "最最关键的是，Magpie 还支持你同时接多个账号，我现在就同时挂了多个 WorkBuddy、WorkBuddy AI、Codex 账号。",
+        "durationFrames": 245,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_28.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_28.png",
+        "captionSegments": [
+          {
+            "text": "最最关键的是",
+            "startFrame": 0,
+            "endFrame": 37
+          },
+          {
+            "text": "Magpie 还支持你同时接多个账号",
+            "startFrame": 37,
+            "endFrame": 101
+          },
+          {
+            "text": "我现在就同时挂了多个",
+            "startFrame": 101,
+            "endFrame": 147
+          },
+          {
+            "text": "WorkBuddy、WorkBuddy AI、Codex 账号",
+            "startFrame": 147,
+            "endFrame": 245
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          540,
+          120,
+          1250,
+          1160
+        ],
+        "mediaSurface": "desktop",
+        "evidenceSequence": [
+          {
+            "fromFrame": 0,
+            "assetPath": "ai-coach-daily-demo/magpie-04-evidence/scene_28-0.png",
+            "sourceWidth": 2334,
+            "sourceHeight": 1738,
+            "sourceRect": [
+              540,
+              120,
+              1250,
+              1160
+            ]
+          },
+          {
+            "fromFrame": 102,
+            "assetPath": "ai-coach-daily-demo/magpie-04-evidence/scene_28-1.png",
+            "sourceWidth": 2334,
+            "sourceHeight": 1738,
+            "sourceRect": [
+              540,
+              120,
+              1250,
+              1370
+            ]
+          },
+          {
+            "fromFrame": 186,
+            "assetPath": "ai-coach-daily-demo/magpie-04-evidence/scene_28-2.png",
+            "sourceWidth": 2334,
+            "sourceHeight": 1738,
+            "sourceRect": [
+              540,
+              120,
+              1250,
+              1370
+            ]
+          }
+        ]
+      },
+      {
+        "id": "scene_29",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "解释多账号使用体验与价值",
+        "caption": "每个账号登录验证一次就行，后面交给 Magpie 管，相当于可以多倍白嫖。",
+        "durationFrames": 150,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_29.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_29.png",
+        "captionSegments": [
+          {
+            "text": "每个账号登录验证一次就行",
+            "startFrame": 0,
+            "endFrame": 65
+          },
+          {
+            "text": "后面交给 Magpie 管",
+            "startFrame": 65,
+            "endFrame": 105
+          },
+          {
+            "text": "相当于可以多倍白嫖",
+            "startFrame": 105,
+            "endFrame": 150
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          540,
+          120,
+          1250,
+          1370
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_30",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "给普通用户最省事的安装路径",
+        "caption": "安装也不用自己一条条敲命令，直接让 Agent 帮你装。",
+        "durationFrames": 102,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_30.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_30.png",
+        "captionSegments": [
+          {
+            "text": "安装也不用自己一条条敲命令",
+            "startFrame": 0,
+            "endFrame": 57
+          },
+          {
+            "text": "直接让 Agent 帮你装",
+            "startFrame": 57,
+            "endFrame": 102
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 900,
+        "sourceHeight": 1700,
+        "sourceRect": [
+          40,
+          280,
+          820,
+          860
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_31",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "给普通用户最省事的安装路径",
+        "caption": "把我准备好的提示词丢给 WorkBuddy 或 DeepSeek Harness，让它自己安装 Magpie、接账号、检查模型。",
+        "durationFrames": 195,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_31.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_31.png",
+        "captionSegments": [
+          {
+            "text": "把我准备好的提示词",
+            "startFrame": 0,
+            "endFrame": 36
+          },
+          {
+            "text": "丢给 WorkBuddy 或 DeepSeek Harness",
+            "startFrame": 36,
+            "endFrame": 101
+          },
+          {
+            "text": "让它自己安装 Magpie",
+            "startFrame": 101,
+            "endFrame": 147
+          },
+          {
+            "text": "接账号、检查模型",
+            "startFrame": 147,
+            "endFrame": 195
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          440,
+          350,
+          1680,
+          1040
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_32",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "给普通用户最省事的安装路径",
+        "caption": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+        "durationFrames": 134,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_32.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_32.png",
+        "captionSegments": [
+          {
+            "text": "中间需要登录授权的时候",
+            "startFrame": 0,
+            "endFrame": 52
+          },
+          {
+            "text": "你自己点一下",
+            "startFrame": 52,
+            "endFrame": 84
+          },
+          {
+            "text": "剩下的继续让 Agent 干",
+            "startFrame": 84,
+            "endFrame": 134
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2334,
+        "sourceHeight": 1738,
+        "sourceRect": [
+          540,
+          120,
+          1250,
+          1370
+        ],
+        "mediaSurface": "desktop"
+      },
+      {
+        "id": "scene_33",
+        "kind": "image",
+        "visualType": "real_screenshot",
+        "layout": "recording",
+        "headline": "指出最容易踩的配置坑",
+        "caption": "唯一特别注意一点，DeepSeek Harness 有 web 和 desktop 两套 Profile。",
+        "durationFrames": 124,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_33.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_33.png",
+        "captionSegments": [
+          {
+            "text": "唯一特别注意一点",
+            "startFrame": 0,
+            "endFrame": 39
+          },
+          {
+            "text": "DeepSeek Harness",
+            "startFrame": 39,
+            "endFrame": 66
+          },
+          {
+            "text": "有 web 和 desktop 两套 Profile",
+            "startFrame": 66,
+            "endFrame": 124
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 1840,
+        "sourceHeight": 872,
+        "sourceRect": [
+          340,
+          0,
+          1120,
+          390
+        ],
+        "mediaSurface": "desktop",
+        "sourceHighlights": [
+          {
+            "rect": [
+              360,
+              166,
+              470,
+              48
+            ],
+            "color": "#D93232",
+            "strokeWidth": 5
+          },
+          {
+            "rect": [
+              360,
+              288,
+              470,
+              48
+            ],
+            "color": "#D93232",
+            "strokeWidth": 5
+          }
+        ]
+      },
+      {
+        "id": "scene_34",
+        "kind": "video",
+        "visualType": "real_recording",
+        "layout": "recording",
+        "headline": "给出成功验收标准",
+        "caption": "一定让 Agent 改对 desktop，重启以后看模型列表，再拿一个真实任务跑通，就算搞定。",
+        "durationFrames": 175,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_34.mp3",
+        "assetPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/visuals/scene_34.mp4",
+        "captionSegments": [
+          {
+            "text": "一定让 Agent 改对 desktop",
+            "startFrame": 0,
+            "endFrame": 51
+          },
+          {
+            "text": "重启以后看模型列表",
+            "startFrame": 51,
+            "endFrame": 107
+          },
+          {
+            "text": "再拿一个真实任务跑通",
+            "startFrame": 107,
+            "endFrame": 147
+          },
+          {
+            "text": "就算搞定",
+            "startFrame": 147,
+            "endFrame": 175
+          }
+        ],
+        "semanticRole": "explain",
+        "sourceWidth": 2560,
+        "sourceHeight": 1640,
+        "sourceRect": [
+          430,
+          90,
+          1690,
+          1480
+        ],
+        "mediaSurface": "desktop",
+        "mediaStartFrame": 600
+      },
+      {
+        "id": "scene_35",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "layout": "illustration",
+        "headline": "收尾并引导关注",
+        "caption": "我是财叔，类似这种真能省 Token 的神器，我继续给大家挖，我们下期见。",
+        "durationFrames": 150,
+        "audioPath": "ai-coach-daily-demo/2026-10-27-magpie-token-director-v2-c4b548d0bc/audio/scene_35.mp3",
+        "assetPath": "",
+        "captionSegments": [
+          {
+            "text": "我是财叔",
+            "startFrame": 0,
+            "endFrame": 24
+          },
+          {
+            "text": "类似这种真能省 Token 的神器",
+            "startFrame": 24,
+            "endFrame": 86
+          },
+          {
+            "text": "我继续给大家挖",
+            "startFrame": 86,
+            "endFrame": 123
+          },
+          {
+            "text": "我们下期见",
+            "startFrame": 123,
+            "endFrame": 150
+          }
+        ],
+        "semanticRole": "explain",
+        "effect": {
+          "id": "magpie_outro",
+          "renderer": "custom",
+          "params": {}
+        }
+      }
+    ]
+  }
+}

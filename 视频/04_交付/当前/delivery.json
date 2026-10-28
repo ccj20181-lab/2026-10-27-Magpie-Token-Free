@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "version": "v04",
+  "episode": 4,
+  "brand": "财叔 AI Lab",
+  "series_title": "每天一条AI干货",
+  "title": "真神器！有了 Magpie，我真的 Token 自由了！",
+  "delivered_at": "2026-10-28T12:52:27.013649+08:00",
+  "source_script": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v04.txt",
+  "source_script_sha256": "3746a2d9adb2f0bcfcf61d22ec22846717f6046d6013cd9d5f5189463ab61080",
+  "video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+  "video_sha256": "564e01aab05717810874be550696c4f624f968e589075974c7cac83fca352adf",
+  "duration_seconds": 172.8,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "cover": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+  "cover_sha256": "4775a68754e8ef4a45b9b5b4df8a8456c65de2c75947630899579ea15f670cf0",
+  "covers": [
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.jpg"
+  ],
+  "subtitles": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/字幕.srt",
+  "qa_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/qa_report.json",
+  "source_snapshot": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v04/source-snapshot",
+  "audio_postprocessing": {
+    "uniform_mix_gain_db": 5,
+    "integrated_loudness_lufs": -19.5,
+    "true_peak_dbfs": -1.8,
+    "existing_voice_sources_unchanged": 34,
+    "restored_outro": "Original scene35 samples retained at0–0.74s and4–4.98s; no TTS regeneration",
+    "bgm": "same source and volume; final fade aligned to restored ending"
+  },
+  "verification_scope": "All prefix frames exact decoded equality; original voice sample equality; targeted encoded ASR and ending visual/native checks. No human full listening/viewing or publication claim.",
+  "published": false,
+  "native_playback_check": "pass: exact formal path, played170.153–172.8s through restored goodbye; paused at0",
+  "archive_receipt": "03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/archive_receipt.json",
+  "archive_entry_id": "caishu-ai-lab:video-script:009",
+  "previous_version": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v03-20261028-125227",
+  "revision_reason": "只恢复我是财叔、我们下期见的短收尾；从原配音剪去中间类似这种真能省Token的神器，我继续给大家挖；前34幕画面逐帧完全相同，原语音源全部保留。",
+  "frames": 5184,
+  "scene_count": 35,
+  "episode_marker_visible": false
+}

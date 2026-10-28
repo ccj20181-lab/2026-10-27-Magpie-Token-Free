@@ -1,0 +1,48 @@
+[
+  {
+    "source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01-Harness-模型列表-v01.png",
+    "source_sha256": "4319e90fb7f78879e15e6cc8c14c3c7e8998a0dc15199f7867c5c6e68626dcdb",
+    "output": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01a-Harness-整窗红框-v03.png",
+    "output_sha256": "914eb8a13821cb702a2cbed22e9391e2612f0999d4456bc7c894a8f3d9172608",
+    "original_size": [
+      2560,
+      1640
+    ],
+    "whole_window": true,
+    "annotation": {
+      "type": "rectangle",
+      "bounds": [
+        1300,
+        190,
+        1905,
+        950
+      ],
+      "color": "#E62626",
+      "width": 9
+    },
+    "authorization": "用户2026-10-27明确要求整窗截图并用红框圈出模型列表"
+  },
+  {
+    "source": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01b-Harness-模型列表下半部-v01.png",
+    "source_sha256": "3bded87633581522dfa7ba897812083dad7f9ba9d24a1e23aba1170a786871c5",
+    "output": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01b-Harness-整窗红框-v03.png",
+    "output_sha256": "7d3d5e093252fa663d8d288f17296ee8581bd61bec225b60fe78530f779419af",
+    "original_size": [
+      2560,
+      1640
+    ],
+    "whole_window": true,
+    "annotation": {
+      "type": "rectangle",
+      "bounds": [
+        1300,
+        740,
+        1905,
+        1510
+      ],
+      "color": "#E62626",
+      "width": 9
+    },
+    "authorization": "用户2026-10-27明确要求整窗截图并用红框圈出模型列表"
+  }
+]

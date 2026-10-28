@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "media_id": "nzrpDfp75juLmURZ1bCkyWcLHq3ZIbzE9Q709YoTqC0rq-Nj_V5QTh7ZKndeC4NU",
+  "response": {
+    "errcode": 0,
+    "errmsg": "ok"
+  },
+  "other_html_and_styles_unchanged": true,
+  "metadata_unchanged": {
+    "title": true,
+    "author": true,
+    "digest": true,
+    "content_source_url": true,
+    "thumb_media_id": true,
+    "show_cover_pic": true,
+    "need_open_comment": true,
+    "only_fans_can_comment": true,
+    "article_type": true
+  },
+  "cover_bytes_unchanged": true,
+  "cover_crop_unchanged": true
+}

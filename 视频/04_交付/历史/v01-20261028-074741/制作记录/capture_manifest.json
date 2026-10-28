@@ -1,0 +1,927 @@
+{
+  "schema_version": "1.0",
+  "project_id": "2026-10-27-Magpie-Token自由",
+  "checked_after": "2026-10-27T21:40:33+08:00",
+  "source_article_index": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+  "assets": [
+    {
+      "asset_id": "article-models-a",
+      "request_id": "article-models-a",
+      "scene_ids": [
+        "scene_03"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01-Harness-模型列表-v01.png",
+      "app": "DeepSeek Harness",
+      "task_title": "01-Harness-模型列表-v01.png",
+      "captured_at": "2026-10-27T13:02:25.710933+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "4319e90fb7f78879e15e6cc8c14c3c7e8998a0dc15199f7867c5c6e68626dcdb",
+      "semantic_support": "完整Harness窗口，实际模型列表显示多个来源",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01-Harness-模型列表-v01.png"
+      },
+      "crop": [
+        0,
+        0,
+        2560,
+        1640
+      ],
+      "highlights": [
+        {
+          "rect": [
+            1300,
+            170,
+            630,
+            810
+          ],
+          "color": "#D93232",
+          "strokeWidth": 5
+        }
+      ]
+    },
+    {
+      "asset_id": "article-models-b",
+      "request_id": "article-models-b",
+      "scene_ids": [],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01b-Harness-模型列表下半部-v01.png",
+      "app": "DeepSeek Harness",
+      "task_title": "01b-Harness-模型列表下半部-v01.png",
+      "captured_at": "2026-10-27T13:13:12.005716+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "3bded87633581522dfa7ba897812083dad7f9ba9d24a1e23aba1170a786871c5",
+      "semantic_support": "模型列表下半部，包含WorkBuddy、WorkBuddy AI、Step和当前所选模型",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01b-Harness-模型列表下半部-v01.png"
+      },
+      "crop": [
+        1260,
+        650,
+        890,
+        980
+      ]
+    },
+    {
+      "asset_id": "article-codex-config",
+      "request_id": "article-codex-config",
+      "scene_ids": [
+        "scene_05"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/02-Magpie-Codex模型配置-v01.png",
+      "app": "Magpie",
+      "task_title": "02-Magpie-Codex模型配置-v01.png",
+      "captured_at": "2026-10-27T13:09:57.185845+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "344cb2e52606b2a9ab2161f5c6854c5e61f99a451a0a767481705ccce1978a00",
+      "semantic_support": "Magpie中Codex已接入状态和15模型来源分组；不是Codex本体截图",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/02-Magpie-Codex模型配置-v01.png"
+      },
+      "crop": [
+        450,
+        100,
+        1850,
+        1050
+      ]
+    },
+    {
+      "asset_id": "article-providers",
+      "request_id": "article-providers",
+      "scene_ids": [
+        "scene_21"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/05-Magpie-Providers-v01.png",
+      "app": "Magpie",
+      "task_title": "05-Magpie-Providers-v01.png",
+      "captured_at": "2026-10-27T12:57:47.461126+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "6a4b07fc9e7ca0f2f13313e8c310db09ba9de7b0f20728935de2d2b6a6d13578",
+      "semantic_support": "真实Providers列表显示Codex、Grok、WorkBuddy、WorkBuddy AI、Antigravity与订阅状态，账号已在源画面模糊",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/05-Magpie-Providers-v01.png"
+      },
+      "crop": [
+        440,
+        110,
+        1870,
+        1380
+      ]
+    },
+    {
+      "asset_id": "article-routing",
+      "request_id": "article-routing",
+      "scene_ids": [
+        "scene_22"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/06-Magpie-Routing-v01.png",
+      "app": "Magpie",
+      "task_title": "06-Magpie-Routing-v01.png",
+      "captured_at": "2026-10-27T12:58:04.607362+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "34ee042f16a907ba0ff70d4180c5b43169fae99bdcf90fed3563c61bd5be6416",
+      "semantic_support": "真实路由页面保留Codex→Magpie→模型与账号的关系及使用上下文",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/06-Magpie-Routing-v01.png"
+      },
+      "crop": [
+        440,
+        120,
+        1870,
+        1000
+      ]
+    },
+    {
+      "asset_id": "article-plugins",
+      "request_id": "article-plugins",
+      "scene_ids": [
+        "scene_25"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/07-Magpie-Plugins-v01.png",
+      "app": "Magpie",
+      "task_title": "07-Magpie-Plugins-v01.png",
+      "captured_at": "2026-10-27T12:59:03.654574+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "e0377d79fcb6d0cda02a840cde74afd955fcb40dc31ecaa26423db05706caf76",
+      "semantic_support": "实际已装插件列表，包括WorkBuddy与Qoder",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/07-Magpie-Plugins-v01.png"
+      },
+      "crop": [
+        440,
+        120,
+        1870,
+        850
+      ]
+    },
+    {
+      "asset_id": "article-accounts-wb",
+      "request_id": "article-accounts-wb",
+      "scene_ids": [
+        "scene_28"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08a-WorkBuddy-多账号-v01.png",
+      "app": "Magpie",
+      "task_title": "08a-WorkBuddy-多账号-v01.png",
+      "captured_at": "2026-10-27T12:59:52.595488+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "9e13a98536cfa2cfcb2e1875a27d3c873171d471c1311edd8d8fc66efbc83ede",
+      "semantic_support": "真实WorkBuddy账号面板，4个账号与余额/状态；账号标识在源画面已模糊",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08a-WorkBuddy-多账号-v01.png"
+      },
+      "crop": [
+        540,
+        120,
+        1250,
+        1160
+      ]
+    },
+    {
+      "asset_id": "article-accounts-wbai",
+      "request_id": "article-accounts-wbai",
+      "scene_ids": [
+        "scene_28",
+        "scene_29",
+        "scene_32"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08b-WorkBuddyAI-多账号-v01.png",
+      "app": "Magpie",
+      "task_title": "08b-WorkBuddyAI-多账号-v01.png",
+      "captured_at": "2026-10-27T13:07:16.008530+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "f050df368bc706fd73064637e11924c2afb1110c0df49c1badab26b597e9c5f3",
+      "semantic_support": "真实WorkBuddy AI账号面板，5个已授权账号、添加账号入口；账号标识已模糊",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08b-WorkBuddyAI-多账号-v01.png"
+      },
+      "crop": [
+        540,
+        120,
+        1250,
+        1370
+      ]
+    },
+    {
+      "asset_id": "article-accounts-codex",
+      "request_id": "article-accounts-codex",
+      "scene_ids": [
+        "scene_28"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08c-Codex-当前仅一账号-v01.png",
+      "app": "Magpie",
+      "task_title": "08c-Codex-当前仅一账号-v01.png",
+      "captured_at": "2026-10-27T13:08:08.955840+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "090a5fb88cf957b723654f3280a593bd9859d068ebedb101a2d87919452cf732",
+      "semantic_support": "真实Codex账号面板，当前1个账号；不复制或伪造多账号数量",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08c-Codex-当前仅一账号-v01.png"
+      },
+      "crop": [
+        540,
+        120,
+        1250,
+        1370
+      ]
+    },
+    {
+      "asset_id": "article-output",
+      "request_id": "article-output",
+      "scene_ids": [],
+      "type": "recording",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/09-Harness-WorkBuddy-真实输出-v01.mp4",
+      "app": "DeepSeek Harness",
+      "task_title": "09-Harness-WorkBuddy-真实输出-v01.mp4",
+      "captured_at": "2026-10-27T13:05:28.808158+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "1ad8bc8be9d45a50356d0cfcdfcf64b3bf5310b53322b4a823c08931060f7040",
+      "semantic_support": "已被用户通过的52.22秒原片，展示WorkBuddy DeepSeek实际长文输出与111 tok/s，引用原速片段",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "article_original_reuse",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/配图索引-v02.md",
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/09-Harness-WorkBuddy-真实输出-v01.mp4"
+      },
+      "crop": [
+        390,
+        80,
+        2130,
+        1510
+      ],
+      "duration_seconds": 52.22,
+      "events": []
+    },
+    {
+      "asset_id": "public-author",
+      "request_id": "public-author",
+      "scene_ids": [
+        "scene_07"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/10-GitHub-作者与项目-v03.png",
+      "app": "Ego Lite / 官方公开页面",
+      "task_title": "10-GitHub-作者与项目-v03.png",
+      "captured_at": "2026-10-27T13:26:08.286214+00:00",
+      "width": 650,
+      "height": 900,
+      "sha256": "79e81e5394a0b9785b18dd13eb0eb98fc77278bc2e193c412aa457e44952cb71",
+      "semantic_support": "GitHub官方yetone/magpie真实项目页，作者、项目名和MIT许可",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "ego_browser_public_page",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/10-GitHub-作者与项目-v03.png",
+        "url": "https://github.com/yetone/magpie"
+      },
+      "crop": [
+        0,
+        65,
+        650,
+        550
+      ],
+      "highlights": [
+        {
+          "rect": [
+            15,
+            80,
+            245,
+            40
+          ],
+          "color": "#D93232",
+          "strokeWidth": 5
+        }
+      ]
+    },
+    {
+      "asset_id": "public-readme",
+      "request_id": "public-readme",
+      "scene_ids": [
+        "scene_08"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/11-GitHub-中文README-v03.png",
+      "app": "Ego Lite / 官方公开页面",
+      "task_title": "11-GitHub-中文README-v03.png",
+      "captured_at": "2026-10-27T13:37:57.151895+00:00",
+      "width": 900,
+      "height": 1700,
+      "sha256": "291220ad95fe252a637397864849c34b531bc3e2734756c16754c61d94c6f62e",
+      "semantic_support": "官方中文README的模型统一入口定位，保留Magpie图标、标题与平台支持，去除赞助商区",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "ego_browser_public_page",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/11-GitHub-中文README-v03.png",
+        "url": "https://github.com/yetone/magpie/blob/main/README.zh-CN.md"
+      },
+      "crop": [
+        40,
+        0,
+        820,
+        990
+      ]
+    },
+    {
+      "asset_id": "public-install",
+      "request_id": "public-install",
+      "scene_ids": [
+        "scene_30"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/12-GitHub-中文安装-v03.png",
+      "app": "Ego Lite / 官方公开页面",
+      "task_title": "12-GitHub-中文安装-v03.png",
+      "captured_at": "2026-10-27T13:37:57.269641+00:00",
+      "width": 900,
+      "height": 1700,
+      "sha256": "3255d3064d268c760d64b574d6962aeea68171cd7e962131b3b58ff94498600c",
+      "semantic_support": "官方中文快速开始三步，展示安装、添加来源与给Agent选择模型",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "ego_browser_public_page",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/12-GitHub-中文安装-v03.png",
+        "url": "https://github.com/yetone/magpie/blob/main/README.zh-CN.md"
+      },
+      "crop": [
+        40,
+        280,
+        820,
+        860
+      ]
+    },
+    {
+      "asset_id": "public-qoder",
+      "request_id": "public-qoder",
+      "scene_ids": [
+        "scene_24"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/13-Qoder-限免规则-v01.png",
+      "app": "Ego Lite / 官方公开页面",
+      "task_title": "13-Qoder-限免规则-v01.png",
+      "captured_at": "2026-10-27T13:29:06.360706+00:00",
+      "width": 1300,
+      "height": 1800,
+      "sha256": "1977e005eeb38d69772c49f2695a357faaeffaf6c65f710f7cd54d2fc00ab25b",
+      "semantic_support": "Qoder官方限免文档，保留完整标题、活动模型、每日额度和10月31日截止说明",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "ego_browser_public_page",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/13-Qoder-限免规则-v01.png",
+        "url": "https://docs.qoder.cn/events/deepseek-flash-free"
+      },
+      "crop": [
+        75,
+        320,
+        1120,
+        900
+      ],
+      "highlights": [
+        {
+          "rect": [
+            90,
+            990,
+            1100,
+            155
+          ],
+          "color": "#D93232",
+          "strokeWidth": 5
+        }
+      ]
+    },
+    {
+      "asset_id": "public-ccswitch",
+      "request_id": "public-ccswitch",
+      "scene_ids": [
+        "scene_19"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/14-CCSwitch-真实项目页-v01.png",
+      "app": "Ego Lite / 官方公开页面",
+      "task_title": "14-CCSwitch-真实项目页-v01.png",
+      "captured_at": "2026-10-27T13:30:16.164236+00:00",
+      "width": 1300,
+      "height": 1800,
+      "sha256": "86f92674c1aa51fc92489598601973dc20027b681aab5065ac4d44b1f21f895f",
+      "semantic_support": "CC Switch官方仓库身份；只证明工具对象，不用项目页伪造Bug证据",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "ego_browser_public_page",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/14-CCSwitch-真实项目页-v01.png",
+        "url": "https://github.com/farion1231/cc-switch"
+      },
+      "crop": [
+        0,
+        130,
+        1300,
+        1200
+      ]
+    },
+    {
+      "asset_id": "native-agents-still",
+      "request_id": "native-agents-still",
+      "scene_ids": [
+        "scene_02"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/15-Magpie-Agent-管理结果-v01.png",
+      "app": "Magpie",
+      "task_title": "15-Magpie-Agent-管理结果-v01.png",
+      "captured_at": "2026-10-27T13:45:18.381806+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "4ba7555508855e324ab7defc36ae80ed3589dc9b66d70cbd7585e9fad016f7f1",
+      "semantic_support": "本次原生采集的Magpie Agent总览，多个Agent已连接及模型选项",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/15-Magpie-Agent-管理结果-v01.png"
+      },
+      "crop": [
+        410,
+        40,
+        1900,
+        920
+      ]
+    },
+    {
+      "asset_id": "native-agents-video",
+      "request_id": "native-agents-video",
+      "scene_ids": [
+        "scene_20"
+      ],
+      "type": "recording",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/15-Magpie-Agent-管理演示-v01.mp4",
+      "app": "Magpie",
+      "task_title": "15-Magpie-Agent-管理演示-v01.mp4",
+      "captured_at": "2026-10-27T13:44:54.255247+00:00",
+      "width": 2334,
+      "height": 1738,
+      "sha256": "df181b23bbcd3e9ae5577afbb85f791efb62af9889b656531980e812ec77d583",
+      "semantic_support": "本次真实收起Codex设置回到Agent总览的动作；不改接入配置",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/15-Magpie-Agent-管理演示-v01.mp4"
+      },
+      "crop": [
+        410,
+        40,
+        1900,
+        920
+      ],
+      "duration_seconds": 18.211667,
+      "events": []
+    },
+    {
+      "asset_id": "native-model-video",
+      "request_id": "native-model-video",
+      "scene_ids": [
+        "scene_04",
+        "scene_26"
+      ],
+      "type": "recording",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/16-Harness-模型菜单演示-v01.mp4",
+      "app": "DeepSeek Harness",
+      "task_title": "16-Harness-模型菜单演示-v01.mp4",
+      "captured_at": "2026-10-27T13:46:31.031259+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "83e7ab09ecb4ddf4ffb3810077a995bd60af4f58812181d95048f295de9e61cb",
+      "semantic_support": "本次Harness真实模型菜单，滚动展示模型来源，WorkBuddy DeepSeek保持选中，未更改默认模型",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/16-Harness-模型菜单演示-v01.mp4"
+      },
+      "crop": [
+        1260,
+        600,
+        1050,
+        1030
+      ],
+      "duration_seconds": 20.045,
+      "events": []
+    },
+    {
+      "asset_id": "native-wb-models",
+      "request_id": "native-wb-models",
+      "scene_ids": [
+        "scene_10"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/17-WorkBuddy-模型与倍率-v01.png",
+      "app": "WorkBuddy",
+      "task_title": "17-WorkBuddy-模型与倍率-v01.png",
+      "captured_at": "2026-10-27T13:50:13.194121+00:00",
+      "width": 2254,
+      "height": 1710,
+      "sha256": "4f4614067a0ad3b1048eba7cec9b3527da3b506d0011be7b92b50c2694e45fcd",
+      "semantic_support": "WorkBuddy完整模型菜单与计费倍率，未改模型选择",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/17-WorkBuddy-模型与倍率-v01.png"
+      },
+      "crop": [
+        1030,
+        760,
+        730,
+        860
+      ]
+    },
+    {
+      "asset_id": "native-wb-daily",
+      "request_id": "native-wb-daily",
+      "scene_ids": [
+        "scene_24"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/18-WorkBuddy-每日100积分-v02.png",
+      "app": "WorkBuddy",
+      "task_title": "18-WorkBuddy-每日100积分-v02.png",
+      "captured_at": "2026-10-27T13:55:49.566054+00:00",
+      "width": 2254,
+      "height": 1710,
+      "sha256": "f564708d7e6cc7a5f32e9b27cfa4e76cca187d9acd38c8d0374506e43b5fdc6e",
+      "semantic_support": "真实Buddy加油站完整福利卡，显示每日可领100积分、今日已领取；不截取单独数值",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/18-WorkBuddy-每日100积分-v02.png"
+      },
+      "crop": [
+        15,
+        1350,
+        500,
+        245
+      ]
+    },
+    {
+      "asset_id": "native-prompt",
+      "request_id": "native-prompt",
+      "scene_ids": [
+        "scene_31"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/19-Harness-安装提示词-v01.png",
+      "app": "DeepSeek Harness",
+      "task_title": "19-Harness-安装提示词-v01.png",
+      "captured_at": "2026-10-27T13:53:43.850795+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "e61886b6a1c2925c656cf7f936738d3fe285399946b5f3e401d7f47124af008f",
+      "semantic_support": "文章原有安装提示词实际粘贴到Harness输入框；仅展示，未发送和执行",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/19-Harness-安装提示词-v01.png"
+      },
+      "crop": [
+        440,
+        350,
+        1680,
+        1040
+      ]
+    },
+    {
+      "asset_id": "native-profiles",
+      "request_id": "native-profiles",
+      "scene_ids": [
+        "scene_33"
+      ],
+      "type": "screenshot",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/21-Harness-真实Profile目录-v01.png",
+      "app": "Finder",
+      "task_title": "21-Harness-真实Profile目录-v01.png",
+      "captured_at": "2026-10-27T13:56:44.961216+00:00",
+      "width": 1840,
+      "height": 872,
+      "sha256": "2cc4f92da5b53a9e2468732ff20083ba588783f5a037239be8d6d95504a1a22e",
+      "semantic_support": "访达显示真实.dsh/profiles目录中的desktop与web，同时保留目录标题和相邻文件夹，不打开配置秘密",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/21-Harness-真实Profile目录-v01.png"
+      },
+      "crop": [
+        340,
+        0,
+        1120,
+        390
+      ],
+      "highlights": [
+        {
+          "rect": [
+            360,
+            166,
+            470,
+            48
+          ],
+          "color": "#D93232",
+          "strokeWidth": 5
+        },
+        {
+          "rect": [
+            360,
+            288,
+            470,
+            48
+          ],
+          "color": "#D93232",
+          "strokeWidth": 5
+        }
+      ]
+    },
+    {
+      "asset_id": "native-tools-start",
+      "request_id": "native-tools-start",
+      "scene_ids": [
+        "scene_34"
+      ],
+      "type": "recording",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/22-Harness-工具调用-启动录像-v01.mp4",
+      "app": "DeepSeek Harness",
+      "task_title": "22-Harness-工具调用-启动录像-v01.mp4",
+      "captured_at": "2026-10-27T13:58:42.928633+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "b6eee1431e0d3848b9d78405d4cda957fda6759542fa7ae9a63cb88b59b04b6d",
+      "semantic_support": "新公开只读测试真实发送、开始运行、调用Python并返回83810205；当前选用WorkBuddy DeepSeek",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/22-Harness-工具调用-启动录像-v01.mp4"
+      },
+      "crop": [
+        430,
+        90,
+        1690,
+        1480
+      ],
+      "duration_seconds": 30.036667,
+      "events": []
+    },
+    {
+      "asset_id": "native-tools-result",
+      "request_id": "native-tools-result",
+      "scene_ids": [
+        "scene_27"
+      ],
+      "type": "recording",
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/22-Harness-工具调用-结果录像-v01.mp4",
+      "app": "DeepSeek Harness",
+      "task_title": "22-Harness-工具调用-结果录像-v01.mp4",
+      "captured_at": "2026-10-27T14:00:21.164080+00:00",
+      "width": 2560,
+      "height": 1640,
+      "sha256": "ff992fc415a81dcaff4b00465ca30e2664ead36ec93002e36d4c4e7705f2012c",
+      "semantic_support": "所选0–7.43秒展示完成的命令、输出、模型与步骤统计；另通过AX核对过实际bash调用，轨迹界面不入片",
+      "qa": {
+        "status": "accepted",
+        "readability": "已查看原始截图；关键区域按完整菜单、结果区或面板取景，成片另验",
+        "stability": "截图静态；录像另有SAVED与选段检查",
+        "completeness": "保留真实对象、状态与语义上下文",
+        "notes": "源素材接受不等于完整成片听看或发布"
+      },
+      "provenance": {
+        "method": "official_native_computer_use_and_screencapturekit",
+        "source_project_id": "2026-10-27-Magpie-Token自由",
+        "source_manifest": null,
+        "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/02_素材/补采/22-Harness-工具调用-结果录像-v01.mp4"
+      },
+      "crop": [
+        490,
+        500,
+        1550,
+        1090
+      ],
+      "duration_seconds": 30.12,
+      "events": []
+    }
+  ],
+  "issues": [],
+  "observations": [
+    "公众号原图/原片只读复用，未使用公众号AI原理图或封面替代视频动效",
+    "当前Codex账号面板为1个，按真实数量展示，不伪造多个",
+    "工具轨迹已确认bash实际返回83810205；含上下文的轨迹画面不进入成片",
+    "新任务只执行了python乘法，不修改文件和配置"
+  ]
+}

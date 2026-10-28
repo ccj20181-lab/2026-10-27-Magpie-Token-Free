@@ -1,0 +1,13 @@
+{
+  "scene_count": 34,
+  "frames": 5132,
+  "duration": 171.06666666666666,
+  "unchanged_voice_scenes": 33,
+  "changed_voice": [
+    "scene_28"
+  ],
+  "removed": [
+    "scene_35"
+  ],
+  "red_episode_marker": false
+}

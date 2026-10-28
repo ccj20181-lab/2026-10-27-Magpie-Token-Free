@@ -1,0 +1,1 @@
+[{"call": "get_window_state", "args": {"app": "com.yetone.magpie", "window_id": 90544, "include_text": true}, "print": "none"}, {"call": "click", "args": {"app": "com.yetone.magpie", "window_id": 90544, "index": 160}}, {"call": "get_app_state", "args": {"app": "com.yetone.magpie", "mode": "ax", "ax_filter": "\u8d26\u53f7\u6253\u7801|\u5173\u95ed|\u5f00\u542f"}}]

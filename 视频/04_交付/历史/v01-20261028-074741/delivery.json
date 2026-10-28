@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "version": "v01",
+  "episode": 4,
+  "brand": "财叔 AI Lab",
+  "series_title": "每天一条AI干货",
+  "title": "真神器！有了 Magpie，我真的 Token 自由了！",
+  "delivered_at": "2026-10-27T14:29:30.824675+00:00",
+  "source_script": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v02.txt",
+  "source_script_sha256": "d2717c89fb1ad4ad1e412572a33b8565e5157a98c08772a51eb51e84e2c6ed4a",
+  "video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+  "video_sha256": "5da30afcedd4968177d6b5d50ce6639b45adf3fce549107742b49fac023e4dbc",
+  "duration_seconds": 176.4,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "cover": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+  "cover_sha256": "4775a68754e8ef4a45b9b5b4df8a8456c65de2c75947630899579ea15f670cf0",
+  "covers": [
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.jpg"
+  ],
+  "subtitles": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/字幕.srt",
+  "qa_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/qa_report.json",
+  "source_snapshot": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v01/source-snapshot",
+  "audio_postprocessing": {
+    "uniform_mix_gain_db": 5,
+    "picture_stream_unchanged": true,
+    "integrated_loudness_lufs": -19.5,
+    "true_peak_dbfs": -1.9
+  },
+  "verification_scope": "技术检查、35幕逐幕抽帧、13幕动效阶段检查和语音识别回查；不冒称人工完整听看或用户审美认可",
+  "published": false,
+  "native_playback_check": "pass",
+  "archive_receipt": "03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/archive_receipt.json",
+  "archive_entry_id": "caishu-ai-lab:video-script:009"
+}

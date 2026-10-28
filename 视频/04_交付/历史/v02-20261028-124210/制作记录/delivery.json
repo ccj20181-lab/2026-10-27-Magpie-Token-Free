@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "version": "v02",
+  "episode": 4,
+  "brand": "财叔 AI Lab",
+  "series_title": "每天一条AI干货",
+  "title": "真神器！有了 Magpie，我真的 Token 自由了！",
+  "delivered_at": "2026-10-28T07:47:41.041985+08:00",
+  "source_script": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/01_口播/口播文案-v02.txt",
+  "source_script_sha256": "d2717c89fb1ad4ad1e412572a33b8565e5157a98c08772a51eb51e84e2c6ed4a",
+  "video": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/video.mp4",
+  "video_sha256": "13f4e8a58a3c394d03e5453a19c586f16cc4205578660ae95916bce6e37f8295",
+  "duration_seconds": 176.4,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "cover": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+  "cover_sha256": "4775a68754e8ef4a45b9b5b4df8a8456c65de2c75947630899579ea15f670cf0",
+  "covers": [
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.png",
+    "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/封面.jpg"
+  ],
+  "subtitles": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/当前/字幕.srt",
+  "qa_report": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/qa_report.json",
+  "source_snapshot": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/candidate-v02/source-snapshot",
+  "audio_postprocessing": {
+    "revision_audio": "v01 mixed AAC copied byte-for-byte",
+    "aac_sha256": "e919fa1c6ec62ed4a7de5265f6a6741460eaa17e000e2fc69be77a0d2aeebb75",
+    "prior_uniform_mix_gain_db": 5,
+    "integrated_loudness_lufs": -19.5,
+    "true_peak_dbfs": -1.9
+  },
+  "verification_scope": "Agent encoded-frame and camera-path review; native playback recorded separately. No claim of full human listening/viewing, user aesthetic acceptance or publication.",
+  "published": false,
+  "native_playback_check": "pass: exact current formal path, playback advanced 6.95 to26.64 seconds; paused at0",
+  "archive_receipt": "03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/archive_receipt.json",
+  "archive_entry_id": "caishu-ai-lab:video-script:009",
+  "previous_version": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/04_交付/历史/v01-20261028-074741",
+  "revision_reason": "全片真实界面先完整窗口，保留Logo/侧栏/空白；开场Magpie Agent/供应商/路由；Harness、WorkBuddy模型及每日100积分在同一源图上连续运镜。"
+}

@@ -1,0 +1,103 @@
+{
+  "data": {
+    "meta": {
+      "brandProfile": "caishu_ai_lab",
+      "seriesTitle": "每天一条AI干货",
+      "showEpisodeMarker": true,
+      "motionStyle": "caishu-editorial-v1",
+      "cornerLogoPath": "ai-coach-daily-demo/magpie-04-motion-preview/brand/caishu_ai_lab_primary_logo.png",
+      "cornerLogoWidth": 236,
+      "cornerLogoHeight": 88,
+      "cornerLogoPaddingX": 12,
+      "cornerLogoPaddingY": 8,
+      "cornerLogoBorderRadius": 18,
+      "cornerLogoBackground": "rgba(255,255,255,0.96)",
+      "bgm": {
+        "path": "ai-coach-daily-demo/magpie-04-motion-preview/music/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+        "volume": 0.12,
+        "durationSeconds": 150.508,
+        "sourcePath": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/共享素材/音频/赛文乔伊_一个人一张画布_BGM去人声_修复版_v2.mp3",
+        "sha256": "fefedeea496d10ad389a8aab0ea6f741f11cd27f7002a21b46fe5378221a0e86",
+        "fadeInSeconds": 0.8,
+        "fadeOutSeconds": 1.6
+      },
+      "workflowVersion": 2,
+      "episode": "4",
+      "demoTitle": "真神器！有了 Magpie，我真的 Token 自由了！",
+      "fps": 30,
+      "width": 1080,
+      "height": 1920
+    },
+    "scenes": [
+      {
+        "id": "scene_14",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "headline": "用具体调用流程让观众秒懂",
+        "caption": "比如你在 DeepSeek Harness 里选 WorkBuddy 的 DeepSeek，任务先到 Magpie，再转给 WorkBuddy 里的 DeepSeek 去跑。",
+        "effect": {
+          "id": "magpie_packet",
+          "renderer": "custom",
+          "params": {}
+        },
+        "durationFrames": 196,
+        "assetPath": "",
+        "audioPath": "ai-coach-daily-demo/magpie-04-motion-preview/audio/scene_14.mp3",
+        "captionSegments": [
+          {
+            "text": "比如你在 DeepSeek Harness 里",
+            "startFrame": 0,
+            "endFrame": 56
+          },
+          {
+            "text": "选 WorkBuddy 的 DeepSeek",
+            "startFrame": 56,
+            "endFrame": 99
+          },
+          {
+            "text": "任务先到 Magpie",
+            "startFrame": 99,
+            "endFrame": 137
+          },
+          {
+            "text": "再转给 WorkBuddy 里的 DeepSeek 去跑",
+            "startFrame": 137,
+            "endFrame": 196
+          }
+        ]
+      },
+      {
+        "id": "scene_15",
+        "kind": "effect",
+        "visualType": "motion_effect",
+        "headline": "落下核心价值",
+        "caption": "结果回来以后再原路送回 DeepSeek Harness，整个过程你几乎感觉不到。",
+        "effect": {
+          "id": "magpie_packet",
+          "renderer": "custom",
+          "params": {}
+        },
+        "durationFrames": 146,
+        "assetPath": "",
+        "audioPath": "ai-coach-daily-demo/magpie-04-motion-preview/audio/scene_15.mp3",
+        "captionSegments": [
+          {
+            "text": "结果回来以后",
+            "startFrame": 0,
+            "endFrame": 29
+          },
+          {
+            "text": "再原路送回 DeepSeek Harness",
+            "startFrame": 29,
+            "endFrame": 84
+          },
+          {
+            "text": "整个过程你几乎感觉不到",
+            "startFrame": 84,
+            "endFrame": 146
+          }
+        ]
+      }
+    ]
+  }
+}

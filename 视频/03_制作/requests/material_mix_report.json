@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "real": 22,
+    "motion": 13,
+    "ai": 0
+  },
+  "default": {
+    "real": 22,
+    "motion": 13,
+    "ai": 0
+  },
+  "rationale": null,
+  "notes": []
+}

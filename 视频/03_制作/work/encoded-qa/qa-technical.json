@@ -1,0 +1,97 @@
+{
+  "status": "technical_pass_visual_review_pending",
+  "video_sha256": "5da30afcedd4968177d6b5d50ce6639b45adf3fce549107742b49fac023e4dbc",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 5292,
+  "duration_seconds": 176.4,
+  "video_codec": "h264",
+  "pixel_format": "yuvj420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "full_decode": "pass",
+  "audio_peak_dbfs": -1.9440257795699343,
+  "audio_rms_dbfs": -21.800710504582646,
+  "actual_audio_source_fingerprints": [
+    {
+      "range": [
+        0,
+        2
+      ],
+      "source": "voice",
+      "lag_samples": 683,
+      "correlation": 0.9380945563316345
+    },
+    {
+      "range": [
+        0,
+        2
+      ],
+      "source": "bgm",
+      "lag_samples": 676,
+      "correlation": 0.30479303002357483
+    },
+    {
+      "range": [
+        5,
+        15
+      ],
+      "source": "voice",
+      "lag_samples": 684,
+      "correlation": 0.774703323841095
+    },
+    {
+      "range": [
+        5,
+        15
+      ],
+      "source": "bgm",
+      "lag_samples": 677,
+      "correlation": 0.36314308643341064
+    },
+    {
+      "range": [
+        65,
+        75
+      ],
+      "source": "voice",
+      "lag_samples": 683,
+      "correlation": 0.6780100464820862
+    },
+    {
+      "range": [
+        65,
+        75
+      ],
+      "source": "bgm",
+      "lag_samples": 677,
+      "correlation": 0.340615838766098
+    },
+    {
+      "range": [
+        151,
+        161
+      ],
+      "source": "voice",
+      "lag_samples": 690,
+      "correlation": 0.8913182020187378
+    },
+    {
+      "range": [
+        151,
+        161
+      ],
+      "source": "bgm",
+      "lag_samples": 683,
+      "correlation": 0.4301910102367401
+    }
+  ],
+  "audio_check_note": "Fingerprint search permits AAC/MP3 encoder priming and sub-millisecond resampling differences; fixed sample-aligned gain regression is not used as a pass gate. Final mixed audio gets a uniform +5dB gain, with picture stream copied and natural narration timing retained.",
+  "caption_timing_continuity": "pass",
+  "scene_count": 35,
+  "real_scenes": 22,
+  "motion_scenes": 13,
+  "image_generated_scenes": 0,
+  "scope": "Full decode, encoding metadata, subtitle timing and actual mixed BGM verification; 35 phone-scale midpoint frames plus source-video/evidence boundary samples. Human full listening/viewing and aesthetic approval are not asserted."
+}

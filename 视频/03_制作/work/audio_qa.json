@@ -1,0 +1,21 @@
+{
+  "source_script": "口播文案-v02.txt",
+  "source_unchanged": true,
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "scenes": 35,
+  "duration_seconds": 175.84,
+  "asr": "35 scenes transcribed using cached mlx whisper large v3 turbo; selected names checked with faster-whisper small",
+  "crosscheck_observations": [
+    "Qoder is recognized as Coder by ASR; spelling preserved from approved script",
+    "scene_31 Chinese clause is confirmed by independent ASR; initial recognition was ambiguous",
+    "财叔/才叔 and 接进/接近 are same-sound recognition differences; source captions preserved"
+  ],
+  "caption_source": "原稿文本，人工划分语义片段；ASR时间轴只用于近似对齐",
+  "voice_mean_dbfs": -24.3,
+  "voice_peak_dbfs": -4.1,
+  "human_listening": false,
+  "scope": "Technical checks and speech-recognition crosscheck; no claim of full human listening."
+}

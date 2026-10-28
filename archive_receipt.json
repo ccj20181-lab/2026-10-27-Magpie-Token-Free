@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "ok": true,
+  "entry_id": "caishu-ai-lab:wechat-article:030",
+  "status": "push_requested",
+  "event": "push_requested",
+  "version": 1,
+  "created_version": true,
+  "source_sha256": "f357d1bfd9d3db00000a373d08e23b882b4fab3e476ebff48c29190243df39e8",
+  "source_path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v05.md",
+  "assets": [],
+  "assets_digest": null,
+  "archived_file": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库/01-公众号文章/财叔AI-Lab/030-真神器！有了-Magpie，我真的-Token-自由了！/正文.md",
+  "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+  "archived_at": "2026-10-27T20:49:20+08:00",
+  "knowledge_network": {
+    "ok": true,
+    "build": {
+      "ok": true,
+      "vaults": [
+        {
+          "ok": true,
+          "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+          "entries": 38,
+          "relation_cards": 38,
+          "nodes": 6,
+          "mocs_and_hubs": 3,
+          "synthesis_queue": {
+            "ok": true,
+            "pending_count": 38,
+            "path": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库/10-知识网络/90-待确认关系/知识待提炼队列.md"
+          }
+        }
+      ]
+    },
+    "lint": {
+      "ok": true,
+      "vault": "/Users/henry/Desktop/财叔 AI Lab/02_创作知识库",
+      "profile": "caishu",
+      "entries": 38,
+      "relation_cards": 38,
+      "knowledge_nodes": 6,
+      "broken_links": 0,
+      "forbidden_links": 0,
+      "issues": [],
+      "warnings": []
+    }
+  }
+}

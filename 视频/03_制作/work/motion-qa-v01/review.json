@@ -1,0 +1,185 @@
+{
+  "status": "sampled_review_required",
+  "video_sha256": "d565c85f0236c99699c79aa5b99922e2d1004a6fd0f06e22687e1ee42a59b017",
+  "fractions": [
+    0.02,
+    0.2,
+    0.5,
+    0.85,
+    0.97,
+    0.995
+  ],
+  "motion_scene_count": 13,
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "phase_changes": [
+        0.030950348940418357,
+        0.016575945910951233,
+        0.002644262796514912,
+        2.8992360653707366e-06,
+        2.96491455228852e-06
+      ],
+      "final_hold_change": 2.96491455228852e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_06",
+      "phase_changes": [
+        0.03465716768093016,
+        0.005810678946667192,
+        0.005324508021219781,
+        9.138692322560185e-06,
+        2.0923289403808224e-06
+      ],
+      "final_hold_change": 2.0923289403808224e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_09",
+      "phase_changes": [
+        0.04243807926079801,
+        0.0010228204594116333,
+        0.0064997494834856135,
+        2.956470175399091e-05,
+        1.379248225273457e-06
+      ],
+      "final_hold_change": 1.379248225273457e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_11",
+      "phase_changes": [
+        7.524878072580357e-06,
+        0.025777877233772253,
+        0.04038877911198933,
+        4.0533009069260775e-06,
+        9.823625114702785e-06
+      ],
+      "final_hold_change": 9.823625114702785e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_12",
+      "phase_changes": [
+        0.0013181015539530003,
+        0.0014530145487231163,
+        0.0002590359524037388,
+        1.2066076310895687e-05,
+        2.758496450546914e-06
+      ],
+      "final_hold_change": 2.758496450546914e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_13",
+      "phase_changes": [
+        0.0001513607644225266,
+        0.035839793281653744,
+        0.009143430556259253,
+        7.637469764439416e-06,
+        7.487347508627338e-06
+      ],
+      "final_hold_change": 7.487347508627338e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_14",
+      "phase_changes": [
+        0.0008020844475219506,
+        0.001753765722960636,
+        0.0010467837244956361,
+        0.0,
+        2.702200604617385e-06
+      ],
+      "final_hold_change": 2.702200604617385e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_15",
+      "phase_changes": [
+        0.0009793600663540371,
+        0.002323695484510198,
+        0.0013309182415429562,
+        1.6888753778858658e-06,
+        2.814792296476443e-08
+      ],
+      "final_hold_change": 2.814792296476443e-08,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_16",
+      "phase_changes": [
+        2.691879699530305e-05,
+        1.732973790530663e-05,
+        0.01624379103732602,
+        8.418105494662216e-05,
+        6.2019256932364295e-06
+      ],
+      "final_hold_change": 6.2019256932364295e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_17",
+      "phase_changes": [
+        0.001091473243522694,
+        0.004055046078149893,
+        0.0006974586178619213,
+        0.0,
+        1.332335020332183e-06
+      ],
+      "final_hold_change": 1.332335020332183e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_18",
+      "phase_changes": [
+        2.4310422800568213e-05,
+        2.5333130668287985e-07,
+        0.027027579334920872,
+        0.00034810536330524166,
+        8.162897659781686e-06
+      ],
+      "final_hold_change": 8.162897659781686e-06,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_23",
+      "phase_changes": [
+        0.038426277774962984,
+        0.020692129277780594,
+        2.420721374969741e-06,
+        4.391075982503252e-06,
+        2.508918200259336e-05
+      ],
+      "final_hold_change": 2.508918200259336e-05,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    },
+    {
+      "scene_id": "scene_35",
+      "phase_changes": [
+        0.010415557169369807,
+        0.0,
+        0.0005807197986860548,
+        7.693765610368943e-07,
+        0.0
+      ],
+      "final_hold_change": 0.0,
+      "attention": [],
+      "semantic_review": "required: compare object, action and landing with narration"
+    }
+  ],
+  "scope": "Encoded motion phase samples and phone contact sheets. Does not certify meaning, normal-speed rhythm, factual accuracy or sound."
+}

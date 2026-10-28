@@ -1,0 +1,11 @@
+{
+  "schema": 4,
+  "text": "中间需要登录授权的时候，你自己点一下，剩下的继续让 Agent 干。",
+  "provider": "minimax",
+  "model": "speech-2.8-turbo",
+  "voice": "financevideo_v1_20260215",
+  "speed": 1.13,
+  "timing_mode": "natural",
+  "edge_trim_ms": 0,
+  "max_pause_ms": 0
+}

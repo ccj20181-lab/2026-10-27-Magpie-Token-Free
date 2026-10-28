@@ -1,0 +1,34 @@
+{
+  "status": "pass",
+  "time": "2026-10-28T11:59:32.825043+08:00",
+  "skill": "/Users/henry/Desktop/财叔 AI Lab/.agents/skills/ai-coach-daily-demo",
+  "changed_files": [
+    "SKILL.md",
+    "references/acceptance-v2.md",
+    "references/director-contract.md",
+    "references/director-planning.md",
+    "references/layout-and-overlay-guardrails.md",
+    "scripts/test_source_highlights.py",
+    "scripts/test_director.py",
+    "scripts/source_highlights.py",
+    "scripts/director.py",
+    "remotion/test-real-media-layout.cjs",
+    "remotion/src/types.ts",
+    "remotion/src/DirectorComposition.tsx",
+    "remotion/src/realMediaLayout.ts",
+    "remotion/src/RealMedia.tsx"
+  ],
+  "checks": {
+    "skill_structure": "pass",
+    "typescript_typecheck": "pass",
+    "source_highlight_camera_tests": 4,
+    "director_tests_including_assembly": 13,
+    "full_window_layout_cases": 16,
+    "camera_frames_checked": 800,
+    "isolated_encoded_camera_sample": "pass: full/mid/landing agent visual review",
+    "sample": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/视频/03_制作/work/skill-full-window-20261028/smoke/smoke.mp4",
+    "sample_sha256": "56d6b12a9dc0b23d86f619d71fb0615791f2de8b0e262814ab9a416e8e0e06e6"
+  },
+  "policy": "complete original application window first; same-source narration-led continuous camera; legacy crop does not drive v2 opening; fixed frame, source-linked emphasis and privacy layers",
+  "existing_delivered_video_sha256": "13f4e8a58a3c394d03e5453a19c586f16cc4205578660ae95916bce6e37f8295"
+}

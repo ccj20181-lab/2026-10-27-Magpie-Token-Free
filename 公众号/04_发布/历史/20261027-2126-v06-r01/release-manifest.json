@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "brand_id": "caishu-ai-lab",
+  "article_type": "wechat-longform",
+  "theme_id": "caishu-blue",
+  "title": "真神器！有了 Magpie，我真的 Token 自由了！",
+  "markdown": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v06.md",
+  "html": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/03_排版/v06-r01/正文_排版_财叔蓝(caishu-blue).html",
+  "body_image_policy": "required",
+  "cover": {
+    "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/封面/封面-v01.png",
+    "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/cover.png",
+    "generated_by": "codex-imagegen",
+    "transform": "resize-only",
+    "style_profile": "brand-editorial",
+    "source_images": [
+      "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/封面-AI原图-v01.png"
+    ],
+    "reference_assets": [
+      "/Users/henry/Desktop/财叔 AI Lab/00_品牌与经营/品牌资产/卡通IP视觉系统/20260921-概念套图/12-财叔全新统一卡通IP-本人短碎发-v12.png",
+      "/Users/henry/Desktop/财叔 AI Lab/00_品牌与经营/品牌资产/卡通IP视觉系统/20260921-公众号封面完整成图-v1/01-豆包Work四个自媒体工作流.png"
+    ]
+  },
+  "body_images": [
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01a-Harness-多来源模型-v02.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/01a.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01-Harness-模型列表-v01.png"
+      ],
+      "caption": "DeepSeek Harness 中的多来源模型列表",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        1300,
+        190,
+        1905,
+        950
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/01b-Harness-WorkBuddy与Step-v02.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/01b.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/01b-Harness-模型列表下半部-v01.png"
+      ],
+      "caption": "同一模型列表下半部：WorkBuddy、WorkBuddy AI 与 Step",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        1300,
+        740,
+        1905,
+        1510
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/03-Magpie-Agents-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/03.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/03-Magpie-Agents-v01.png"
+      ],
+      "caption": "Magpie 原生 Agent 主界面",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        0,
+        0,
+        2334,
+        960
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/04-模型转接原理-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/04.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/04-模型转接原理-AI原图-v01.png"
+      ],
+      "caption": "模型来源 → Magpie → 常用 Agent（原理示意图）",
+      "kind": "diagram",
+      "generated_by": "codex-imagegen",
+      "transform": "resize-and-frame"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/05-Magpie-Providers-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/05.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/05-Magpie-Providers-v01.png"
+      ],
+      "caption": "Magpie 供应商页面，账号信息已打码",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        0,
+        0,
+        2334,
+        1440
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/06-Magpie-Routing-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/06.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/06-Magpie-Routing-v01.png"
+      ],
+      "caption": "Magpie 路由页面：真实请求的模型与账号去向",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        0,
+        0,
+        2334,
+        1020
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/07-Magpie-Plugins-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/07.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/07-Magpie-Plugins-v01.png"
+      ],
+      "caption": "Magpie 已安装的插件，包括 Qoder 与 WorkBuddy",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        0,
+        0,
+        2334,
+        960
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08a-WorkBuddy-多账号-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/08a.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08a-WorkBuddy-多账号-v01.png"
+      ],
+      "caption": "Magpie 中的 WorkBuddy 多账号，账号名已打码",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        560,
+        130,
+        1785,
+        1180
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/08b-WorkBuddyAI-多账号-v01.png",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/08b.png",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/08b-WorkBuddyAI-多账号-v01.png"
+      ],
+      "caption": "Magpie 中的 WorkBuddy AI 多账号，邮箱已打码",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        560,
+        130,
+        1785,
+        1400
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py"
+    },
+    {
+      "path": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.gif",
+      "remote_src": "https://wechat-official.local/materials/caishu-20261027-magpie-token/09.gif",
+      "source_images": [
+        "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/原始/09-Harness-WorkBuddy-真实输出-v01.mp4"
+      ],
+      "caption": "WorkBuddy DeepSeek 真实输出，界面本次显示 111 tok/s",
+      "kind": "screenshot",
+      "transform": "crop-and-frame",
+      "crop": [
+        390,
+        80,
+        2130,
+        1640
+      ],
+      "renderer": "/Users/henry/Desktop/财叔 AI Lab/.agents/scripts/build_caishu_wechat_images.py",
+      "media_type": "gif",
+      "provenance": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/02_素材/正文图/09-Harness-真实输出-v03.provenance.json"
+    }
+  ],
+  "source_baseline": "/Users/henry/Desktop/财叔 AI Lab/03_内容生产/项目/2026-10-27-Magpie-Token自由/公众号/01_正文/正文-v05.md",
+  "source_baseline_sha256": "f357d1bfd9d3db00000a373d08e23b882b4fab3e476ebff48c29190243df39e8",
+  "notes": [
+    "用户已明确取消配图02，发布HTML无该图及其替代图。",
+    "v06只插入配图引用和固定结构标记，v05原稿不变，原文全文一致性检查通过。",
+    "remote_src是官方上传适配器使用的逻辑映射，推送时直接上传本地文件并替换为微信CDN地址。"
+  ]
+}

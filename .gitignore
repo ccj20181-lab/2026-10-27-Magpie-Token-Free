@@ -1,0 +1,15 @@
+# Local system files and installed dependencies
+.DS_Store
+._*
+node_modules/
+node_modules
+__pycache__/
+*.pyc
+
+# Local credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key

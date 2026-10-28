@@ -1,0 +1,12 @@
+{
+  "style_id": "caishu-editorial-v1",
+  "brand_profile": "caishu_ai_lab",
+  "source": "user-approved WorkBuddy v06 / 2026-10-23",
+  "files": {
+    "src/motion/caishu-editorial-v1/tokens.ts": "cdd37a8c2ad052f0942ead2de0805e3b094f01b0f4b42f1b88024c8e1e110970",
+    "src/motion/caishu-editorial-v1/timing.ts": "45ee283aabd1e71db2f409db9801c534e07a9a92bc638a5d19d4123ea36cb77e",
+    "src/motion/caishu-editorial-v1/primitives.tsx": "5bd42394e0ef54d2e469d3546c49fb8daa9a3e420f8cd769c3e602d419ec6f8e",
+    "src/motion/caishu-editorial-v1/diagrams.tsx": "61ef218877ef013fa1326027a27c07ce2a570def840dacaaadaa0d4e2ce81b27"
+  },
+  "scope": "visual and motion primitives; no episode facts, narration, media, registry or brand assets overwritten"
+}
